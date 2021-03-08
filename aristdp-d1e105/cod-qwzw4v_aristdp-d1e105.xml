@@ -1,0 +1,2773 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Liber 8</title>
+            <author ref="#Aristotle">Aristotle</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Liber 8</title>
+               <date when="2021-03-08">March 8, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="J" n="cod-qwzw4v">Juntina, Venice 1562</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-03-08" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#J" n="343-r"/>
+            <cb ed="#J" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="aristdp-d1e105">
+            <head xml:id="aristdp-d1e105-Hd1e107">Liber 8</head>
+            <p xml:id="aristdp-d1e105-d1e110"><!-- l8-i-1 -->
+               <lb ed="#J" n="49"/>Vtrum autem motus 
+      aliquan<lb ed="#J" n="50" break="no"/>do fuit, &amp; non fuit, &amp; 
+      corrum<lb ed="#J" n="51" break="no"/>petur in corruptione, in qua nihil 
+      <lb ed="#J" n="52"/>mouebitur omnino. aut motus nec 
+      <lb ed="#J" n="53"/>fuit generatus, neque 
+      corrumpe<lb ed="#J" n="54" break="no"/>tur, sed semper fuit, &amp; semper  
+      <lb ed="#J" n="55"/>erit, &amp; hoc non habet 
+      corruptio<lb ed="#J" n="56" break="no"/>nem, nec fugit ab entibus, sed est, 
+      <lb ed="#J" n="57"/>quasi vita omnibus, quae 
+      consti<lb ed="#J" n="58" break="no"/>tuuntur per naturam. Omnis enim 
+      <lb ed="#J" n="59"/>qui aliquid dixit de natura, dixit 
+      <lb ed="#J" n="60"/>motum esse. non enim possunt 
+      lo<lb ed="#J" n="61" break="no"/>qui de factura mundi, &amp; consyde 
+      <lb ed="#J" n="62"/>rare in eo, secundum quod currit 
+      <lb ed="#J" n="63"/>generatio, &amp; corruptio, si motus 
+      <lb ed="#J" n="64"/>non sit. Sed dicentes plures mun 
+      <lb ed="#J" n="65"/>dos infinitos esse, quorum quidam 
+      <lb ed="#J" n="66"/>generatur, &amp; quidam corrumpi 
+      <lb ed="#J" n="67"/>tur, dicunt motum aeternum esse. 
+      <lb ed="#J" n="68"/>modos enim generationis, &amp; 
+      cor<lb ed="#J" n="69" break="no"/>ruptionis cum motibus esse 
+      neces<lb ed="#J" n="70" break="no"/>se est. Dicentes uero unum 
+      mun<lb ed="#J" n="71" break="no"/>dum esse, &amp; non aeternum, 
+      secun<lb ed="#J" n="72" break="no"/>dum hoc etiam litigant de motu. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e166"><!-- l8-i-2 -->
+               <lb ed="#J" n="17"/>Si igitur possibile est in aliqua 
+      <lb ed="#J" n="18"/>hora nihil moueri, necesse est hoc 
+      <lb ed="#J" n="19"/>accidere duobus modis. Aut sicut 
+      <lb ed="#J" n="20"/>dixit Anaxagoras, qui d. quod  
+      <lb ed="#J" n="21"/>dia fuerunt insimul, &amp; 
+      quiescen<lb ed="#J" n="22" break="no"/>tia tempore infinito, et quod intel 
+      <lb ed="#J" n="23"/>ligentia fecit in eis motum, et 
+      di<lb ed="#J" n="24" break="no"/>stinxit ea. Aut sicut dixit 
+      Empe<lb ed="#J" n="25" break="no"/>docles, quod quandoque, mouentur, et  
+      <lb ed="#J" n="26"/>quandoque quiescunt. mouentur enim 
+      <lb ed="#J" n="27"/>quando amicitia facit de pluribus 
+      <lb ed="#J" n="28"/>unum, aut quando lis facit de uno 
+      <lb ed="#J" n="29"/>plura, &amp; quiescut in temporibus, 
+      <lb ed="#J" n="30"/>quae sunt interim, cum dixit. Secum 
+      <lb ed="#J" n="31"/>dum autem quod unum innatum 
+      <lb ed="#J" n="32"/>est oriri ex pluribus, Et quod com 
+      <lb ed="#J" n="33"/>pletum est unum, rarificantur ex 
+      <lb ed="#J" n="34"/>eo plura, Secundum hunc modis 
+      ge<lb ed="#J" n="35" break="no"/>nerantur, &amp; sic non erit secudum 
+      <lb ed="#J" n="36"/>eos aeternum. Secudum uero quod  
+      <lb ed="#J" n="37"/>haec duo mutantur, et non 
+      finiun<lb ed="#J" n="38" break="no"/>tur cum hoc, Secundum hunc mo 
+      <!--Averroes_Physica_JuntSecunda_04-0686.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="39" break="no"/>dum semper mouentur 
+      circulari<lb ed="#J" n="40" break="no"/>ter. intelligendum enim est ex hoc, 
+      <lb ed="#J" n="41"/>quod dixit, secundum uero quod  
+      <lb ed="#J" n="42"/>haec duo, idest secundum uero quod 
+      <lb ed="#J" n="43"/>haec duo transmutantur. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e232"><!-- l8-i-3 -->
+               <lb ed="#J" n="51"/>Et oportet nos consyderare de 
+      <lb ed="#J" n="52"/>hoc, qnousque sciamus quomodo  
+      <lb ed="#J" n="53"/>est. hoc enim non tantu est utile 
+      <lb ed="#J" n="54"/>in uere sciendo aliquid in scientia 
+      <lb ed="#J" n="55"/>naturali tantum, sed etiam 
+      pro<lb ed="#J" n="56" break="no"/>dest in uia inducente ad consydera 
+      <lb ed="#J" n="57"/>tionem de primo principio, 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e251"><!-- l8-i-4 -->
+               <lb ed="#J" n="10"/>incipiamus igitur ex praedictis, 
+      <lb ed="#J" n="11"/>in quibus praediximus 
+      distinctio<lb ed="#J" n="12" break="no"/>nem, &amp; determinationem in 
+      arti<lb ed="#J" n="13" break="no"/>bus &amp; nos incipiemus in rebus de 
+      <lb ed="#J" n="14"/>terminatis prius in rebus naturali 
+      <lb ed="#J" n="15"/>bus. Dicamus igitur quod motus 
+      <lb ed="#J" n="16"/>est actus, eius quod innatu est 
+      mo<lb ed="#J" n="17" break="no"/>ueri, secudum quod innatu est moue 
+      <lb ed="#J" n="18"/>ri. Necesse est igitur illa esse, in 
+      <lb ed="#J" n="19"/>quorum potentia est moueri vno 
+      <lb ed="#J" n="20"/>quoque, motuum. Et sine hac 
+      defini<lb ed="#J" n="21" break="no"/>tione es homines concedunt quod 
+      <lb ed="#J" n="22"/>non est necesse moueri nisi illud, 
+      <lb ed="#J" n="23"/>quod potest moueri: &amp; hoc 
+      neces<lb ed="#J" n="24" break="no"/>se est unoquoque, motuum uerbi gra. 
+      <lb ed="#J" n="25"/>quod non alteratur nisi illud, quod 
+      <lb ed="#J" n="26"/>innatum est alterari, nec 
+      transfe<lb ed="#J" n="27" break="no"/>tur nisi illud, quod innatu est 
+      tras<lb ed="#J" n="28" break="no"/>ferri in loco. necesse est igitur ui 
+      <lb ed="#J" n="29"/>res sit innata comburi prius, 
+      an<lb ed="#J" n="30" break="no"/>tequam comburatur, &amp; combure 
+      <lb ed="#J" n="31"/>re, antequam comburat. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e303"><!-- l8-i-5 -->
+               <lb ed="#J" n="69"/>Ista etiam necesse est, aut ut 
+      <lb ed="#J" n="70"/>non sint talia, nisi in aliqua hora 
+      <lb ed="#J" n="71"/>absque eo, quod talia erant, aut 
+      <lb ed="#J" n="72"/>ut sint talia aeterne.
+  </p>
+            <p xml:id="aristdp-d1e105-d1e315"><!-- l8-i-6 -->
+               <lb ed="#J" n="28"/>Si igitur unumquodque 
+      mobi<lb ed="#J" n="29" break="no"/>tium non mouetur, nisi postquam 
+      <lb ed="#J" n="30"/>in sua potentia erit ut moueretur, 
+      <lb ed="#J" n="31"/>necesse est ut ante 
+      transmutatio<lb ed="#J" n="32" break="no"/>nem dictam, fuisset alia transmu 
+      <lb ed="#J" n="33"/>tatio, &amp; motus, in quo suit 
+      possi<lb ed="#J" n="34" break="no"/>bile moueri, aut mouere. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e334"><!-- l8-i-7 -->
+      <!--Averroes_Physica_JuntSecunda_04-0692.xml-->
+               <cb ed="#J" n="b"/>
+               <lb ed="#J" n="43"/>Et, si in praeterito semper fuerit, 
+      <lb ed="#J" n="44"/>talis dispositionis, sed non fuit 
+      mo<lb ed="#J" n="45" break="no"/>tus, apparebit ex isto ipso sermone 
+      <lb ed="#J" n="46"/>cum fuerit consyderatus ipsum non 
+      <lb ed="#J" n="47"/>habere modu: &amp; hoc apparet ma 
+      <lb ed="#J" n="48"/>nifeste. Et sequitur in eo magna 
+      i<lb ed="#J" n="49" break="no"/>probabilitas, quando 
+      inuestigaue<lb ed="#J" n="50" break="no"/>rit quis bene. Quoniam, si illa, quae  
+      <lb ed="#J" n="51"/>innata sunt mouere, &amp; illa, quae  
+      <lb ed="#J" n="52"/>innata sunt moueri, sint, &amp; quan 
+      <lb ed="#J" n="53"/>doque erit hic primus motor, &amp;  
+      <lb ed="#J" n="54"/>erit hoc motum, &amp; quandoque non 
+      <lb ed="#J" n="55"/>erit utrumque, sed quies, necesse est 
+      <lb ed="#J" n="56"/>ut in hac dispositione ante illud sit 
+      <lb ed="#J" n="57"/>transmutatio. quies enim aliquam 
+      <lb ed="#J" n="58"/>habuit causam. nam quies est 
+      pri<lb ed="#J" n="59" break="no"/>uatio motus. quapropter necesse est 
+      <lb ed="#J" n="60"/>ut ante primam transmutatione, 
+      <lb ed="#J" n="61"/>sit transmutatio praecedens. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e383"><!-- l8-i-8 -->
+               <lb ed="#J" n="74"/>Et quaedam mouent 
+      singulari<lb ed="#J" n="75" break="no"/>ter, &amp; quaedam mouent duos 
+      mo<lb ed="#J" n="76" break="no"/>tus insimulauterbi gratia quoniam 
+      <lb ed="#J" n="77"/>ignis calefacit, &amp; non infrigidat: 
+      <lb ed="#J" n="78"/>cognitio uero existimatur esse duo 
+      <lb ed="#J" n="79"/>rum contrariorum eadem. Sed ap 
+      <lb ed="#J" n="80"/>paret etia illic aliquod simile hoc 
+      <lb ed="#J" n="81"/>modo. frigus enim quandoque cale 
+      <lb ed="#J" n="82"/>facit, quandoque, reuertitur quoquo 
+      <lb ed="#J" n="83"/>modo, sicut sciens peccat quadoque, 
+      <!--Averroes_Physica_JuntSecunda_04-0694.xml-->
+      <pb ed="#J" n="343-v"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1"/>quando utitur sua scientia perues 
+      <lb ed="#J" n="2"/>se. Sed non omnia, quae possunt age 
+      <lb ed="#J" n="3"/>re, aut pati, aut mouere, aut moue 
+      <lb ed="#J" n="4"/>ri, necessario possunt hoc, sed quan 
+      <lb ed="#J" n="5"/>do fuerint talis dispositionis, aut 
+      <lb ed="#J" n="6"/>quando fuerint uicinantia sibi ad 
+      <lb ed="#J" n="7"/>inuicem: ita, quod quando fuerini 
+      <lb ed="#J" n="8"/>uicinantia sibi, hoc mouebit, &amp; 
+      <lb ed="#J" n="9"/>hoc mouebitur, &amp; cum fuerint in 
+      <lb ed="#J" n="10"/>illa dispositione, in qua hoc 
+      inna<lb ed="#J" n="11" break="no"/>tum erit mouere. &amp; hoc innatum 
+      <lb ed="#J" n="12"/>est moueri.
+  </p>
+            <p xml:id="aristdp-d1e105-d1e441"><!-- l8-i-9 -->
+               <lb ed="#J" n="66"/>Si igitur non fuerint semper mo 
+      <lb ed="#J" n="67"/>ta, manifestum est quod non erant 
+      <lb ed="#J" n="68"/>illius dispositionis, in qua hoc pote 
+      <lb ed="#J" n="69"/>rat mouere, &amp; hoc moueri, sed al 
+      <lb ed="#J" n="70"/>terum eoru transmutatur. necesse 
+      <lb ed="#J" n="71"/>est enim hoc sequi in eis, quae sunt 
+      <lb ed="#J" n="72"/>in capitulo ad aliquid. uerbi gra 
+      <lb ed="#J" n="73" break="no"/>tia quod, si hoc non fuerit duplum 
+      <lb ed="#J" n="74"/>istius, &amp; est modo necesse est 
+      tras<lb ed="#J" n="75" break="no"/>mutationem esse, &amp; si non in utro 
+      <lb ed="#J" n="76"/>que, in altero. quapropter necesse 
+      <lb ed="#J" n="77"/>est ut primam transmutationem 
+      <lb ed="#J" n="78"/>praecedat transmutatio, 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e473"><!-- l8-i-10 -->
+               <lb ed="#J" n="7"/>Deinde cum hoc, quomodo potest 
+      <lb ed="#J" n="8"/>esse prius, &amp; posterius, si 
+      tempu<lb ed="#J" n="9" break="no"/>non sit:s &amp; quomodo erit tempus si 
+      <lb ed="#J" n="10"/>motus non sit: Si igitur tempus est 
+      <lb ed="#J" n="11"/>numerus motus, aut alicuius 
+      mo<lb ed="#J" n="12" break="no"/>tus, tunc tempus, si fuerit aeternu. 
+      <lb ed="#J" n="13"/>necesse est vt motus sit aeternus. 
+      <lb ed="#J" n="14"/>Sed videmus omnes, praeter vnu, 
+      <lb ed="#J" n="15"/>conuenire in hoc de tempore. dicut 
+      <lb ed="#J" n="16"/>enim ipsum esse non generatum. i. 
+      <lb ed="#J" n="17"/>non nouum. &amp; per hoc declarat 
+      <lb ed="#J" n="18"/>Democritus impossibile omnia 
+      es<lb ed="#J" n="19" break="no"/>se generata. dixit, quia tempus est 
+      <lb ed="#J" n="20"/>non generatum. Plato vero 
+      gene<lb ed="#J" n="21" break="no"/>rat ipsum. dicit enim ipsum 
+      gene<lb ed="#J" n="22" break="no"/>rar: cum coelo: &amp; quod coelum est 
+      <lb ed="#J" n="23"/>generatum, &amp; nouum. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e514"><!-- l8-i-11 -->
+               <lb ed="#J" n="12"/>Et etiam, si impossibile est vt sit 
+      <lb ed="#J" n="13"/>tempus, aut vt intelligatur extra 
+      <lb ed="#J" n="14"/>instans: &amp; instans est medium, et 
+      <lb ed="#J" n="15"/>est principium, &amp; finis, sed princi 
+      <lb ed="#J" n="16"/>pium temporis futuri, &amp; finis tem 
+      <lb ed="#J" n="17"/>poris praeteriti: necesse est vt 
+      tem<lb ed="#J" n="18" break="no"/>pus sit aeternum. quoniam, si fuerit 
+      <lb ed="#J" n="19"/>acceptum vltimum tempus, post 
+      <lb ed="#J" n="20"/>quod non est tempus, necesse est vt 
+      <lb ed="#J" n="21"/>sit in aliqua hora. impossibile est 
+      <lb ed="#J" n="22"/>enim vt in tempore sit aliquid om 
+      <lb ed="#J" n="23"/>nino, nisi instans. Si igitur instans 
+      <lb ed="#J" n="24"/>est principium, &amp; finis, necesse est 
+      <lb ed="#J" n="25"/>vt etiam ex vtraque parte sit 
+      tem<lb ed="#J" n="26" break="no"/>Vpus. si igitur fuerit ex vtraque 
+      par<lb ed="#J" n="27" break="no"/>te tempus, manifestum est vt mo 
+      <lb ed="#J" n="28"/>tus sit etiam. tempus enim est aliquod 
+      <lb ed="#J" n="29"/>accidentium motus. 
+  </p>
+            <p xml:id="aristdp-d1e105-d1e557"><!-- l8-i-12 -->
+               <lb ed="#J" n="56"/>Et iste idem sermo dicitur in 
+      <lb ed="#J" n="57"/>hoc quod motus non corrumpitur. 
+      <lb ed="#J" n="58"/>Quoniam, sicut contingit dicentibus 
+      <lb ed="#J" n="59"/>motu generari, vt trasmutatio 
+      ali<lb ed="#J" n="60" break="no"/>qua praecedat primam transmuta 
+      <lb ed="#J" n="61"/>tionem, ita cotingit hic, vt aliqua 
+      <lb ed="#J" n="62"/>trasmutatio sit post vltimam tras 
+      <lb ed="#J" n="63"/>mutationem. quonia aliquid cessa, 
+      <lb ed="#J" n="64"/>re a motu, &amp; cessare ab hoc, quod  
+      <lb ed="#J" n="65"/>innatum est moueri. non sunt 
+      insi<lb ed="#J" n="66" break="no"/>mul.9. g: vt comburatur, &amp; vt sit 
+      <lb ed="#J" n="67"/>innatu coburi. quonia possibile est 
+      <lb ed="#J" n="68"/>vt sit inatu coburi absqueo, quod com 
+      <lb ed="#J" n="69"/>buratur. neque, etiam aliquid cessare 
+      <lb ed="#J" n="70"/>ab hoc, vt sit innatu mouere &amp;  
+      <lb ed="#J" n="71"/>cessare a mouere erunt insimul. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e595"><!-- l8-i-13 -->
+               <lb ed="#J" n="31"/>Et etiam necesse est vt corrum 
+      <lb ed="#J" n="32"/>pens eorrupatur: quado corrupet. 
+      <lb ed="#J" n="33"/>&amp; quod illud, quod corrupit istud 
+      <lb ed="#J" n="34"/>corrupatur etiam, postquam corrupit 
+      <lb ed="#J" n="35"/>illud, corruptio enim est aliqua trans 
+      <lb ed="#J" n="36"/>mutatio. Et, cum hoc fuerit impos 
+      <lb ed="#J" n="37"/>sibile, manifestu est quod motus est 
+      <lb ed="#J" n="38"/>aeternus, &amp; quod no est quandoque. 
+      <lb ed="#J" n="39"/>&amp; quadoque, no. &amp; quod sermo dice 
+      <lb ed="#J" n="40"/>tis hoc magis assimilatur stulto.
+  </p>
+            <p xml:id="aristdp-d1e105-d1e620"><!-- l8-i-14 -->
+               <lb ed="#J" n="40"/>Et sermo dicentium hoc, magis 
+      <lb ed="#J" n="41"/>assimilatur figmento. &amp; similiter 
+      <lb ed="#J" n="42"/>eius, qui dixit quod sic debet curre 
+      <!--Averroes_Physica_JuntSecunda_04-0703.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="43"/>re natura rerum, &amp; qui existima. 
+      <lb ed="#J" n="44"/>uit quod principium est illud, de 
+      <lb ed="#J" n="45"/>quo diximus ipsum esse, secundum 
+      <lb ed="#J" n="46"/>quod fecit similitudinem Empedo 
+      <lb ed="#J" n="47"/>cles de dominio amicitiae, &amp; litis, 
+      <lb ed="#J" n="48"/>huius quadoque, &amp; huius quadoque, 
+      <lb ed="#J" n="49"/>quae mouet res necessario, et quies 
+      <lb ed="#J" n="50"/>existit interim in tempore. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e652"><!-- l8-i-15 -->
+               <lb ed="#J" n="69"/>Et forte etiam illi, qui ponunt 
+      <lb ed="#J" n="70"/>principium vnum, sicut 
+      Anaxa<lb ed="#J" n="71" break="no"/>goras, ratiocinantur tali ratione. 
+      <lb ed="#J" n="72"/>Sed nihil omnino naturale aut cur 
+      <lb ed="#J" n="73"/>rens cursu naturali est sine ordine. 
+      <lb ed="#J" n="74"/>natura enim est cam ordinis in oni, in quo 
+      <lb ed="#J" n="75"/>est. &amp; non est de actione naturae, 
+      <lb ed="#J" n="76"/>aliquo mo vt omnia sint 
+      quiescen<lb ed="#J" n="77" break="no"/>tia tempore infinito, &amp; post moue 
+      <lb ed="#J" n="78"/>antur quandoque. Et nulla differen 
+      <lb ed="#J" n="79"/>tia est in hoc omnino, faciens quod  
+      <lb ed="#J" n="80"/>motus sit magis nunc, quam ante. 
+      <!--Averroes_Physica_JuntSecunda_04-0705.xml-->
+      <pb ed="#J" n="349-r"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1"/>&amp; nullus ordo erit in hoc aliquo 
+      <lb ed="#J" n="2"/>modo. quod enim currit secundum na 
+      <lb ed="#J" n="3"/>turam aut erit simplex ita, quod  
+      <lb ed="#J" n="4"/>non sit quandoque, tale, &amp; 
+      quando<lb ed="#J" n="5" break="no"/>que tale. ver. g. quod ignis ascendit  
+      <lb ed="#J" n="6"/>superius naturaliter, absque eo, quod  
+      <lb ed="#J" n="7"/>quandoque, est ascendens, &amp; 
+      quan<lb ed="#J" n="8" break="no"/>doque non: aut, si non fuerit semper  
+      <lb ed="#J" n="9"/>vnius modi, conseruabit aliquam 
+      <lb ed="#J" n="10"/>proportionem. Et ideo sermo 
+      Em<lb ed="#J" n="11" break="no"/>pedoclis est melior, scilicet quod totum 
+      <lb ed="#J" n="12"/>quiescit quadoque, deinde mouetur. 
+      <lb ed="#J" n="13"/>iste enim sermo facit aliquem ordinem, 
+      <lb ed="#J" n="14"/>Sed deberet dicens hunc sermone 
+      <lb ed="#J" n="15"/>non esse contentus in dicendo illum 
+      <lb ed="#J" n="16"/>narratione tantum, sed deberet 
+      di<lb ed="#J" n="17" break="no"/>cere causam eius, &amp; non deberet 
+      <lb ed="#J" n="18"/>aliquid ponere sine aliqua ratioe, 
+      <lb ed="#J" n="19"/>sed aut inductione, aut demonstra 
+      <lb ed="#J" n="20"/>tione illud affirmare. ista enim posita 
+      <lb ed="#J" n="21"/>non sunt causae. nec iste etiam, sed alia 
+      <lb ed="#J" n="22"/>res sunt per amicitiam, aut per 
+      li<lb ed="#J" n="23" break="no"/>tem, &amp; illa congregat, &amp; ista se 
+      <lb ed="#J" n="24"/>gregat. Et, si haec duo sint determi 
+      <lb ed="#J" n="25"/>nata ialiquibus duobus diuersis 
+      <lb ed="#J" n="26"/>oportet dicere illa duo, quae sunt: si 
+      <lb ed="#J" n="27"/>cut est determinatum in 
+      homini<lb ed="#J" n="28" break="no"/>bus, quod illud, quod cogregat eos 
+      <lb ed="#J" n="29"/>est amor, &amp; quod inimici sunt 
+      il<lb ed="#J" n="30" break="no"/>li, qui fugiunt se adinuicem. ponit 
+      <lb ed="#J" n="31"/>enim quod in toto etiam est talis cur 
+      <lb ed="#J" n="32"/>sus. &amp; dicunt quoniam hoc 
+      exi<lb ed="#J" n="33" break="no"/>stit in quibusdam rebus. sed hoc 
+      <lb ed="#J" n="34"/>existere in temporibus aequalibus 
+      <lb ed="#J" n="35"/>etiam indiget ratione verificante 
+      <lb ed="#J" n="36"/>illud. Et vniuersaliter existimare 
+      <!--Averroes_Physica_JuntSecunda_04-0705.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="37"/>quod principium sufficiens in hoc I 
+      <lb ed="#J" n="38"/>est, quod semper talis est cursus 
+      <lb ed="#J" n="39"/>&amp; quod semper talis erit, non est 
+      <lb ed="#J" n="40"/>rectum. &amp; hoc est illud, ad quod 
+      <lb ed="#J" n="41"/>reddit Democritus causas, in 
+      natu<lb ed="#J" n="42" break="no"/>ra, scilicet quod primus fuit, &amp; non 
+      fin<lb ed="#J" n="43" break="no"/>xit: &amp; non oportet quaerere 
+      qua<lb ed="#J" n="44" break="no"/>liter semper fuit principium. &amp;  
+      <lb ed="#J" n="45"/>hoc iudicium in quibusdam rebus 
+      <lb ed="#J" n="46"/>non est verum. triangulus enim 
+      sem<lb ed="#J" n="47" break="no"/>per habet angulos aequales duobus 
+      <lb ed="#J" n="48"/>rectis, sed principium est ad hano 
+      <lb ed="#J" n="49"/>rem aeternam. principia vero non T 
+      <lb ed="#J" n="50"/>habent alias causas, &amp; sunt aeter 
+      <lb ed="#J" n="51"/>nae. Hoc igitur sit dictum in hoc 
+      <lb ed="#J" n="52"/>quod non erat, aut erit tempus 
+      <lb ed="#J" n="53"/>cum motus non erat, aut non erit. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e807"><!-- l8-i-16 -->
+               <lb ed="#J" n="58"/>Et non est difficile dissoluere in 
+      <lb ed="#J" n="59"/>lud, per quod contradicitur huic. 
+      <lb ed="#J" n="60"/>illa autem, ex quibus existimatur 
+      <lb ed="#J" n="61"/>cum consyderatu fuerit de motu, 
+      pos<lb ed="#J" n="62" break="no"/>sibile esse quod motus sit quadoque, 
+      <lb ed="#J" n="63"/>ita, quod ante non fuit omnino, sunt 
+      <lb ed="#J" n="64"/>ista prima. Quia non erit transmu 
+      <lb ed="#J" n="65"/>tatio aeterna omo. omnis enim trasmu 
+      <lb ed="#J" n="66"/>tatio est ex aliquo in aliquid. et io 
+      <lb ed="#J" n="67"/>necesse est vt duo contraria, in qui 
+      <lb ed="#J" n="68"/>bus est transmutatio, sint fines cu 
+      <lb ed="#J" n="69"/>iuslibet transmutationis: &amp; 
+      ni<lb ed="#J" n="70" break="no"/>hil mouetur sine fine. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e840"><!-- l8-i-17 -->
+               <lb ed="#J" n="56"/>Et etiam videmus quod possibile 
+      <lb ed="#J" n="57"/>est, vt moueatur illud, quod no est 
+      <lb ed="#J" n="58"/>motum, neque, in eo est motus 
+      omni<lb ed="#J" n="59" break="no"/>no. v. g. in non animatis. videmus 
+      <lb ed="#J" n="60"/>enim istas res, quod nec pars rei 
+      mo<lb ed="#J" n="61" break="no"/>uetur, nec totum, sed est quiesces, 
+      <lb ed="#J" n="62"/>deinde mouetur quandoque, &amp; esset 
+      <lb ed="#J" n="63"/>necesse aut vt no moueretur in 
+      ali<lb ed="#J" n="64" break="no"/>qua hora, si motus non sit, postquam 
+      <lb ed="#J" n="65"/>non fuit, aut moueretur semper. 
+      <lb ed="#J" n="66"/>Et hoc magis apparet in 
+      habenti<lb ed="#J" n="67" break="no"/>bus animas. quandoque enim sumus 
+      <lb ed="#J" n="68"/>quiescentes, &amp; nullus motus 
+      exi<lb ed="#J" n="69" break="no"/>stit in nobis omnino, deinde 
+      moue<lb ed="#J" n="70" break="no"/>bimur, &amp; fiet in nobis ex 
+      nobil<lb ed="#J" n="71" break="no"/>metipsis principium motus, licet 
+      <lb ed="#J" n="72"/>nullum extrinsecum moueat nos. 
+      <lb ed="#J" n="73"/>hoc enim non videtur hmoi in vita ea 
+      <lb ed="#J" n="74"/>rentibus. sed ista semper 
+      mouen<lb ed="#J" n="75" break="no"/>tur ab aliqio extrinseco alio. 
+      Vi<lb ed="#J" n="76" break="no"/>uum aut dicitur mouere se. &amp; to, 
+      <lb ed="#J" n="77"/>cum quandoque, sit quiesces 
+      comple<lb ed="#J" n="78" break="no"/>te, necesse est vt fiat i eo, quod mo 
+      <lb ed="#J" n="79"/>uetur, motus ex se, non 
+      extrinse<lb ed="#J" n="80" break="no"/>cus. Quoniam, si hoc possibile est 
+      <!--Averroes_Physica_JuntSecunda_04-0713.xml-->
+      <pb ed="#J" n="353-r"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1"/>vt siat in animalibus, quid igitur 
+      <lb ed="#J" n="2"/>prohibet vt hoc sit in toto etiam squo 
+      <lb ed="#J" n="3"/>niam, si hoc est in mudo paruo, est 
+      <lb ed="#J" n="4"/>etiam in magno. &amp;, si est in mun 
+      <lb ed="#J" n="5"/>do, erit etiam in infinito: si sit 
+      pos<lb ed="#J" n="6" break="no"/>sibile, vt infinitum moueatur, et 
+      <lb ed="#J" n="7"/>quiescat secundum totum. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e919"><!-- l8-i-18 -->
+               <lb ed="#J" n="61"/>Dicamus igitur ad hoc. sermo 
+      <lb ed="#J" n="62"/>aut, qui primo fuit dictus scilicet quod  
+      <lb ed="#J" n="63"/>motus ad contraria non est semper  
+      <lb ed="#J" n="64"/>idem in numero, rectus est. dignius 
+      <lb ed="#J" n="65"/>est igitur, vt sit necessarium, si mo 
+      <lb ed="#J" n="66"/>tus eiusdem rei non semper est 
+      possi<lb ed="#J" n="67" break="no"/>bile vt sit idem scilicet v. g. vtrum sonus 
+      <lb ed="#J" n="68"/>eiusdem chordae sit idem, aut est 
+      <lb ed="#J" n="69"/>semper vnus post alium, licet chor 
+      <lb ed="#J" n="70"/>da sit eiusdem dispositiois. Et, licet 
+      <lb ed="#J" n="71"/>moueatur, sed secundum vtrumli, 
+      <lb ed="#J" n="72"/>bet istorum fuerit, nihil prohibet vt 
+      <lb ed="#J" n="73"/>sit hic vnus motus, ex hoc, quod est 
+      <lb ed="#J" n="74"/>continuus, &amp; aeternus. &amp; hoc 
+      de<lb ed="#J" n="75" break="no"/>clarabitur post magis. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e955"><!-- l8-i-19 -->
+               <lb ed="#J" n="56"/>Aliquid aut moueri, postqua 
+      <lb ed="#J" n="57"/>no mouebatur, non est inopinabile 
+      <lb ed="#J" n="58"/>cu positum fuerit quod motus illius 
+      <lb ed="#J" n="59"/>est extrinsecus ab eo. Et non 
+      inten<lb ed="#J" n="60" break="no"/>dimus hic qurere quo sit hoc, scilicet quo 
+      <lb ed="#J" n="61"/>erit illud, quod mouet, &amp; illud, 
+      <lb ed="#J" n="62"/>quod mouetur, &amp; est idem 
+      quan<lb ed="#J" n="63" break="no"/>doque mouens, quandoque non. dicens 
+      <lb ed="#J" n="64"/>en hoc non dubitat, nisi in hac 
+      in<lb ed="#J" n="65" break="no"/>tentione sola, scilicet quare 
+      quae<lb ed="#J" n="66" break="no"/>dam entia non sunt semper 
+      quie<lb ed="#J" n="67" break="no"/>scentia, et quaedam semper mota. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e985"><!-- l8-i-20 -->
+               <lb ed="#J" n="69"/>Sermo autem Tertius proprie 
+      <lb ed="#J" n="70"/>existimatur esse locus 
+      dubitatio<lb ed="#J" n="71" break="no"/>nis scilicet vt fiat motus, qui non fuit an 
+      <lb ed="#J" n="72"/>te: &amp; est illud, quod accidit in ha 
+      <lb ed="#J" n="73"/>bentibus animas. animal eni primo 
+      <lb ed="#J" n="74"/>quiescit, &amp; post ambulat sine 
+      ali<lb ed="#J" n="75" break="no"/>quo extrinseco mouente ipsum, 
+      se<lb ed="#J" n="76" break="no"/>cundum quod existimatur. Sed  
+      <lb ed="#J" n="77"/>hoc est falsum. semper enim 
+      inueni<lb ed="#J" n="78" break="no"/>mus aliquid moueri in animali. 
+      <lb ed="#J" n="79"/>quod est naturale i eo, &amp; ea istius 
+      <lb ed="#J" n="80"/>motus animalis non est anima eius, 
+      <lb ed="#J" n="81"/>sed aer, qui continet animal in eo, 
+      <lb ed="#J" n="82"/>quod reputo. Et, cu dicimus ipsum 
+      <!--Averroes_Physica_JuntSecunda_04-0717.xml-->
+      <pb ed="#J" n="355-r"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1"/>moueri a se, non intendimus omni 
+      <lb ed="#J" n="2"/>motu, sed motu locali. Et nihil pro 
+      <lb ed="#J" n="3"/>hibet, immo dignum est vt sit 
+      ne<lb ed="#J" n="4" break="no"/>cessarium, vt in corpore siant 
+      plu<lb ed="#J" n="5" break="no"/>res motus a continente, quoru 
+      qui<lb ed="#J" n="6" break="no"/>dam mouent voluntate, et 
+      appeti<lb ed="#J" n="7" break="no"/>tum, &amp; tunc ista mouebunt 
+      ani<lb ed="#J" n="8" break="no"/>mal secundum totum. v. g. hoc, quod 
+      <lb ed="#J" n="9"/>accidit apud somnum. quoniam, 
+      li<lb ed="#J" n="10" break="no"/>cet dormiens non habet motum sen 
+      <lb ed="#J" n="11"/>sus omnino, tamen animal non ex 
+      <lb ed="#J" n="12"/>tergefit a somno, nisi quia aliquu 
+      <lb ed="#J" n="13"/>motus est in eo. sed hoc etiam 
+      ap<lb ed="#J" n="14" break="no"/>parebit in sequentibus. 
+  </p>
+            <p xml:id="aristdp-d1e105-d1e1056"><!-- l8-i-21 -->
+               <lb ed="#J" n="48"/>Et principium istius perscruta. 
+      <lb ed="#J" n="49"/>tionis est, quod dictum fuit in quae  
+      <lb ed="#J" n="50"/>stione praedicta, scilicet quare quaedam 
+      en<lb ed="#J" n="51" break="no"/>tia quandoque, mouentur, &amp; 
+      quan<lb ed="#J" n="52" break="no"/>doque quiescunt. Dicamus igitur, 
+      <lb ed="#J" n="53"/>quod necesse est aut vt omnia quie 
+      <lb ed="#J" n="54"/>scant semper, aut omnia moueantur 
+      <lb ed="#J" n="55"/>semper, aut vt quaedam moueantur. 
+      <lb ed="#J" n="56"/>&amp; quidam quiescant. Et istorum etiam 
+      <lb ed="#J" n="57"/>aut, vt illa, quae mouentur, 
+      moue<lb ed="#J" n="58" break="no"/>antur semper, &amp; illa, qui quiescut, 
+      <lb ed="#J" n="59"/>quiescant semper, aut vt omnia sint 
+      <lb ed="#J" n="60"/>nata eodem mo moueri, aut 
+      quie<lb ed="#J" n="61" break="no"/>scere, aut tertium remanens. possi 
+      <lb ed="#J" n="62"/>bile enim est vt entium quaedam non  
+      <lb ed="#J" n="63"/>moueantur semper, &amp; quaeda mo 
+      <lb ed="#J" n="64"/>ueantur semper, &amp; quida in quibus 
+      <lb ed="#J" n="65"/>succedit vtrunque, quod oportet nos 
+      <lb ed="#J" n="66"/>dicere. per illud enim dissoluetur quae i 
+      <lb ed="#J" n="67"/>stio contingens in hoc, &amp; 
+      comple<lb ed="#J" n="68" break="no"/>bitur ista scientia, in qua sumus.
+  </p>
+            <p xml:id="aristdp-d1e105-d1e1105"><!-- l8-i-22 -->
+               <lb ed="#J" n="77"/>Dicere autem omnia esse quie 
+      <lb ed="#J" n="78"/>scentia, &amp; quaerere rationem su 
+  <lb ed="#J" n="79" break="no"/>per hoc, &amp; dimittere testimoniu 
+      <lb ed="#J" n="80"/>sensus in hoc, est debilitatio discre 
+      <lb ed="#J" n="81"/>tionis, &amp; dubitatio in hoc est in  
+      <lb ed="#J" n="82"/>toto, non in parte. &amp; hoc etiam non so 
+      <lb ed="#J" n="83"/>lum modo contradicit scientiae Na 
+      <lb ed="#J" n="84"/>turali, sed &amp; omnibus scientis, 
+      <!--Averroes_Physica_JuntSecunda_04-0721.xml-->
+      <pb ed="#J" n="357-r"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1"/>&amp; omnibus opinionibus. omnia enim  
+      <lb ed="#J" n="2"/>ista vtutur motu. Et etiam, quem 
+      <lb ed="#J" n="3"/>admodum negare principia i Ma 
+      <lb ed="#J" n="4"/>thematicis, non est contradicere 
+      <lb ed="#J" n="5"/>Mathematico, &amp; similiter i 
+      alu<lb ed="#J" n="6" break="no"/>scientus, &amp; similiter negare hoc, 
+      <lb ed="#J" n="7"/>quod diximus modo, non est 
+      cotra<lb ed="#J" n="8" break="no"/>dicere Naturali. fundamentum 
+      <lb ed="#J" n="9"/>enim positum est ei, quod natura 
+      <lb ed="#J" n="10"/>principium motus est. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e1155"><!-- l8-i-23 -->
+               <lb ed="#J" n="52"/>Et fere sermo, dicens etiam quod  
+      <lb ed="#J" n="53"/>omnia mouentur est falsus, sed mi 
+      <lb ed="#J" n="54"/>nus extra naturam. natura enim 
+      <lb ed="#J" n="55"/>quietis, sicut &amp; motus. &amp; 
+      secun<lb ed="#J" n="56" break="no"/>dum hunc modum non est res 
+      na<lb ed="#J" n="57" break="no"/>turalis. Sed quidam dixerut quod 
+      <lb ed="#J" n="58"/>entia mota non sunt quaedam, &amp;  
+      <lb ed="#J" n="59"/>quaedam non mota, sed omnia 
+      mo<lb ed="#J" n="60" break="no"/>uentur, &amp; motus eorum est 
+      sem<lb ed="#J" n="61" break="no"/>per, sed hoc etiam absconditum est 
+      <lb ed="#J" n="62"/>a nostro sensu. Et isti homines, et si 
+      <lb ed="#J" n="63"/>non determinant quem motum in  
+      <lb ed="#J" n="64"/>tendant, aut si intendut omnes mo 
+      <lb ed="#J" n="65"/>tus, tamen non est difficile contra 
+      <lb ed="#J" n="66"/>dicere eis. impossibile est enim 
+      ali<lb ed="#J" n="67" break="no"/>quid augeri, aut diminui semper: 
+      <lb ed="#J" n="68"/>sed inter ea est medium scilicet illud, ad 
+      <lb ed="#J" n="69"/>quod peruenit augmentum, &amp; a 
+      <lb ed="#J" n="70"/>quo incoepit diminutio. Et iste 
+      ser<lb ed="#J" n="71" break="no"/>mo est similis ei, quod dicitur de 
+      <lb ed="#J" n="72"/>distillatione super lapides, &amp; diui 
+      <lb ed="#J" n="73"/>sioni lapidis a planta posita. est enim 
+      <lb ed="#J" n="74"/>quaestio similis praedictae. Si igitur, 
+      <lb ed="#J" n="75"/>nos dissoluerimus istam quaestionem, 
+      <lb ed="#J" n="76"/>statim dissoluemus hac quaestionem, 
+      <lb ed="#J" n="77"/>in qua sumus. &amp; bonus versifica 
+      <lb ed="#J" n="78"/>
+               <!-- line coord error -->
+               <!--Averroes_Physica_JuntSecunda_04-0723.xml-->
+               <pb ed="#J" n="358-r"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1" break="no"/>tor dixit quod distillatio continua 
+      <lb ed="#J" n="2"/>perforat lapidem Quaerendum est 
+      <lb ed="#J" n="3"/>ligitur, si acciderit vt lapis perfore 
+      <lb ed="#J" n="4"/>tur hoc modo a centum guttis 
+      di<lb ed="#J" n="5" break="no"/>stillatis. non enim est necesse, si figut 
+      <lb ed="#J" n="6"/>ta cadentes faciunt aliquam quan 
+      <lb ed="#J" n="7"/>titatem, vt medium fiat in medic 
+      <lb ed="#J" n="8"/>illius, sed ita est de gurtis, sicut de 
+      <lb ed="#J" n="9"/>motu nauis scilicet quod aliquantulum 
+      <lb ed="#J" n="10"/>guttarum mouet aliquam quanti 
+      <lb ed="#J" n="11"/>tatem. pars enim illarum non mouet 
+      <lb ed="#J" n="12"/>tempore omo illa quatitatem. illud 
+      <lb ed="#J" n="13"/>enim quod diuiditur per 
+      distillatio<lb ed="#J" n="14" break="no"/>nem, diuiditur in multas partes. 
+      <lb ed="#J" n="15"/>sed nulla illarum partium mouetur 
+      <lb ed="#J" n="16"/>per se, sed insimul mouentur. Ma 
+      <lb ed="#J" n="17"/>nifestum est igitur quod non est nt 
+      <lb ed="#J" n="18"/>cesse ex hoc, quod diminutio diuidi 
+      <lb ed="#J" n="19"/>tur in infinitum, quod ex 
+      diminu<lb ed="#J" n="20" break="no"/>to recedat semper aliquid, sed 
+      for<lb ed="#J" n="21" break="no"/>te recedet ipsum totum. Et fecudi 
+      <lb ed="#J" n="22"/>hunc modum est cursus de 
+      altera<lb ed="#J" n="23" break="no"/>tione etiam, quaecuque alteratio sit. 
+      <lb ed="#J" n="24"/>quonia no est necesse, si alteratum 
+      <lb ed="#J" n="25"/>diuiditur in infinitum, vt propter 
+      <lb ed="#J" n="26"/>hoc diuidatur etiam alteratio in  
+      <lb ed="#J" n="27"/>infinitum, sed multotiens erit subi 
+      <lb ed="#J" n="28"/>to, sicut est congelatio. Et etia 
+      pro<lb ed="#J" n="29" break="no"/>cessus infirmi ad sanitatem debet 
+      <lb ed="#J" n="30"/>esse in tempore. &amp; non erit trasmu 
+      <lb ed="#J" n="31"/>tatio eius in extremo temporis. &amp;  
+      <lb ed="#J" n="32"/>trasmutatio eius erit ad sanitatem, 
+      <lb ed="#J" n="33"/>non ad aliud. Sermo igitur dicetis 
+      <lb ed="#J" n="34"/>in habente hac dispositionem, quod  
+      <lb ed="#J" n="35"/>semper alteratur, est dubitatio in  
+      <!--Averroes_Physica_JuntSecunda_04-0723.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="36"/>eo, quod est valde manifestu. 
+      alte<lb ed="#J" n="37" break="no"/>ratio enim non est nisi ad contrarium. 
+      <lb ed="#J" n="38"/>Et etiam lapis non fit magis 
+      du<lb ed="#J" n="39" break="no"/>rus, &amp; magis mollis quam sit. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e1315"><!-- l8-i-24 -->
+               <lb ed="#J" n="29"/>Et mirum est etiam vt lapis in  
+      <lb ed="#J" n="30"/>suo motu tradatur ignorantiae in  
+      <lb ed="#J" n="31"/>suo descensu ad inferius, aut in 
+      su<lb ed="#J" n="32" break="no"/>quiete super terram, ita quod non  
+      <lb ed="#J" n="33"/>percipiatur. Et etia terra, &amp; vna 
+      <lb ed="#J" n="34"/>quaeque aliarum rerum sunt 
+      quie<lb ed="#J" n="35" break="no"/>scentes in suis locis propruis, et 
+      mo<lb ed="#J" n="36" break="no"/>biles ab eis violente. Si ergo quaedam 
+      <lb ed="#J" n="37"/>res sunt in suis locis proprus, sequi 
+      <lb ed="#J" n="38"/>tur vt non omnia moueantur. Ex 
+      <lb ed="#J" n="39"/>istis igitur, &amp; aliis similibus cre 
+      <!--Averroes_Physica_JuntSecunda_04-0728.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="40" break="no"/>ditur quod impossibile est vt omnia 
+      <lb ed="#J" n="41"/>moueantur semper, aut vt omnia quie 
+      <lb ed="#J" n="42"/>scant semper. Neque etiam est 
+      pos<lb ed="#J" n="43" break="no"/>sibile vt quaedam sint semper quie 
+      <lb ed="#J" n="44"/>scetia, &amp; quaedam semper mota, ita 
+      <lb ed="#J" n="45"/>quod nulla res moueatur quadoque, 
+      <lb ed="#J" n="46"/>&amp; quiescat quadoque. Et dicendum 
+      <lb ed="#J" n="47"/>est, in destruendo hoc, illud, quod 
+      di<lb ed="#J" n="48" break="no"/>ximus in destruendo illud, quod fuit 
+      <lb ed="#J" n="49"/>ante dictum. inuenimus enim mo 
+      <lb ed="#J" n="50"/>dos transmutationis, quos praedixi 
+      <lb ed="#J" n="51"/>mus, fieri in eisdem rebus. Et cum 
+      <lb ed="#J" n="52"/>hoc, qui dubitat in hoc non 
+      contra<lb ed="#J" n="53" break="no"/>dicit, nisi rebus manifestis. quonia, 
+      <lb ed="#J" n="54"/>si non mouetur extra suam 
+      natu<lb ed="#J" n="55" break="no"/>ram, &amp; ante erat quiescens, non  
+      <lb ed="#J" n="56"/>erit hic augmentum, nec motus 
+      <lb ed="#J" n="57"/>violentus. iste igitur sermo destruit 
+      <lb ed="#J" n="58"/>generationem &amp; corruptionem. 
+      <lb ed="#J" n="59"/>&amp; fere destruit motum etiam. omnes 
+      <lb ed="#J" n="60"/>enim hores opinabantur quod gene 
+      <lb ed="#J" n="61"/>ratio, &amp; corruptio cuiuslibet ret 
+      <lb ed="#J" n="62"/>est motus. illud enim ad quod transmu 
+      <lb ed="#J" n="63"/>tatur aliquid ipsum generatur, 
+      <lb ed="#J" n="64"/>aut id in eo. &amp; illud, ex quo 
+      trans<lb ed="#J" n="65" break="no"/>mutatur, ipsum corrumpitur, aut 
+      <lb ed="#J" n="66"/>ex illo. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e1405"><!-- l8-i-25 -->
+               <lb ed="#J" n="18"/>Declaratum est igitur ex hoc, 
+      <lb ed="#J" n="19"/>quod quaedam res forte mouentur. 
+      <lb ed="#J" n="20"/>&amp; quaedam forte quiescunt. 
+      Dice<lb ed="#J" n="21" break="no"/>re autem quod omnia quadoque, mo 
+      <lb ed="#J" n="22"/>uentur, &amp; quandoque, quiescut, opor 
+      <lb ed="#J" n="23"/>tet modo habere solicitudinem de 
+      <lb ed="#J" n="24"/>ipso secudum sermones praedictos, 
+      <lb ed="#J" n="25"/>&amp; ponere principium illius etiam 
+      <lb ed="#J" n="26"/>de illis intentionibus, quos mode  
+      <lb ed="#J" n="27"/>determinauimus, scilicet illud 
+      <lb ed="#J" n="28"/>idem principium, a quo 
+      incoepi<lb ed="#J" n="29" break="no"/>mus prius. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e1435"><!-- l8-i-26 -->
+               <lb ed="#J" n="32"/>Dicamus igitur, quod nia 
+      en<lb ed="#J" n="33" break="no"/>tia, aut erunt quiescentia, aut omnia, 
+      <lb ed="#J" n="34"/>mota, aut quaedam quiescentia, et 
+      <lb ed="#J" n="35"/>quaedam mota. Si igitur quaedam 
+      <lb ed="#J" n="36"/>sunt quiescentia, &amp; quaedam 
+      mo<lb ed="#J" n="37" break="no"/>ta, necesse est, aut vt omnia 
+      quan<lb ed="#J" n="38" break="no"/>doque quiescat, &amp; quadoque, mouea 
+      <lb ed="#J" n="39"/>tur: aut vt quadam quiescat semper, 
+      <!--Averroes_Physica_JuntSecunda_04-0732.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="40"/>&amp; quaedam moueantur semper. 
+      <lb ed="#J" n="41"/>&amp; vt quaedam quandoque, quiescant, 
+      <lb ed="#J" n="42"/>&amp; quadoque, moueantur. Quonia 
+      au<lb ed="#J" n="43" break="no"/>tem impossibile est, vt omnia 
+      en<lb ed="#J" n="44" break="no"/>tia sint quiescentia, ia dictum est 
+      <lb ed="#J" n="45"/>superius: &amp; nos dicemus etam 
+      ip<lb ed="#J" n="46" break="no"/>sum nuc. Quonia, si in rei 
+      verita<lb ed="#J" n="47" break="no"/>te, eset sicut quidam dicunt, quod 
+      <lb ed="#J" n="48"/>totum ens est infinitum, &amp; non  
+      <lb ed="#J" n="49"/>motum: sed tamen hoc non apparet 
+      <lb ed="#J" n="50"/>sensui, sed videmus sensu quod plu 
+      <lb ed="#J" n="51"/>res rerum entium mouentur. Si 
+      <lb ed="#J" n="52"/>ligitur sit hic existimatio falsa, et  
+      <lb ed="#J" n="53"/>vniuersaliter existimatio, erit hic 
+      <lb ed="#J" n="54"/>motus. &amp; similiter, si fuerit hic 
+      <lb ed="#J" n="55"/>imaginatio, &amp;, si fuerit hic existi 
+      <lb ed="#J" n="56"/>matio quandoque, quod res est 
+      ta<lb ed="#J" n="57" break="no"/>lis dispositionis, &amp; quandoque ecom 
+      <lb ed="#J" n="58"/>trario. existimatio enim, &amp; imagi 
+      <lb ed="#J" n="59"/>natio existimantur esse motus. Sed  
+      <lb ed="#J" n="60"/>perscrutari de hoc, &amp; quaerere 
+      ra<lb ed="#J" n="61" break="no"/>tionem in eo, cuius scientia apud  
+      <lb ed="#J" n="62"/>nos est ita firma, quod non indiget 
+      <lb ed="#J" n="63"/>ratione, est de opere eius, qui no po 
+      <lb ed="#J" n="64"/>test distinguere inter nobilius &amp;  
+      <lb ed="#J" n="65"/>ignobilius, &amp; inter certum &amp; in  
+      <lb ed="#J" n="66"/>certum, &amp; inter principium, &amp;  
+      <lb ed="#J" n="67"/>illud, quod non est principiu. Et secum 
+      <lb ed="#J" n="68"/>du hunc modu ipossibile e et vt omnia 
+      <lb ed="#J" n="69"/>entia moueatur, aut quaedam mouea 
+      <lb ed="#J" n="70"/>tur semper, quaedam quiescat sem 
+      <lb ed="#J" n="71"/>per. Quod enim sufficit in cotradicendo 
+      <lb ed="#J" n="72"/>totu hoc vniuersaliter est vnum 
+      cer<lb ed="#J" n="73" break="no"/>tum. &amp; est, quonia quaedam entia vi 
+      <lb ed="#J" n="74"/>dentur moueri quadoque, et quiescere 
+      <!--Averroes_Physica_JuntSecunda_04-0733.xml-->
+      <pb ed="#J" n="363-r"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1"/>quandoque. Manifestum est igitur, 
+      <lb ed="#J" n="2"/>quod impossibile est vt quaeda quis 
+      <lb ed="#J" n="3"/>scant semper, &amp; quaedam mouean 
+      <lb ed="#J" n="4"/>tur semper, quemadmodum 
+      appa<lb ed="#J" n="5" break="no"/>ruit quod impossibile est vt omnia 
+      <lb ed="#J" n="6"/>quiescant semper, aut vt omnia 
+      mo<lb ed="#J" n="7" break="no"/>ueantur semper. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e1558"><!-- l8-i-27 -->
+               <lb ed="#J" n="18"/>Remanet nunc igitur 
+      consyde<lb ed="#J" n="19" break="no"/>rare, vtrum omnia entia sint 
+      tali<lb ed="#J" n="20" break="no"/>dispositionis, vt moueantur, &amp; quie 
+      <lb ed="#J" n="21"/>scat: aut quaedam sint talis disponis, 
+      <lb ed="#J" n="22"/>&amp; quaedam quiescunt semper, &amp;  
+      <lb ed="#J" n="23"/>quaedam mouetur semper. hoc enim est 
+      <lb ed="#J" n="24"/>quod oportet nos nunc declarare 
+      <lb ed="#J" n="25"/>Dicamus igitur, quod mouetia, et 
+      <lb ed="#J" n="26"/>mota mouent, &amp; mouentur 
+      quae<lb ed="#J" n="27" break="no"/>dam per accidens, &amp; quaedam per 
+      <lb ed="#J" n="28"/>se. per accidens autem sicut omnia 
+      <lb ed="#J" n="29"/>existentia in motis, aut 
+      mouenti<lb ed="#J" n="30" break="no"/>bus, &amp; sicut illud, quod est quasi 
+      <lb ed="#J" n="31"/>pars. Per se vero sunt omnia, quae  
+      <lb ed="#J" n="32"/>mouent, aut mouentur, non quia 
+      <lb ed="#J" n="33"/>exissunt in motore, aut in moto, 
+      <lb ed="#J" n="34"/>nec quia pars eorum mouet, aut 
+      mo<lb ed="#J" n="35" break="no"/>uetur. Eorum autem, quae 
+      mouen<lb ed="#J" n="36" break="no"/>cur per se, quaedam mouentur ex 
+      <lb ed="#J" n="37"/>se, &amp; quaedam ex alio. Et istorum 
+      <!--Averroes_Physica_JuntSecunda_04-0735.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="38"/>quaedam naturaliter, &amp; quaedam. 
+      <lb ed="#J" n="39"/>violente, &amp; extra naturam. quod  
+      <lb ed="#J" n="40"/>enim mouetur ex se, mouetur 
+      natu<lb ed="#J" n="41" break="no"/>raliter, sicut vnumquodque, 
+      anima<lb ed="#J" n="42" break="no"/>lium. animal enim mouetur ex se. 
+      <lb ed="#J" n="43"/>&amp; omne, cuius principium motus 
+      <lb ed="#J" n="44"/>est in eo, dicitur moueri 
+      naturali<lb ed="#J" n="45" break="no"/>ter. &amp; ideo animal secundum totum 
+      <lb ed="#J" n="46"/>naturaliter mouet se: suum corpus 
+      <lb ed="#J" n="47"/>autem possibile est vt moueatur 
+      na<lb ed="#J" n="48" break="no"/>turaliter, &amp; extra naturam. hoc enim 
+      <lb ed="#J" n="49"/>diuersatur secundum motum, cui 
+      <lb ed="#J" n="50"/>contiugit vt moueatur secundu ip 
+      <lb ed="#J" n="51"/>sum, &amp; secundum elementum, ex 
+      <lb ed="#J" n="52"/>quo contingit, vt constituatur. Et 
+      <lb ed="#J" n="53"/>illa, quae mouentur ex aliis, quaedam 
+      <lb ed="#J" n="54"/>mouentur naturaliter, &amp; quaedam 
+      <lb ed="#J" n="55"/>extra naturam. Extra natura 
+      ve<lb ed="#J" n="56" break="no"/>ro est sicut motus corporum 
+      terre<lb ed="#J" n="57" break="no"/>strium ad superius, &amp; motus ignis, 
+      <lb ed="#J" n="58"/>ad inferius. Et membra animalis 
+      <lb ed="#J" n="59"/>etiam multotiens mouentur extra 
+      <lb ed="#J" n="60"/>suam naturam propter modos sui 
+      <lb ed="#J" n="61"/>situs, aut propter partes sui motus. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e1661"><!-- l8-i-28 -->
+               <lb ed="#J" n="72"/>Et in rebus, quae mouentur 
+      ex<lb ed="#J" n="73" break="no"/>tra natura, apparet proprie quod  
+      <lb ed="#J" n="74"/>illud, quod mouetur, mouetur ab 
+      <lb ed="#J" n="75"/>aliquo, quonia in illis, qui mouentur 
+      <lb ed="#J" n="76"/>ab aliis, manifestu est. Deinde post 
+      <lb ed="#J" n="77"/>illa, qui mouentur extra naturam, 
+      <lb ed="#J" n="78"/>illa ex illis, quae mouentur natira 
+      <lb ed="#J" n="79"/>liter, quae mouent: ir ex se, vt 
+      modi<lb ed="#J" n="80" break="no"/>animalium. non enim latet de istis mo 
+      <lb ed="#J" n="81"/>ueri ab aliquo, sed quo oportet 
+      de<lb ed="#J" n="82" break="no"/>terminare in aniinalibus motorem 
+      <lb ed="#J" n="83"/>a moto. Videtur enim fere quod quem
+      <!--Averroes_Physica_JuntSecunda_04-0739.xml-->
+      <pb ed="#J" n="366-r"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1" break="no"/>admodum in nauibus, eti aliis, 
+      quo<lb ed="#J" n="2" break="no"/>rum constitutio non est naturalis 
+      <lb ed="#J" n="3"/>ita &amp; in animalibus motor distin 
+      <lb ed="#J" n="4"/>guitur a moto, &amp; secundum hunc 
+      <lb ed="#J" n="5"/>modum erit ipsum secundum totum 
+      <lb ed="#J" n="6"/>mouens se. Sed illud, in quo est 
+      du<lb ed="#J" n="7" break="no"/>bitatio proprie, est illud, quod 
+      re<lb ed="#J" n="8" break="no"/>manet de diuisione praedicta. 
+      dixi<lb ed="#J" n="9" break="no"/>mus enim quod eorum, quae mouentur 
+      <lb ed="#J" n="10"/>ex alus, quidam mouentur extra na 
+      <lb ed="#J" n="11"/>tura. ponendum est igitur quod 
+      qui<lb ed="#J" n="12" break="no"/>da mouentur naturatiter. Et ista 
+      <lb ed="#J" n="13"/>faciunt dubitare, si mouentur ab 
+      <lb ed="#J" n="14"/>aliquo. v. g. leuia, &amp; grauia. ista 
+      <lb ed="#J" n="15"/>enim mouentur ad duo loca opposita 
+      <lb ed="#J" n="16"/>violente: &amp; mouentur ad sua 
+      lo<lb ed="#J" n="17" break="no"/>ea propria, leue quidem ad 
+      supe<lb ed="#J" n="18" break="no"/>rius naturaliter, graue autem ad 
+      <lb ed="#J" n="19"/>inferius naturaliter
+  </p>
+            <p xml:id="aristdp-d1e105-d1e1739"><!-- l8-i-29 -->
+               <lb ed="#J" n="65"/>A quo mouentur, non est 
+      ma<lb ed="#J" n="66" break="no"/>nifestum in eis, sicut est 
+      manife<lb ed="#J" n="67" break="no"/>stu, quando mouentur extra 
+      natu<lb ed="#J" n="68" break="no"/>ram. dicere enim ea moueri ex se 
+      im<lb ed="#J" n="69" break="no"/>possibile est. hoc enim est proprius 
+      ani<lb ed="#J" n="70" break="no"/>malibus, &amp; est propriu habentibus 
+      <lb ed="#J" n="71"/>animas. Et, si ita esset, tunc esset 
+      <lb ed="#J" n="72"/>possibile eis quiescere ex se. &amp; 
+      di<lb ed="#J" n="73" break="no"/>co, v.g. quod, si aliquis est eam 
+      suup<lb ed="#J" n="74" break="no"/>sius in ambulatione, est et ca suup 
+      <lb ed="#J" n="75"/>sius in dimittendo sui 
+      ambulatio<lb ed="#J" n="76" break="no"/>nem. &amp; ideo, si ascensus ad 
+      supe<lb ed="#J" n="77" break="no"/>rius est ex ipso igne, manifestum 
+      <lb ed="#J" n="78"/>est quod descensus ignis etia ad in  
+      <lb ed="#J" n="79"/>ferius est ex ipso igne. &amp; dicere etiam 
+      <lb ed="#J" n="80"/>quod res, quae mouentur ex se, vno 
+      <lb ed="#J" n="81"/>motu tantum mouentur, non est 
+      <lb ed="#J" n="82"/>de ratione, si mouent se.
+  </p>
+            <p xml:id="aristdp-d1e105-d1e1782"><!-- l8-i-30 -->
+               <lb ed="#J" n="46"/>Et etiam quo est possibile vt 
+      ali<lb ed="#J" n="47" break="no"/>quid continuum naturaliter 
+      con<lb ed="#J" n="48" break="no"/>uenientium moueat seipsum  
+      Se<lb ed="#J" n="49" break="no"/>cundum enim quod est vnum, 
+      conti<lb ed="#J" n="50" break="no"/>nuum, non cotiguu, est irreceptibile 
+      <lb ed="#J" n="51"/>passionu. &amp; secundum quod est se 
+      <lb ed="#J" n="52"/>gregatu, erit tale, quod quiddam 
+      <lb ed="#J" n="53"/>eius est innatum recipere, et 
+      quid<lb ed="#J" n="54" break="no"/>dam agere. Nullum igitur istorum 
+      <lb ed="#J" n="55"/>mouet seipsum, cum sit conuentens, 
+      <lb ed="#J" n="56"/>neque, aliquid omnino cotinuum: sed  
+      <lb ed="#J" n="57"/>necesse est vt motor in quolibet eo 
+      <lb ed="#J" n="58"/>rum sit distinctus a moto: sicut vt 
+      <lb ed="#J" n="59"/>demus in carentibus anima, quan 
+      <lb ed="#J" n="60"/>do mouerit illa aliquod habentium 
+      <lb ed="#J" n="61"/>animas. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e1820"><!-- l8-i-31 -->
+               <lb ed="#J" n="22"/>Sed sequitur in istis, si 
+      mouen<lb ed="#J" n="23" break="no"/>tur naturaliter, vt semper mouea 
+      <lb ed="#J" n="24"/>tur ab alio. &amp; hoc apparet 
+      diui<lb ed="#J" n="25" break="no"/>dendo causas. Et debemus 
+      accipe<lb ed="#J" n="26" break="no"/>re in motoribus et illas intentioes, 
+      <lb ed="#J" n="27"/>quas diximus Quemadmodum enim  
+      <lb ed="#J" n="28"/>quaedam sunt mota extra naturam, 
+      <lb ed="#J" n="29"/>v. g. quonia sagittam manganella 
+      <lb ed="#J" n="30"/>mouere lapidem non est naturale: Et 
+      <lb ed="#J" n="31"/>quaedam naturaliter, v. g. quod ca 
+      <lb ed="#J" n="32"/>lidu in actu mouet calidu in poten 
+      <lb ed="#J" n="33"/>tia. &amp; secundum hunc modum est 
+      <lb ed="#J" n="34"/>dispositio de alus similibus. Et 
+      si<lb ed="#J" n="35" break="no"/>militer etiam illud, quod mouetur 
+      na<lb ed="#J" n="36" break="no"/>turaliter, est illud, quod est in 
+      po<lb ed="#J" n="37" break="no"/>tentia quale, aut quantum, aui 
+      <lb ed="#J" n="38"/>vbi, cum principiu, quod est tale, 
+      <!--Averroes_Physica_JuntSecunda_04-0743.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="39"/>fuerit in eo non accidentaliter. idem3 
+      <lb ed="#J" n="40"/>enim est quale, &amp; quantu, sed alterum 
+      <lb ed="#J" n="41"/>eorum est in altero per accidens, no 
+      <lb ed="#J" n="42"/>per se. Ignis igitur, &amp; terra 
+      mo<lb ed="#J" n="43" break="no"/>uentur ex alio, aut violente, quan 
+      <lb ed="#J" n="44"/>do mouentur extra naturam, aut 
+      <lb ed="#J" n="45"/>naturaliter, quando mouentur ad 
+      <lb ed="#J" n="46"/>suas actioes, quas habent i potentia. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e1882"><!-- l8-i-32 -->
+               <lb ed="#J" n="81"/>Et, quia illud, quod est in potepe 
+      <lb ed="#J" n="82"/>tia, dicitur multis modis, haec fuit 
+      <!--Averroes_Physica_JuntSecunda_04-0746.xml-->
+      <pb ed="#J" n="369-v"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1"/>cam vt illud, ex quo mouentur ista, 
+      <lb ed="#J" n="2"/>et similia, est non manifestu. v.g. 
+      <lb ed="#J" n="3"/>quod ignis mouetur ad superius, et 
+      <lb ed="#J" n="4"/>terra ad inferius. Et addiscens est 
+      <lb ed="#J" n="5"/>in potentia sciens alio mo ab eo, se 
+      <lb ed="#J" n="6"/>cundum quem illud, quod habet 
+      <lb ed="#J" n="7"/>sciam, sed non scit est sciens in 
+      po<lb ed="#J" n="8" break="no"/>tetia. et illud, quod est in potentia. 
+      <lb ed="#J" n="9"/>forte erit i actu, quado fuerit 
+      sem<lb ed="#J" n="10" break="no"/>per cogregatu agens, et recipies. v. 
+      <lb ed="#J" n="11"/>6. quod addiscens fit sciens ab eo. 
+      <lb ed="#J" n="12"/>cuius scia in potentia erat aliud in 
+      <lb ed="#J" n="13"/>potentia. quod enim habet scia, sed non  
+      <lb ed="#J" n="14"/>scit, est sciens i potentia quoquo 
+      mo<lb ed="#J" n="15" break="no"/>sed iste modus potentiae no est ille 
+      <lb ed="#J" n="16"/>modus, in quo erat prius, antequam 
+      <lb ed="#J" n="17"/>addisceret. cum igitur fuerit in hac 
+      <lb ed="#J" n="18"/>dissone, aget sua actione, &amp; sciet 
+      <lb ed="#J" n="19"/>tunc, nisi aliquid impediat. &amp;, si 
+      <lb ed="#J" n="20"/>non, contingeret vt esset in 
+      opposi<lb ed="#J" n="21" break="no"/>to scientiae, scilicet ignorantiae. Et 
+      <lb ed="#J" n="22"/>secundum hunc modum currit 
+      di<lb ed="#J" n="23" break="no"/>spositio de rebus naturalibus etia. 
+      <lb ed="#J" n="24"/>frigidum enim est in potentia calidim. 
+      <lb ed="#J" n="25"/>&amp;, cum fuerit transmutatum 
+      <lb ed="#J" n="26"/>erit tunc ignis, &amp; comburet, nisi 
+      <lb ed="#J" n="27"/>aliquid impediat. &amp; similiter est 
+      <lb ed="#J" n="28"/>de graui, &amp; leui etiam. quandoque enim ex 
+      <lb ed="#J" n="29"/>graui generatur leue, v. g. ex aqua 
+      <lb ed="#J" n="30"/>aer, primo enim erat tale in potentia, 
+      <lb ed="#J" n="31"/>&amp; tunc fietleue, &amp; faciet statim 
+      <lb ed="#J" n="32"/>suam actionem, nisi aliquid impe 
+      <lb ed="#J" n="33"/>diat. actio enim lenis est vt sit in 
+      ali<lb ed="#J" n="34" break="no"/>quo vbi, &amp; superius. impedimen 
+      <lb ed="#J" n="35"/>tum autem accidit ei, quando fue 
+      <lb ed="#J" n="36"/>rit in contrario loci eius. et secun
+      <!--Averroes_Physica_JuntSecunda_04-0746.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="37" break="no"/>dum hoc est cursus in quantitate. 
+      <lb ed="#J" n="38"/>etiam, &amp; in qualitate. Quamuis 
+      <lb ed="#J" n="39"/>hoc debet quaeri, scilicet quare leuia mo 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e1985"><!-- l8-i-33 -->
+               <lb ed="#J" n="63"/>Et, cum omnia mota, aut mouen 
+      <lb ed="#J" n="64"/>tur naturaliter, aut extra naturam 
+      <lb ed="#J" n="65"/>&amp; vtolente: &amp; omnia mota 
+      vio<lb ed="#J" n="66" break="no"/>lente &amp; extra naturam, 
+      mouen<lb ed="#J" n="67" break="no"/>tur ab aliquo alio: &amp; ea, quae mo 
+      <lb ed="#J" n="68"/>uentur naturaliter, &amp; ex se, 
+      mo<lb ed="#J" n="69" break="no"/>uentur ab aliquo etiam: &amp; simili 
+      <lb ed="#J" n="70"/>ter ea, quae non mouentur ex se, vt 
+      <lb ed="#J" n="71"/>grauia, et leuia, mouentur aut 
+      ex<lb ed="#J" n="72" break="no"/>transmutante, &amp; agente teue, 
+      <lb ed="#J" n="73"/>aut graue, aut ex auferente impe 
+      <lb ed="#J" n="74"/>dimentum: necesse est igitur vt 
+      <lb ed="#J" n="75"/>omnia mota moueatur ab alio. Et 
+      <lb ed="#J" n="76"/>hoc duobus modis. Motor eni aut 
+      <lb ed="#J" n="77"/>non per se mouet motum, sed quia 
+      <lb ed="#J" n="78"/>aliud mouet ipsum, aut ita, quod  
+      <lb ed="#J" n="79"/>ipse moueat per se. Et iste motor 
+      <lb ed="#J" n="80"/>aut erit primum post illud aliud, 
+      <lb ed="#J" n="81"/>aut erit medium plus quam vnu. 
+      <!--Averroes_Physica_JuntSecunda_04-0751.xml-->
+      <pb ed="#J" n="372-r"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1"/>v.g. quod baculus mouet lapidem. 
+      <lb ed="#J" n="2"/>et mouetur a manu, et manus ab 
+      <lb ed="#J" n="3"/>homine, homo autem non moue. 
+      <lb ed="#J" n="4"/>tur ab alio. Et nos dicimus in 
+      om<lb ed="#J" n="5" break="no"/>nibus eis mouere, scilicet in primo, et 
+      po<lb ed="#J" n="6" break="no"/>stremo, sed primum est dignius., 
+      <lb ed="#J" n="7"/>ipsum enim mouet postremum 
+      <lb ed="#J" n="8"/>&amp; non postremum primum. 
+      po<lb ed="#J" n="9" break="no"/>stremum igitur non mouet sine 
+      <lb ed="#J" n="10"/>primo, primum vero mouet sine 
+      <lb ed="#J" n="11"/>postremo. verbi gratia, quod 
+      ba<lb ed="#J" n="12" break="no"/>culus non mouet, si manus non  
+      <lb ed="#J" n="13"/>mouerit 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e2064"><!-- l8-i-34 -->
+               <lb ed="#J" n="55"/>Si igitur est necessarium, vt omne 
+      <lb ed="#J" n="56"/>motum moueatur ab alio, &amp;, vt 
+      <lb ed="#J" n="57"/>motus eius sit ab alio, aut ita 
+      <lb ed="#J" n="58"/>quod non sit motum, aut ita, quod  
+      <lb ed="#J" n="59"/>sit motum: et si motus eius fuerit 
+      <lb ed="#J" n="60"/>ex alio moto, necesse est hic esse 
+      pri<lb ed="#J" n="61" break="no"/>mum motorem, qui non mouetur 
+      <lb ed="#J" n="62"/>ab alio. Et, si non, sequitur, si 
+      pri<lb ed="#J" n="63" break="no"/>mum fuerit huiusmodi, vt 
+      postre<lb ed="#J" n="64" break="no"/>mum sit necessario. impossibile enim 
+      <lb ed="#J" n="65"/>e hoc procedere in infinitum, hoc, 
+      <lb ed="#J" n="66"/>quod motum sit motum seper ex 
+      <lb ed="#J" n="67"/>alio. infinita enim non habent principium 
+      <lb ed="#J" n="68"/>mino. Si igitur oe motum moueatur 
+      <lb ed="#J" n="69"/>ab alio, &amp; primus motor 
+      moue<lb ed="#J" n="70" break="no"/>tur, sed no mouetur ab aliquo, 
+      se<lb ed="#J" n="71" break="no"/>quitur necio, vt moueatur ex se. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e2105"><!-- l8-i-35 -->
+               <lb ed="#J" n="21"/>Et possibile est etiam hoc idem 
+      <lb ed="#J" n="22"/>declarare secundum hunc modum. 
+      <lb ed="#J" n="23"/>Omnis motor mouet aliquid, &amp; 
+      <lb ed="#J" n="24"/>per aliquid. motor enim aut mouet 
+      <lb ed="#J" n="25"/>aliquid per se, aut per aliud v. g. 
+      <lb ed="#J" n="26"/>quod homo aut mouet per se, aut 
+      <lb ed="#J" n="27"/>per baculum. &amp; proucit aliquid 
+      <lb ed="#J" n="28"/>aut ipse vetus, aut lapis, quem ele 
+      <lb ed="#J" n="29"/>uat vetus. &amp; impossibile est quod 
+      <lb ed="#J" n="30"/>moueat illud, per quod mouet, sine 
+      <lb ed="#J" n="31"/>eo, quod mouet se. Si igitur fuerit 
+      <lb ed="#J" n="32"/>aliquid, quod mouet se, non est 
+      ne<lb ed="#J" n="33" break="no"/>cesse vt cum eo sit aliquid aliud, 
+      <lb ed="#J" n="34"/>per quod mouet. et, si aliquid aliud 
+      <lb ed="#J" n="35"/>sit, per quod mouet, necessario erit 
+      <lb ed="#J" n="36"/>illic aliquid mouens etiam, no per  
+      <lb ed="#J" n="37"/>aliquod, sed per se. &amp;, si non, proce 
+      <lb ed="#J" n="38"/>deretur in infinitum. Si igitur mo 
+      <!--Averroes_Physica_JuntSecunda_04-0754.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="39"/>tum mouetur ab alio, necesse est vt: 
+      <lb ed="#J" n="40"/>hoc cesset, &amp; non procedat in 
+      infi<lb ed="#J" n="41" break="no"/>nitum. haculus enim, si mouet, mo 
+      <lb ed="#J" n="42"/>uetur a manu, &amp; manus mouet 
+      <lb ed="#J" n="43"/>baculum. et, si manus mouetur ab 
+      <lb ed="#J" n="44"/>aliquo alio, tunc mouens baculum 
+      <lb ed="#J" n="45"/>erit aliquid aliud. Si igitur hic est 
+      <lb ed="#J" n="46"/>semper aliquid aliud, quod mouet 
+      <lb ed="#J" n="47"/>per aliquod, necesse est vt aliquid 
+      <lb ed="#J" n="48"/>sit prius, quod mouet se. Si igitur, 
+      <lb ed="#J" n="49"/>hoc mouetur, &amp; non ab alio, sequi 
+      <lb ed="#J" n="50"/>tur necessario vt ipsum moueat se. 
+      <lb ed="#J" n="51"/>secudum igitur hunc modum etiam. 
+      <lb ed="#J" n="52"/>sequitur necessario vt illud, quod 
+      <lb ed="#J" n="53"/>mouetur, aut mouetur ex motore 
+      <lb ed="#J" n="54"/>sui sine medio, aut veniet post ad 
+      <lb ed="#J" n="55"/>talem motorem. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e2189"><!-- l8-i-36 -->
+               <lb ed="#J" n="52"/>Et hoc idem sequitur, si posueri 
+      <lb ed="#J" n="53"/>mus consyderationem secundum hunc 
+      <lb ed="#J" n="54"/>modum. Quoniam, si omne motum 
+      <lb ed="#J" n="55"/>mouetur a moto, tunc necesse, est 
+      <lb ed="#J" n="56"/>aut vt hoc accidat rebus per acci 
+      <lb ed="#J" n="57"/>dens, ita, quod res, &amp; si non 
+      mo<lb ed="#J" n="58" break="no"/>uet, nisi moueatur, sed tamen non  
+      <lb ed="#J" n="59"/>quia mouetur: aut non sit ita, sed  
+      <lb ed="#J" n="60"/>hoc est essentialiter. Primo vero, si 
+      <lb ed="#J" n="61"/>fuerit per accidens, non sequitur ne 
+      <lb ed="#J" n="62"/>cessario vt motor moueatur. Et, si 
+      <lb ed="#J" n="63"/>ita fuerit, manifestum est quod est 
+      <lb ed="#J" n="64"/>possibile in aliqua dispositione, vt 
+      <lb ed="#J" n="65"/>nullum ens moueatur. quod enim 
+      <lb ed="#J" n="66"/>est per accidens, non est necessariu, 
+      <lb ed="#J" n="67"/>sed potest quin sit. &amp;, si 
+      posueri<lb ed="#J" n="68" break="no"/>mus illud, quod est possibile, quod  
+      <lb ed="#J" n="69"/>non sit, nullum sequitur impossibi 
+      <lb ed="#J" n="70"/>te, sed forte falsum. sed defectus mo 
+      <lb ed="#J" n="71"/>tus, ita, quod nullus motus sit, est 
+      <lb ed="#J" n="72"/>impossibile. iam enim 
+      declaraui<lb ed="#J" n="73" break="no"/>mus quod necesse est vt semper sit 
+      <lb ed="#J" n="74"/>motus. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e2242"><!-- l8-i-37 -->
+               <lb ed="#J" n="22"/>Et de necessitate sequitur hoc. 
+      <lb ed="#J" n="23"/>Necesse est eni tria esse, motum &amp; 
+      <lb ed="#J" n="24"/>motorem, &amp; per quod mouet. Mo 
+      <lb ed="#J" n="25"/>tum autem necesse est vt moueatur. 
+      <lb ed="#J" n="26"/>&amp; non est necesse vt moueat. &amp; il 
+      <lb ed="#J" n="27"/>lud per quod mouet motor, necesse 
+      <lb ed="#J" n="28"/>est vt moueat: hoc enim etiam 
+      tras<lb ed="#J" n="29" break="no"/>mutatur: &amp; cum hoc est coniucti 
+      <lb ed="#J" n="30"/>cum moto. &amp; hoc manifestum est 
+      <lb ed="#J" n="31"/>in motoribus in loco: quia 
+      necessa<lb ed="#J" n="32" break="no"/>rio sunt contracta in aliquo spatio. 
+      <lb ed="#J" n="33"/>illud autem quod mouet, non, quia 
+      <lb ed="#J" n="34"/>illud per quod fit mouere, non 
+      mo<lb ed="#J" n="35" break="no"/>uetur omnino. Cum igitur inueni 
+      <lb ed="#J" n="36"/>mus postremum, &amp; est illud quod 
+      <lb ed="#J" n="37"/>mouetur, sed in eo non est 
+      princi<lb ed="#J" n="38" break="no"/>piu motus: &amp; inuenimus aliquid, 
+      <!--Averroes_Physica_JuntSecunda_04-0759.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="39"/>quod mouetur, sed non ex alio, sed  
+      <lb ed="#J" n="40"/>ex se, &amp; est primu non ratione: ne 
+      <lb ed="#J" n="41"/>cesse est vt tertium etia sit, &amp; est 
+      <lb ed="#J" n="42"/>illud quod mouet, &amp; non mouetur. 
+      <lb ed="#J" n="43"/>Et ideo Anaxagoras etiam bene 
+      <lb ed="#J" n="44"/>dixit, cum dixit, quod intellioentia 
+      <lb ed="#J" n="45"/>non mouetur, neque, recipit passione, 
+      <lb ed="#J" n="46"/>nec admiscetur cum alio, cum 
+      po<lb ed="#J" n="47" break="no"/>suerit ipsam principium motus. se 
+      <lb ed="#J" n="48"/>cundum enim hunc modum solu erit 
+      <lb ed="#J" n="49"/>motor, scilicet vt sit non motum:  
+      <lb ed="#J" n="50"/>&amp; secundum hunc modum erit 
+      <lb ed="#J" n="51"/>pminans, scilicet vt sit non ad 
+  <lb ed="#J" n="52" break="no"/>ixtum.
+  </p>
+            <p xml:id="aristdp-d1e105-d1e2317"><!-- l8-i-38 -->
+               <lb ed="#J" n="21"/>Et postea si motor non mouet per  
+      <lb ed="#J" n="22"/>accides, sed necessario: &amp; si no mo 
+      <lb ed="#J" n="23"/>uetur, non mouet: sequitur necessa 
+      <lb ed="#J" n="24"/>rio si moto: mouetur, vt moueatur 
+      <lb ed="#J" n="25"/>aut illo eodem modo quo mouet, aut 
+      <lb ed="#J" n="26"/>alio. v.g. aut vt calefaciens ipsum 
+      <lb ed="#J" n="27"/>ealesiat ipsum: &amp; sanas ipsum sa 
+      <lb ed="#J" n="28"/>netur: &amp; ipsum transferens trans 
+      <lb ed="#J" n="29"/>feratur, aut vt trasferatur sanas. 
+      <lb ed="#J" n="30"/>&amp; sanetur transferes, aut vt aut, 
+      <lb ed="#J" n="31"/>mentetur. Sed manifestum est hoc 
+      <lb ed="#J" n="32"/>esse impossibile. necesse est enim 
+      <lb ed="#J" n="33"/>vt diuisio perueniat ad indiuidua, 
+      <lb ed="#J" n="34"/>vg. quod qui scit Geometriam 
+      ali<lb ed="#J" n="35" break="no"/>cuius rei: addiscit Oeometriam 
+      il<lb ed="#J" n="36" break="no"/>lius eiusdem rei: &amp; quod proucit 
+      <lb ed="#J" n="37"/>aliquid, pronicitur illo modo 
+      prote<lb ed="#J" n="38" break="no"/>ctionis. Aut vt non sit secundum 
+      <!--Averroes_Physica_JuntSecunda_04-0762.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="39"/>hunc modum: sed vnumquodque 
+      mo<lb ed="#J" n="40" break="no"/>uetur secundum vnumquodque gene, 
+      <lb ed="#J" n="41"/>rum. v. g: vt transferent 
+      augmen<lb ed="#J" n="42" break="no"/>tetur: &amp; augmentans alteretur 
+      <lb ed="#J" n="43"/>ab aliquo: &amp; alteras istud mouea 
+      <lb ed="#J" n="44"/>tur alio modo. sed si hoc fuerit, contin 
+      <lb ed="#J" n="45"/>get vt motus cesset. modi enim motus 
+      <lb ed="#J" n="46"/>sunt finiti. Si aut aliquis dixerit, 
+      <lb ed="#J" n="47"/>quod hoc reciprocatur ita, quod al 
+      <lb ed="#J" n="48"/>terans transferatur: tunc erit 
+      ser<lb ed="#J" n="49" break="no"/>mo illi similis si dixerit de 
+      princi<lb ed="#J" n="50" break="no"/>nio quod transfertur: &amp; sciens ad 
+      <lb ed="#J" n="51"/>discit. manifestu est enim quod oe mo 
+      <lb ed="#J" n="52"/>tu et mouetur a motore 
+      superiori<lb ed="#J" n="53" break="no"/>&amp; maxime a primo mouetiu: Sed  
+      <lb ed="#J" n="54"/>hoc est impossibile. sequitur enim vt 
+      <lb ed="#J" n="55"/>docens addiscat illud: de cuius quo 
+      <lb ed="#J" n="56"/>dam non habet scientiam: &amp; de 
+      <lb ed="#J" n="57"/>quodam hbet scientia. Et magis 
+      ipro<lb ed="#J" n="58" break="no"/>babile etiam est hoc, quod sequitur ex 
+      <lb ed="#J" n="59"/>hoc: vt oe quod innatu est mouere, 
+      <lb ed="#J" n="60"/>sit innatum moueri: si oc quod 
+      mo<lb ed="#J" n="61" break="no"/>uetur, moueatur a motore moto. 
+      <lb ed="#J" n="62"/>Hoc enim est simile sermoni: dicenti, 
+      <lb ed="#J" n="63"/>quod oe quod innatum est sanare, 
+      <lb ed="#J" n="64"/>est innatu sanari: &amp; omne quod est 
+      <lb ed="#J" n="65"/>innatu aedificare, est innatum 
+      aedifi<lb ed="#J" n="66" break="no"/>cari aut ex primo, aut per plura 
+      <lb ed="#J" n="67"/>media. v. g. quod omne quod 
+      inna<lb ed="#J" n="68" break="no"/>tum est mouere, innatum est moue 
+      <lb ed="#J" n="69"/>ri ab alio. sed motus quo innatu est 
+      <lb ed="#J" n="70"/>moueri secundum ipsum, no est mo 
+      <lb ed="#J" n="71"/>tus, secundum quem innatum est 
+      <lb ed="#J" n="72"/>moueri suum compar, sed alius mo 
+      <lb ed="#J" n="73"/>tus. v. g. quod illud quod innatu est 
+      <!--Averroes_Physica_JuntSecunda_04-0763.xml-->
+      <pb ed="#J" n="378-r"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1"/>aedificari, innatum est doceri. sed si 
+      <lb ed="#J" n="2"/>ascenderis ex hoc ad principium in  
+      <lb ed="#J" n="3"/>aliqua dispositios: venies ad illum 
+      <lb ed="#J" n="4"/>cundem vnodum: sicut diximus su 
+      <lb ed="#J" n="5"/>perius. Quoddam igitur huius quod  
+      <lb ed="#J" n="6"/>diximus hic, est ipossibile: &amp; quod  
+      <lb ed="#J" n="7"/>dam fictum: &amp; hoc est improbabi 
+      <lb ed="#J" n="8"/>le dicere, scilicet quod illud quod est inna 
+      <lb ed="#J" n="9"/>tum alterare: necessario innatum 
+      <lb ed="#J" n="10"/>est augeri.
+  </p>
+            <p xml:id="aristdp-d1e105-d1e2468"><!-- l8-i-39 -->
+               <lb ed="#J" n="37"/>Non igitur est necessaris vt mo 
+      <lb ed="#J" n="38"/>tu moueatur ab aliquo semper, vt 
+      <lb ed="#J" n="39"/>istud aliud moueatur. cessabit hoc 
+      <lb ed="#J" n="40"/>igitur. &amp; primum igitur motum 
+      <lb ed="#J" n="41"/>aut mouebitur a quiescente, aut ip 
+      <!--Averroes_Physica_JuntSecunda_04-0765.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="42"/>sum mouebit se. Si igitur est 
+      neces<lb ed="#J" n="43" break="no"/>sarium consyderare quod istorum 
+      <lb ed="#J" n="44"/>duorum est causa, &amp; principiu mo 
+      <lb ed="#J" n="45"/>tus: vtrum illud quod mouetur ex 
+      <lb ed="#J" n="46"/>se, aut ab alio. quilibet enim homo 
+      fe<lb ed="#J" n="47" break="no"/>stinat ad ponendum hoc. illud. enim 
+      <lb ed="#J" n="48"/>quod per se mouet in aliqua disposi 
+      <lb ed="#J" n="49"/>tioe, semper est causa prima eius, 
+      <lb ed="#J" n="50"/>cuius transmutatio est in illa dispo 
+      <lb ed="#J" n="51"/>sitione etiam. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e2508"><!-- l8-i-40 -->
+               <lb ed="#J" n="48"/>Oportet igitur nos consyderarem 
+      <lb ed="#J" n="49"/>nunc de hoc, incipiendo alio modo,  
+      <lb ed="#J" n="50"/>cilicet si aliquid mouet se, qualiter 
+      mo<lb ed="#J" n="51" break="no"/>uet, &amp; quo modo. Dicamus 
+      igi<lb ed="#J" n="52" break="no"/>tur, quoniam necesse est vt omne 
+      <lb ed="#J" n="53"/>motum diuidatur i diuisibilia. hoc 
+      <lb ed="#J" n="54"/>eni. declaratum est prius in nostro 
+      <lb ed="#J" n="55"/>sermoe de summis de natura. ce enim 
+      <lb ed="#J" n="56"/>motu per se est continuum. Et 
+      im<lb ed="#J" n="57" break="no"/>possibile est vt illud, quod mouet se, 
+      <lb ed="#J" n="58"/>moueat se secudum totum. quonia, 
+      <lb ed="#J" n="59"/>tunc secundum totum transferret, 
+      <lb ed="#J" n="60"/>&amp; transferretur eodem mo 
+      tras<lb ed="#J" n="61" break="no"/>lationis, &amp; est vnum indiuisibile 
+      <lb ed="#J" n="62"/>in sua specie, &amp; tunc idem altera 
+      <lb ed="#J" n="63"/>bitur, &amp; alterabit: &amp; sic sciet, et 
+      <lb ed="#J" n="64"/>addiscet insimul, et sanabit, &amp; sa 
+      <lb ed="#J" n="65"/>nabitur eadem sanatione. Et iam 
+      <lb ed="#J" n="66"/>determinauimus etam quid 
+      intendi<lb ed="#J" n="67" break="no"/>mus, cu dicimus, quod aliquid 
+      mo<lb ed="#J" n="68" break="no"/>uetur, secundum quod mouetur: et 
+      <lb ed="#J" n="69"/>est quod in potentia mouetur, &amp;  
+      <lb ed="#J" n="70"/>no in actu: &amp; illud quod mouetur, 
+      <lb ed="#J" n="71"/>semper nititur ad perfectione. &amp;  
+      <lb ed="#J" n="72"/>motus est perfectio non completa ei, 
+      <lb ed="#J" n="73"/>quod imnatum est moueri: &amp; 
+      mo<lb ed="#J" n="74" break="no"/>tor aut ia exiuit in actu: v. g. quod  
+      <lb ed="#J" n="75"/>calefacies est calidum, &amp; vniuer 
+      <lb ed="#J" n="76"/>saliter. est illud, quod iam habet for 
+      <!--Averroes_Physica_JuntSecunda_04-0767.xml-->
+      <pb ed="#J" n="380-r"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1" break="no"/>mam. &amp; sic idem in eodem modo erit ea 
+      <lb ed="#J" n="2"/>lidum, &amp; non calidu insimul. &amp; se 
+      <lb ed="#J" n="3"/>cundum hunc modum est de quali. 
+      <lb ed="#J" n="4"/>bet aliorum rerum motarum, qua 
+      <lb ed="#J" n="5"/>rum motor est vniuocum secudum 
+      <lb ed="#J" n="6"/>formam.
+  </p>
+            <p xml:id="aristdp-d1e105-d1e2595"><!-- l8-i-41 -->
+               <lb ed="#J" n="25"/>Necesse est igitur, vt illud, quod 
+      <lb ed="#J" n="26"/>mouet se, sit quiddam motor, &amp; quid  
+      <lb ed="#J" n="27"/>dam motum. &amp; apparet ex hoc, 
+      <lb ed="#J" n="28"/>quod nos dicemus, quod illud, quod 
+      <lb ed="#J" n="29"/>mouet se, non mouet ita, quod 
+      vtra<lb ed="#J" n="30" break="no"/>que pars eius mouetur ab vtraque 
+      <lb ed="#J" n="31"/>parte. tunc enim neutra pars erit 
+      mo<lb ed="#J" n="32" break="no"/>tor primus, cum vtraque pars moueat 
+      <lb ed="#J" n="33"/>se. quonia vt sit ca motionis illud, 
+      <lb ed="#J" n="34"/>quod est prius, est dignius quam vt sit 
+      <lb ed="#J" n="35"/>ta motionis cosequentis: &amp; suum 
+      <lb ed="#J" n="36"/>mouere ad illud est magis. Moue 
+      <lb ed="#J" n="37"/>re autem fit duobus modis. quoru 
+      <lb ed="#J" n="38"/>vnus est vt motum moueatur ab 
+      <!--Averroes_Physica_JuntSecunda_04-0768.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="39"/>alio: &amp; alius est vt moueat per se. V 
+      <lb ed="#J" n="40"/>&amp; illud quod est remotius a moto 
+      <lb ed="#J" n="41"/>est propinquius principio. Et etia 
+      <lb ed="#J" n="42"/>non sequitur necessario vt motum 
+      <lb ed="#J" n="43"/>sic moueat, si motum ex se non fue 
+      <lb ed="#J" n="44"/>rit. per accidens igitur mouet 
+      v<lb ed="#J" n="45" break="no"/>trunque eorum reliquum. ergo 
+      possi<lb ed="#J" n="46" break="no"/>bile est vt vtrunque eorum no mo 
+      <lb ed="#J" n="47"/>ueat alterum. alterum igitur eorum 
+      <lb ed="#J" n="48"/>erit motum tantum, &amp; alterum 
+      <lb ed="#J" n="49"/>motor non motum. Et etiam non est 
+      <lb ed="#J" n="50"/>necessarium vt motor reuertatur 
+      <lb ed="#J" n="51"/>&amp; moueatur: sed est necessarium S 
+      <lb ed="#J" n="52"/>vt sit aliquid quod moueat, &amp; no 
+      <lb ed="#J" n="53"/>moueatur, aut aliquid, quod moue 
+      <lb ed="#J" n="54"/>tur ex se: si est necessarium vt sem 
+      <lb ed="#J" n="55"/>per sit motus. &amp; si non, tunc moue 
+      <lb ed="#J" n="56"/>retur motu, quo moueret, &amp; sic ca 
+      <lb ed="#J" n="57"/>lefaciens calefieret. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e2674"><!-- l8-i-42 -->
+               <lb ed="#J" n="20"/>Et impossibile est etiam, vt nulla 
+      <lb ed="#J" n="21"/>pars eius, quod prio mouet se, nec 
+      <lb ed="#J" n="22"/>plures vna, moueat scipsam. quo 
+      <!--Averroes_Physica_JuntSecunda_04-0770.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="23" break="no"/>niam ipsum totum, si mouetur exR 
+      <lb ed="#J" n="24"/>se, aut mouetur ab aliqua parte 
+      <lb ed="#J" n="25"/>suarum partium, aut ipsum torum 
+      <lb ed="#J" n="26"/>mouetur a seipso toto. Si ergo 
+      mo<lb ed="#J" n="27" break="no"/>uetur ita, quod aliqua pars eius, 
+      <lb ed="#J" n="28"/>mouetur ex se, tunc illa pars est 
+      <lb ed="#J" n="29"/>primum, quod mouet seipsum, quo 
+      <lb ed="#J" n="30"/>nia ista pars singulariter mouet 
+      <lb ed="#J" n="31"/>seipsam, illud autem secundum to 
+      <lb ed="#J" n="32"/>tum no. Et, si illud totum mouetur 
+      <lb ed="#J" n="33"/>a seipso toto, tunc ista scilicet partes, etiam 
+      <lb ed="#J" n="34"/>mouent se per accidens. Et, si hoc 
+      <lb ed="#J" n="35"/>non est necessarium, neque, ponatur 
+      <lb ed="#J" n="36"/>eas non moueri ex se, tunc igitur, 
+      <lb ed="#J" n="37"/>quiddam totius mouet, &amp; no 
+      mo<lb ed="#J" n="38" break="no"/>uetur, &amp; quiddam mouetur. Et 
+      <lb ed="#J" n="39"/>etiam, si aliquid secundum totum 
+      <lb ed="#J" n="40"/>mouet se, &amp; quiddam est motor. 
+      <lb ed="#J" n="41"/>&amp; quiddam motum, ABergo 
+      <lb ed="#J" n="42"/>mouetur ex se, &amp; ex A.
+  </p>
+            <p xml:id="aristdp-d1e105-d1e2732"><!-- l8-i-43 -->
+               <lb ed="#J" n="55"/>Et, quia aliquid mouet, autita,. 
+      <lb ed="#J" n="56"/>quod moueatur ab alio, aut ita, 
+      <lb ed="#J" n="57"/>quod no moueatur: &amp; aliquid mo 
+      <lb ed="#J" n="58"/>uetur, aut ita, quod moueat, aut 
+      <lb ed="#J" n="59"/>ita, quod non moueat omnino, 
+      ne<lb ed="#J" n="60" break="no"/>cesse est, vt illud, quod mouet se, 
+      <lb ed="#J" n="61"/>sit ex non moto, sed est motor et ex 
+      <lb ed="#J" n="62"/>moto, sed non necessario est motor, 
+      <lb ed="#J" n="63"/>sed currit secundum vtrulibet. Sit  
+      <lb ed="#J" n="64"/>igitur Amotor, sed non motum:  
+      <lb ed="#J" n="65"/>&amp; Bmotum ab A, &amp; mouens 
+      <lb ed="#J" n="66"/>C: &amp; C moueatur ex E, &amp; nihil 
+      <lb ed="#J" n="67"/>moueat omnino, quoniam, cum ad hoc 
+      <lb ed="#J" n="68"/>peruentemus cum medis pluribus 
+      <lb ed="#J" n="69"/>vno, ponatur vnum medium tantu 
+      <lb ed="#J" n="70"/>esse. ABCigitur totum mouet 
+      <lb ed="#J" n="71"/>se. sed, si abstuleriinus C, 
+      remane<lb ed="#J" n="72" break="no"/>bit AEmouens se: A enim est mo 
+      <lb ed="#J" n="73"/>tor, &amp; Bmotum: et Cnon mouet 
+      <lb ed="#J" n="74"/>se, immo non erit omnino motor. 
+      <lb ed="#J" n="75"/>Neque BC mouebit se sine A: E 
+      <lb ed="#J" n="76"/>enim mouet, quia mouetur ab alio, 
+      <lb ed="#J" n="77"/>non a parte aliqua ipsius: ARn. 
+      <lb ed="#J" n="78"/>solum mouet se. Necesse est igitur 
+      <!--Averroes_Physica_JuntSecunda_04-0773.xml-->
+      <pb ed="#J" n="383-r"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1"/>vt illud, quod mouet se, habeat in  
+      <lb ed="#J" n="2"/>se motorem, sed est non motum, et 
+      <lb ed="#J" n="3"/>motum. sed est non motor alicuius 
+      <lb ed="#J" n="4"/>necessario, dum vtrunque conuenit, 
+      <lb ed="#J" n="5"/>cum reliquo, aut tangit ipsum. Si 
+      <lb ed="#J" n="6"/>igitur motor fuerit continuus: mo 
+      <lb ed="#J" n="7"/>tum vero necessario est continuum:. 
+      <lb ed="#J" n="8"/>manifestum est quod tota res erit 
+      <!--Averroes_Physica_JuntSecunda_04-0773.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="9"/>mouens se, non quia quiddam ipsius est: 
+      <lb ed="#J" n="10"/>tale scilicet mouens se, sed tota res 
+      mo<lb ed="#J" n="11" break="no"/>uet se, sed est motu, &amp; motor, ita, 
+      <lb ed="#J" n="12"/>quod quiddam eius est motor, et 
+      quid<lb ed="#J" n="13" break="no"/>dam est motu. non enim ipsum secudum 
+      <lb ed="#J" n="14"/>totu mouetur, neque, ipsum secundum 
+      <lb ed="#J" n="15"/>totum mouet, sed mouet secudum 
+      <lb ed="#J" n="16"/>A,&amp; mouetur secundum B tantum.
+  </p>
+            <p xml:id="aristdp-d1e105-d1e2833"><!-- l8-i-44 -->
+               <lb ed="#J" n="53"/>Et quaeritur in hoc, si ex A, si 
+      <lb ed="#J" n="54"/>fuerit cotinuu, et est moteren, 
+      mo<lb ed="#J" n="55" break="no"/>tu, aut ex E, quod est motu, 
+      simi<lb ed="#J" n="56" break="no"/>nuatur aliquid, vtrum illud, quod re 
+      <lb ed="#J" n="57"/>manet ex A, sit motor, et illud, 
+      <lb ed="#J" n="58"/>quod remanet ex B, sit motu. Quo 
+      <lb ed="#J" n="59"/>nia, si hoc fuerit, tuc ABno erit 
+      <lb ed="#J" n="60"/>primu motu ex se, quonia ex A 
+      <lb ed="#J" n="61"/>et Bauferetur aliquid, et reliquu 
+      <lb ed="#J" n="62"/>mouet se. Dicamus igitur ad hoc 
+      <lb ed="#J" n="63"/>quod no est inopinabile vt vtruque 
+      <lb ed="#J" n="64"/>aut alteru, scilicet motum sit in potetia 
+      <lb ed="#J" n="65"/>diuisibile, in actu autem no. sed,  
+      <lb ed="#J" n="66"/>si diuidatur, tunc natura eius non  
+      <lb ed="#J" n="67"/>erit illa eadem natura. &amp; ideo non 
+      <lb ed="#J" n="68"/>est inopinabile vt in diuisibilibus 
+      <lb ed="#J" n="69"/>sit in potentia aliquid primum. 
+      <lb ed="#J" n="70"/>Apparet igitur ex hoc, quod 
+      pri<lb ed="#J" n="71" break="no"/>mus motor no est motu. quoniam, 
+      <lb ed="#J" n="72"/>si motum cessabit cito, &amp; 
+      moue<lb ed="#J" n="73" break="no"/>tur ab aliquo, peruenietur ad pri 
+      <lb ed="#J" n="74"/>mum motorem, qui non mouetur 
+      <lb ed="#J" n="75"/>&amp;, si perueniatur ad motum, sed  
+      <lb ed="#J" n="76"/>est illud, quod mouet se, &amp; facit 
+      <lb ed="#J" n="77"/>ipsum quiescere, sequitur ex illo 
+      <lb ed="#J" n="78"/>modo, &amp; ex isto insimul vt 
+      pri<lb ed="#J" n="79" break="no"/>mum in omnibus motis sit non moti.
+  </p>
+            <p xml:id="aristdp-d1e105-d1e2895"><!-- l8-i-45 -->
+               <lb ed="#J" n="55"/>Et quia motus necesse est vt sit 
+      <lb ed="#J" n="56"/>semper, et nunquam deficiat, 
+      sequi<lb ed="#J" n="57" break="no"/>tur necessario vt sit hit aliquis pri 
+      <lb ed="#J" n="58"/>mus motor, siue vnum, siue plura, 
+      <lb ed="#J" n="59"/>et quod primus motor no sit motu. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e2909"><!-- l8-i-46 -->
+               <lb ed="#J" n="26"/>Vtrum aut vnumquodque, moue 
+      <lb ed="#J" n="27"/>tium, quae non mouentur, sit aeternum, 
+      <lb ed="#J" n="28"/>non est intrans modo ad propositum. 
+      <lb ed="#J" n="29"/>Quoniam aut necesse est vt sit hic 
+      ali<lb ed="#J" n="30" break="no"/>quid, quod in se non sit motum, &amp;  
+      <lb ed="#J" n="31"/>sit absolutum ab omni transmuta 
+      <lb ed="#J" n="32"/>tione simpliciter, &amp; per accidens 
+      <lb ed="#J" n="33"/>quod mouet aliquod aliud, 
+      decla<lb ed="#J" n="34" break="no"/>abitur hoc modo. Ponatur igitur 
+      <lb ed="#J" n="35"/>hoc ee possibile in quibusdam vt sit 
+      <lb ed="#J" n="36"/>quandoque, et no sit quadoque, sine 
+      ge<lb ed="#J" n="37" break="no"/>neratione, &amp; corruptione. dignius 
+      <lb ed="#J" n="38"/>est enim illud, quod no diuiditur, quam 
+      <!--Averroes_Physica_JuntSecunda_04-0779.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="39"/>do fuerit quandoque, &amp; non fuerit, 
+      <lb ed="#J" n="40"/>quandoque, vt esse cuiuslibet talis, 
+      <lb ed="#J" n="41"/>aut non esse sit necessariu, vt sit 
+      si<lb ed="#J" n="42" break="no"/>ne transmutatioe. Ponatur igitur 
+      <lb ed="#J" n="43"/>quod possibile est vt quaedam prin 
+      <lb ed="#J" n="44"/>cipia, et quid sunt non mota, sed sunt, 
+      <lb ed="#J" n="45"/>mouentia, sint quandoque, &amp; 
+      qua<lb ed="#J" n="46" break="no"/>doque non sint. sed non est possibile vt 
+      <lb ed="#J" n="47"/>oia sint talia. manifestu est enim quod  
+      <lb ed="#J" n="48"/>hic est alia ca eorum, qui mouent se in  
+      <lb ed="#J" n="49"/>ee eorum quadoque, et no esse eoru 
+      qua<lb ed="#J" n="50" break="no"/>doque, omne enim moues se, necesse est vt ha 
+      <lb ed="#J" n="51"/>beat magnitudinem, cum illud, quod V 
+      <lb ed="#J" n="52"/>non diuiditur, non mouetur. motor 
+      <lb ed="#J" n="53"/>autem non sequitur aliquo mo vt 
+      <lb ed="#J" n="54"/>habeat magnitudinem. Causa, ve 
+      <lb ed="#J" n="55"/>ro in hoc, quod quaedam generatur, 
+      <lb ed="#J" n="56"/>&amp; quaedam corrumpuntur, et hoc 
+      <lb ed="#J" n="57"/>esse perpetuum, non est vnum eorum, 
+      <lb ed="#J" n="58"/>quae sunt no mota. sed no sunt 
+      sem<lb ed="#J" n="59" break="no"/>per in esse mota, ita, quod ista 
+      mo<lb ed="#J" n="60" break="no"/>ueant semper, &amp; per hoc moueat 
+      <lb ed="#J" n="61"/>alia. quod enim est tale, nec non  
+      <lb ed="#J" n="62"/>vnum huius, neque, omnia erunt cam 
+      <lb ed="#J" n="63"/>rei perpetiae continuae. ista enim dispo, 
+      <lb ed="#J" n="64"/>sitio, secundum quam sunt ista, est 
+      <lb ed="#J" n="65"/>aeterna, &amp; necessaria. ista autem 
+      <lb ed="#J" n="66"/>omnia sunt infinita: sed non 
+      om<lb ed="#J" n="67" break="no"/>nia existunt insimul. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e3009"><!-- l8-i-47 -->
+      <!--Averroes_Physica_JuntSecunda_04-0783.xml-->
+               <cb ed="#J" n="b"/>
+               <lb ed="#J" n="44"/>Manifestum est igitur quod, si 
+      <lb ed="#J" n="45"/>essent hic principia inumerabilia, 
+      <lb ed="#J" n="46"/>cilicet principiorum, qui mouent, &amp; non  
+      <lb ed="#J" n="47"/>mouentur, &amp; plura mouentium 
+      <lb ed="#J" n="48"/>corrumpuntur, deinde generatur, 
+      <lb ed="#J" n="49"/>&amp; istud, quod non est motum, mo 
+      <lb ed="#J" n="50"/>uet aliud, &amp; aliud mouet aliud, 
+      <lb ed="#J" n="51"/>hoc non faceret aliquo modo, nisi 
+      <lb ed="#J" n="52"/>esset hic aliquid, quod contineret etiam 
+      <lb ed="#J" n="53"/>noc in vnaquaque rerum, quod est 
+      <lb ed="#J" n="54"/>causa in esse quorundam, &amp; non  
+      <lb ed="#J" n="55"/>esse quorunda in hac 
+      transmuta<lb ed="#J" n="56" break="no"/>tione continua, ita, quod hoc sit 
+      <lb ed="#J" n="57"/>causa motus istorum, &amp; ista sunt 
+      <lb ed="#J" n="58"/>causa motus aliorum. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e3049"><!-- l8-i-48 -->
+               <lb ed="#J" n="79"/>Et, si motus fuerit aeternus, tue 
+      <lb ed="#J" n="80"/>primus motor erit aeternus, si 
+      fue<lb ed="#J" n="81" break="no"/>rit vnus. et, si fuerint plures 
+      vno<lb ed="#J" n="82" break="no"/>tuc aeterna erut plura vno. Sed me 
+      <lb ed="#J" n="83"/>lius e opinari ipsu esse vnum, non 
+      plu<lb ed="#J" n="84" break="no"/>res. hoc enim complebitur per tria. et, si 
+      <!--Averroes_Physica_JuntSecunda_04-0785.xml-->
+      <pb ed="#J" n="389-r"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1"/>fuerint plures, melius est opinari 
+      <lb ed="#J" n="2"/>ipsos esse finitos, quam infinitos. co 
+      <lb ed="#J" n="3"/>tingentia enim, cum sint eadem, 
+      <lb ed="#J" n="4"/>oportet esse melius habere finitos. 
+      <lb ed="#J" n="5"/>res enim quae sunt per naturam, 
+      opor<lb ed="#J" n="6" break="no"/>tet vt accipiatur in eis pars finita, 
+      <lb ed="#J" n="7"/>&amp; melior in eo quod est possibile, 
+      <lb ed="#J" n="8"/>&amp; vnum sufficit. et prima rerum 
+      <lb ed="#J" n="9"/>quae non mouentur, erit aeterna, &amp;  
+      <lb ed="#J" n="10"/>principium motus in alus rebus. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e3094"><!-- l8-i-49 -->
+               <lb ed="#J" n="79"/>Et apparet ex hoc quod nos 
+      di<lb ed="#J" n="80" break="no"/>cemus etia, quod est necessarium 
+      <lb ed="#J" n="81"/>vt motor primus sit vnum 
+      aeter<lb ed="#J" n="82" break="no"/>nu. Declaratum est enim quod necesse 
+      <!--Averroes_Physica_JuntSecunda_04-0786.xml-->
+      <pb ed="#J" n="389-v"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1"/>est quod motus sit semper. et si mo 
+      <lb ed="#J" n="2"/>tus fuerit semper, necesse est vt sit 
+      <lb ed="#J" n="3"/>continuus semper. aeternum enim. est 
+      <lb ed="#J" n="4"/>continuum: successiuum autem non 
+      <lb ed="#J" n="5"/>est continuum. Sed si fuerit 
+      conti<lb ed="#J" n="6" break="no"/>nuus, erit vnus. &amp; vnus motus erit 
+      <lb ed="#J" n="7"/>ab vno motore, &amp; ab vno moto. 
+      <lb ed="#J" n="8"/>quonia si mouet successiue, tunc 
+      il<lb ed="#J" n="9" break="no"/>e motus non erit continuus. Ex istis 
+      <lb ed="#J" n="10"/>igitur erit homo certus hic esse 
+      ali<lb ed="#J" n="11" break="no"/>quod primum non motum. 
+    </p>
+            <p xml:id="aristdp-d1e105-d1e3137"><!-- l8-i-50 -->
+               <lb ed="#J" n="78"/>Et erit magis certus in hoc est, 
+      <lb ed="#J" n="79"/>quando consyderauerit principia, 
+      <lb ed="#J" n="80"/>motuum. Quoniam, cum 
+      manife<lb ed="#J" n="81" break="no"/>stum sit, quod entium quaedam quan 
+      <!--Averroes_Physica_JuntSecunda_04-0787.xml-->
+      <pb ed="#J" n="390-r"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1"/>doque mouentur, &amp; quandoque, 
+      quie<lb ed="#J" n="2" break="no"/>scunt. &amp; per hoc fuit declaratum 
+      <lb ed="#J" n="3"/>quod non omnia mouentur, neque 
+      <lb ed="#J" n="4"/>omnia quiescut, sed quaedam 
+      quie<lb ed="#J" n="5" break="no"/>scunt semper, &amp; quaedam 
+      mouen<lb ed="#J" n="6" break="no"/>tur semper. illud enim quod habet 
+      <lb ed="#J" n="7"/>vtrunque, &amp; habet potentiam vt 
+      <lb ed="#J" n="8"/>moueatur, &amp; vt autescat, decla. 
+      <lb ed="#J" n="9"/>rat ista. Et quia illud, quod habet 
+      <lb ed="#J" n="10"/>talem dispositionem, manifestum 
+      <lb ed="#J" n="11"/>est cuilibet: &amp; intendimus 
+      decla<lb ed="#J" n="12" break="no"/>rare etia naturam vtriusque duoru 
+      <lb ed="#J" n="13"/>modorum scilicet quod quaedam entium 
+      <lb ed="#J" n="14"/>semper non mouentur, &amp; quaedam 
+      <lb ed="#J" n="15"/>semper mouentur: &amp; incoepimus 
+      <lb ed="#J" n="16"/>in hoc, &amp; posuimus quod omne mo 
+      <lb ed="#J" n="17"/>tum mouetur ab aliquo, &amp; quod  
+      <lb ed="#J" n="18"/>istud aut est non motum, aut 
+      mo<lb ed="#J" n="19" break="no"/>tor, &amp; ex se motum, aut ex alio 
+      <lb ed="#J" n="20"/>semper &amp; peruenimus ad hoc, 
+      <lb ed="#J" n="21"/>quod mota habent principium mo 
+      <lb ed="#J" n="22"/>tum, quod mouet se. &amp; principium 
+      <lb ed="#J" n="23"/>omnium est illud, quod non 
+      moue<lb ed="#J" n="24" break="no"/>tur. &amp; nos videmus aliqua talia, 
+      <lb ed="#J" n="25"/>&amp; sunt illa, quae mouent se, v. gr. 
+      <lb ed="#J" n="26"/>genus habentium animas, &amp; 
+      ge<lb ed="#J" n="27" break="no"/>nus modorum animalium. Ista igi 
+      <lb ed="#J" n="28"/>tur faciunt existimare quod forte 
+      <lb ed="#J" n="29"/>possibile est vt fiat motus sine eo, 
+      <lb ed="#J" n="30"/>quod ante fuit omnino: quia nos in  
+      <lb ed="#J" n="31"/>uenimus quod hoc accidit in istis: 
+      <lb ed="#J" n="32"/>sunt enim quandoque non mota, deim 
+      <lb ed="#J" n="33"/>de mouentur, secundum quod 
+      exi<lb ed="#J" n="34" break="no"/>stimantur.
+  </p>
+            <p xml:id="aristdp-d1e105-d1e3229"><!-- l8-i-51 -->
+               <lb ed="#J" n="68"/>Sed debemus facere ita, quod 
+      <lb ed="#J" n="69"/>motor essentialiter non moueat, ni 
+      <lb ed="#J" n="70"/>si vno motu, &amp; quod ipse moues 
+      <lb ed="#J" n="71"/>isto motu, non quia est primum, 
+      <lb ed="#J" n="72"/>quoniam non est causa ex se. sed in 
+      <lb ed="#J" n="73"/>animalibus sunt alu motus 
+      natu<lb ed="#J" n="74" break="no"/>rales, qui non sunt ex illo, v. g. auae, 
+      <lb ed="#J" n="75"/>mentum, &amp; diminutio, &amp; anheli 
+      <lb ed="#J" n="76"/>tus. &amp; istis motibus mouetur 
+      qui<lb ed="#J" n="77" break="no"/>libet modorum animaliu sine eo, 
+      <lb ed="#J" n="78"/>quod mouetur ex se, sed etia 
+      quie<lb ed="#J" n="79" break="no"/>scit. Et causa istorum motuum est 
+      <lb ed="#J" n="80"/>illud, quod continet ipsum, &amp; mul 
+      <lb ed="#J" n="81"/>ta aduenientia suo corpori, v. g. nu 
+      <!--Averroes_Physica_JuntSecunda_04-0789.xml-->
+      <pb ed="#J" n="391-r"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1"/>trimentum in animalibus quibul 
+      <lb ed="#J" n="2"/>dam. quoniam, cum digeritur, dor  
+      <lb ed="#J" n="3"/>miunt, &amp; cum disfiguitur, 
+      exper<lb ed="#J" n="4" break="no"/>gefiunt, &amp; mouent se. &amp; primum 
+      <lb ed="#J" n="5"/>principium est extrinsecu. &amp; ideo 
+      <lb ed="#J" n="6"/>non mouentur semper ex se 
+      conti<lb ed="#J" n="7" break="no"/>nue. motor enim illorum est aliud 
+      <lb ed="#J" n="8"/>ab eo, quod est, quando mouentur 
+      <lb ed="#J" n="9"/>&amp; Laborant secundum vnuquodque, 
+      <lb ed="#J" n="10"/>mouentium. Et in omnibus istis 
+      <lb ed="#J" n="11"/>mouetur primus motor, qui est cau 
+      <lb ed="#J" n="12"/>sa eius, quod moueant se ex se: sed  
+      <lb ed="#J" n="13"/>motus eius erit per accides. corpus 
+      <lb ed="#J" n="14"/>enim mutat suum locum: &amp; ideo 
+      <lb ed="#J" n="15"/>mutat etiam locum illud, quod est 
+      <lb ed="#J" n="16"/>in corpore: &amp; quod est in vniuerso 
+      <lb ed="#J" n="17"/>mouens se. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e3306"><!-- l8-i-52 -->
+               <lb ed="#J" n="53"/>Ex hoc igitur erit homo certus 
+      <lb ed="#J" n="54"/>quod, si aliquid fuerit ex eis, quae  
+      <lb ed="#J" n="55"/>non mouentur, sed mouetur etiam 
+      <lb ed="#J" n="56"/>per accides, im possibile est vt mo 
+      <lb ed="#J" n="57"/>tus sit aeternus. Et ideo, si fuerit ne 
+      <lb ed="#J" n="58"/>cesse vt motus sit aeternus, necesse 
+      <lb ed="#J" n="59"/>est vt primus motor sit, qui no mo 
+      <lb ed="#J" n="60"/>uetur neque per accidens. sed necel 
+      <lb ed="#J" n="61"/>se est, sicut diximus superius, vt 
+      <lb ed="#J" n="62"/>in entibus sit aliquis motus, qui non 
+      <lb ed="#J" n="63"/>cessat, &amp; quod remaneat ipsum 
+      <lb ed="#J" n="64"/>etiam in eadem dispositione, 
+      quo<lb ed="#J" n="65" break="no"/>niam, cum principium 
+      remanse<lb ed="#J" n="66" break="no"/>rit, totum necessario remanebit, 
+      <lb ed="#J" n="67"/>cum sit continuum cum principio. 
+      <lb ed="#J" n="68"/>Et aliquid moueri per accidens ex 
+      <lb ed="#J" n="69"/>se, aut ex alio, non est idem. illud 
+      <lb ed="#J" n="70"/>enim quod mouetur ex alio, inueni 
+      <lb ed="#J" n="71"/>tur etiam in quibusdam 
+      princi<lb ed="#J" n="72" break="no"/>pus rerum, quae sunt in coelo, 
+      scili<lb ed="#J" n="73" break="no"/>cet ea, quae transferuntur modis, 
+      <lb ed="#J" n="74"/>transtationis pluribus vno: aliud  
+      <lb ed="#J" n="75"/>autem inuenitur in 
+      corruptibili<lb ed="#J" n="76" break="no"/>bus tantum. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e3363"><!-- l8-i-53 -->
+               <lb ed="#J" n="22"/>Et hoc declarabitur post. primo 
+      <lb ed="#J" n="23"/>autem, quia hoc impossibile est 
+      a<lb ed="#J" n="24" break="no"/>tio modo vt sit generatio, &amp; 
+      cor<lb ed="#J" n="25" break="no"/>ruptio, &amp; trasmutatio aliaru, nisi 
+      <lb ed="#J" n="26"/>sit hic aliquid, quod mouet, &amp; mo 
+      <lb ed="#J" n="27"/>uetur. illud enim quod non mouetur, 
+      <lb ed="#J" n="28"/>semper mouet eodem modo, quia, 
+      <lb ed="#J" n="29"/>nunquam trasmutatur omnino in 
+      <lb ed="#J" n="30"/>respectu moti. motum autem al 
+      <lb ed="#J" n="31"/>alio, quod mouet, quia fit in 
+      dispos<lb ed="#J" n="32" break="no"/>tionibus diuersis in respectu 
+      re<lb ed="#J" n="33" break="no"/>rum, ideo non erit causa eiusdem 
+      <lb ed="#J" n="34"/>motus. &amp; propter hoc, quia erit in  
+      <lb ed="#J" n="35"/>locis, aut formis contrarus, ideo lar 
+      <lb ed="#J" n="36"/>gitur per suum motum res contra 
+      <lb ed="#J" n="37"/>rias, &amp; quandoque erit quiescens 
+      <lb ed="#J" n="38"/>sic, &amp; quandoque motum. Et ap 
+      <!--Averroes_Physica_JuntSecunda_04-0794.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="39"/>paret etiam ex hoc illud, in quo duus 
+      <lb ed="#J" n="40"/>bitabamus prius, scilicet quare 
+      <lb ed="#J" n="41"/>non omnes res mouentur, aut 
+      om<lb ed="#J" n="42" break="no"/>nes quiescunt, aut sunt diuisae in  
+      <lb ed="#J" n="43"/>duas partes, quarum vna est 
+      mo<lb ed="#J" n="44" break="no"/>tum semper, &amp; alia quiesces sem 
+      <lb ed="#J" n="45"/>per, sed sunt hic res, quae 
+      mouen<lb ed="#J" n="46" break="no"/>tur quandoque, &amp; quiescunt quan 
+      <lb ed="#J" n="47"/>doque. Causa enim in hoc est 
+      mani<lb ed="#J" n="48" break="no"/>festa. &amp; est, quod quaedam res mo 
+      <lb ed="#J" n="49"/>uentur a non moto aeterno, &amp; ideo 
+      <lb ed="#J" n="50"/>mouentur semper, &amp; quaedam no 
+      <lb ed="#J" n="51"/>mouentur, nisi a moto transmuta 
+  <lb ed="#J" n="52" break="no"/>bili, &amp; ideo necesse est etiam vt 
+      <lb ed="#J" n="53"/>sint transmutabilia. Illud autem, 
+      <lb ed="#J" n="54"/>quod est non motum, quia est, sicut 
+      <lb ed="#J" n="55"/>diximus simplex, &amp; permanens 
+      <lb ed="#J" n="56"/>in eadem dispositione, mouet vno 
+      <lb ed="#J" n="57"/>motu simplici. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e3449"><!-- l8-i-54 -->
+               <lb ed="#J" n="82"/>Deinde hoc apparebit manife 
+      <lb ed="#J" n="83"/>ste magis, consyderando alio 
+      mo<lb ed="#J" n="84" break="no"/>do. consyderadum est enim, vtrum 
+      <!--Averroes_Physica_JuntSecunda_04-0797.xml-->
+      <pb ed="#J" n="395-r"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1"/>fit possibile quod aliquis motus sit 
+      <lb ed="#J" n="2"/>continuus, aut non &amp;, si hoc fuerit 
+      <lb ed="#J" n="3"/>possibile, quis motus est iste, &amp;  
+      <lb ed="#J" n="4"/>quis motus est primus motuu. Ma 
+      <lb ed="#J" n="5"/>nifestum est enim quod, si fuerit ne 
+      <lb ed="#J" n="6"/>cesse est vt motus aeternus sit, &amp;  
+      <lb ed="#J" n="7"/>fuerit aliquis motus demonstratus 
+      <lb ed="#J" n="8"/>primus, &amp; continuus, necesse est 
+      <lb ed="#J" n="9"/>vt primus motor moueat hoc 
+      mo<lb ed="#J" n="10" break="no"/>tu, qui est necesse vt sit vnus, &amp;  
+      <lb ed="#J" n="11"/>continuus &amp; primus. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e3489"><!-- l8-i-55 -->
+               <lb ed="#J" n="10"/>Dicamus igitur quod, cum mo 
+      <lb ed="#J" n="11"/>tus sunt tres scilicet in magnitudine, &amp; 
+      <lb ed="#J" n="12"/>in passione, &amp; in loco, &amp; necesse 
+      <lb ed="#J" n="13"/>est, vt iste sit primus motuum. im 
+      <lb ed="#J" n="14"/>possibile est enim augeri sine alterari. 
+      <lb ed="#J" n="15"/>augmetabile enim potes dicere ipsum 
+      <lb ed="#J" n="16"/>augeri simile, &amp; potes dicere 
+      ip<lb ed="#J" n="17" break="no"/>sum augeri per dissimile. nutrimen 
+      <lb ed="#J" n="18"/>tum enim dicitur contrarium ad 
+      <lb ed="#J" n="19"/>contrarium. &amp; non copulatur in 
+      <lb ed="#J" n="20"/>omni generato, nisi simile cum 
+      si<lb ed="#J" n="21" break="no"/>mili. necesse est igitur vt transmu 
+      <lb ed="#J" n="22"/>tatio ad contrarium sit alteratio. 
+      <lb ed="#J" n="23"/>Sed, cum fuerit alteratio, necesse 
+      <lb ed="#J" n="24"/>est vt aliquod alterans sit, quod ex 
+      <lb ed="#J" n="25"/>trabit illud, quod est in potentia 
+      <lb ed="#J" n="26"/>calidum, in calidum iactu. Et ma 
+      <lb ed="#J" n="27"/>nifestum est, quod dispositio 
+      moto<lb ed="#J" n="28" break="no"/>ris tunc non currit eodem modo 
+      <lb ed="#J" n="29"/>sed forte quandoque erit propinqui 
+      <lb ed="#J" n="30"/>or alterato, &amp; quandoque 
+      remo<lb ed="#J" n="31" break="no"/>tior. &amp; hoc non potest esse sine tram 
+      <lb ed="#J" n="32"/>statione. Si igitur sit necessarium 
+      <lb ed="#J" n="33"/>vt motus aeternus sit, sequitur 
+      ne<lb ed="#J" n="34" break="no"/>cessario vt trastatio aeterna sit pri 
+      <lb ed="#J" n="35"/>mus motuum. &amp;, si aliqua 
+      trasta<lb ed="#J" n="36" break="no"/>tio est prior, &amp; alia posterior, necel. 
+      <!--Averroes_Physica_JuntSecunda_04-0798.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="37"/>se est, vt prior sit aeterna. Et etiam  
+      <lb ed="#J" n="38"/>principium omnium passionu est 
+      <lb ed="#J" n="39"/>densitudo, &amp; raritas. grauitas enim 
+      <lb ed="#J" n="40"/>&amp; leuitas, &amp; mollities, &amp; 
+      duri<lb ed="#J" n="41" break="no"/>ties, &amp; caliditas, &amp; frigiditas 
+      exi<lb ed="#J" n="42" break="no"/>stimantur esse modi densitudinis, 
+      <lb ed="#J" n="43"/>&amp; raritatis. &amp; densitudo, &amp; 
+      ra<lb ed="#J" n="44" break="no"/>ritas sunt congregatio, &amp; segrega 
+      <lb ed="#J" n="45"/>tio, per quas dicitur substantia ge 
+      <lb ed="#J" n="46"/>nerani, &amp; corrumpi. &amp; quod 
+      con<lb ed="#J" n="47" break="no"/>gregatum est, aut segregatum, ne 
+      <lb ed="#J" n="48"/>cesse est vt mutet locum. Et etiam 
+      <lb ed="#J" n="49"/>augmentabile, &amp; diminuibile mu. 
+      <lb ed="#J" n="50"/>tant locu secudum magnitudinem. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e3586"><!-- l8-i-56 -->
+               <lb ed="#J" n="5"/>Et apparet etiam quod translatio 
+      <lb ed="#J" n="6"/>est primus motuu, consyderando hoc 
+      <lb ed="#J" n="7"/>modo. Primum enim quemadmodum 
+      <lb ed="#J" n="8"/>dicitur multiplex in aliis rebus, 
+      <lb ed="#J" n="9"/>ita et dicitur in motu. Dicitur enim 
+      <lb ed="#J" n="10"/>prius illud, quod, cum non fuerit 
+      <lb ed="#J" n="11"/>non erunt alia, et potest esse extra 
+      <lb ed="#J" n="12"/>alia. Et dicitur prius illud, quod 
+      <lb ed="#J" n="13"/>est prius in tempore, aut in 
+      essen<lb ed="#J" n="14" break="no"/>tia. Quia igitur est necessarium vt 
+      <lb ed="#J" n="15"/>motus sit aeternus, et non aeternus, 
+      <lb ed="#J" n="16"/>nisi, aut quia es cotinuus, aut quia 
+      <lb ed="#J" n="17"/>est successiuus: &amp; est dignius vt 
+      <lb ed="#J" n="18"/>sit continuus, quam vt sit 
+      suecessi<lb ed="#J" n="19" break="no"/>uus, &amp; melius: et opinamur quod  
+      <lb ed="#J" n="20"/>illud, quod est secudum naturam, est 
+      <lb ed="#J" n="21"/>melius, si est possibile: &amp; 
+      possibi<lb ed="#J" n="22" break="no"/>le est vt sit continuus, et hoc decla 
+      <lb ed="#J" n="23"/>rabitur post, sed nuc ponatur quod  
+      <lb ed="#J" n="24"/>ipossibile est vt aliquis motus sit 
+      <lb ed="#J" n="25"/>continuus, nisi locatis: necesse est 
+      <lb ed="#J" n="26"/>igitur vt traslatio sit primus 
+      mo<lb ed="#J" n="27" break="no"/>tuum. non enim necesse est vt transla 
+      <lb ed="#J" n="28"/>tum moueatur alio motu omnino, 
+      <lb ed="#J" n="29"/>neque, secundum augmentum, neque, 
+      <lb ed="#J" n="30"/>secundum alterationem, neque, vt 
+      ge<lb ed="#J" n="31" break="no"/>neretur, neque vt corrumpatur. sed  
+      <lb ed="#J" n="32"/>impossibile est vt aliquis istorum sit, 
+      <lb ed="#J" n="33"/>nisi sit motus localis, secundum que 
+      <lb ed="#J" n="34"/>mouet primus motor.
+  </p>
+            <p xml:id="aristdp-d1e105-d1e3655"><!-- l8-i-57 -->
+               <lb ed="#J" n="84"/>Et et est primus in tempore. se 
+      <lb ed="#J" n="85"/>cundum enim aeternitatem tanti: potest 
+      <!--Averroes_Physica_JuntSecunda_04-0803.xml-->
+      <pb ed="#J" n="398-r"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1"/>moueri hoc motu. Sed indiuiduum 
+      <lb ed="#J" n="2"/>quodcunque, quod habet 
+      generatio<lb ed="#J" n="3" break="no"/>nem, habet motum localem post 
+      <lb ed="#J" n="4"/>omnes motus necessario. non enim 
+      ge<lb ed="#J" n="5" break="no"/>neratur, nisi postquam est 
+      altera<lb ed="#J" n="6" break="no"/>tio, &amp; augmentum. motus autem 
+      <lb ed="#J" n="7"/>localis est motus perfectionis. Sed  
+      <lb ed="#J" n="8"/>necesse est, vt aliud ab eo 
+      mouea<lb ed="#J" n="9" break="no"/>tur ante motum traslationis, quod  
+      <lb ed="#J" n="10"/>est causa etiam in generatione genera 
+      <lb ed="#J" n="11"/>bilium. absque eo, quod ipsum 
+      ge<lb ed="#J" n="12" break="no"/>neretur, v.g. quod generans est cam 
+      <lb ed="#J" n="13"/>geniti. Et, si non esset ita, existima 
+      <lb ed="#J" n="14"/>retur quod generatio esset primus 
+      <lb ed="#J" n="15"/>motuum, quonia necesse est vt pri 
+      <lb ed="#J" n="16"/>mo generetur. sed, licet dispositio 
+      <lb ed="#J" n="17"/>sit talis in indiuiduo vnoquoque, 
+      ge<lb ed="#J" n="18" break="no"/>nerabilium, tame necesse est vt sit 
+      <lb ed="#J" n="19"/>hic aliquid prius generabilibus 
+      <lb ed="#J" n="20"/>quod moueatur, &amp; in se semper 
+      <lb ed="#J" n="21"/>existat, &amp; fit non generatum, et 
+      <lb ed="#J" n="22"/>istud etiam habet aliquid aliud prius 
+      <lb ed="#J" n="23"/>ipso. Et, quia est impossibile vt ge 
+      <lb ed="#J" n="24"/>neratum sit primum: quonia tunc 
+      <lb ed="#J" n="25"/>omnia mota essent generabilia es 
+      <lb ed="#J" n="26"/>corruptibilia: manifestu est quod 
+      <lb ed="#J" n="27"/>nullus motuum consequentium est 
+      <lb ed="#J" n="28"/>prior scilicet augmentum, et alteratio, 
+      <lb ed="#J" n="29"/>diminutio, &amp; corruptio. omnia enim  
+      <lb ed="#J" n="30"/>ista sunt post generationem. Et, si 
+      <lb ed="#J" n="31"/>generatio non est prior 
+      translatio<lb ed="#J" n="32" break="no"/>ne. ergo nullus modorum 
+      trans<lb ed="#J" n="33" break="no"/>mutationis est prior translatione. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e3741"><!-- l8-i-58 -->
+               <lb ed="#J" n="29"/>Et vniuersaliter manifestum 
+      <lb ed="#J" n="30"/>est, quod generatum est 
+      diminu<lb ed="#J" n="31" break="no"/>tum, &amp; semper currit ad 
+      princi<lb ed="#J" n="32" break="no"/>pius. &amp; sic posterius in generatior 
+      <lb ed="#J" n="33"/>est prius in natura. &amp; translatio 
+      <lb ed="#J" n="34"/>est postremu eius, quod inuenitur 
+      <lb ed="#J" n="35"/>un generato. Et ideo quaedam viua 
+      <lb ed="#J" n="36"/>non mouentur omnino propter pri 
+      <lb ed="#J" n="37"/>uationem instrumeuti, v.g. plantae 
+      <lb ed="#J" n="38"/>&amp; plura generata animalium: in 
+      <lb ed="#J" n="39"/>perfectis autem est. Cum igitur 
+      <lb ed="#J" n="40"/>translatio non inuenitur, nisi in eis, 
+      <!--Averroes_Physica_JuntSecunda_04-0805.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="41"/>quae habent maiorem partem in  
+      <lb ed="#J" n="42"/>natura, necesse est vt iste motus 
+      <lb ed="#J" n="43"/>etiam essentialiter sit primus 
+      ca<lb ed="#J" n="44" break="no"/>teris motibus. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e3785"><!-- l8-i-59 -->
+               <lb ed="#J" n="24"/>Et non propter ista tantum est 
+      <lb ed="#J" n="25"/>prior, sed propter hoc etiam, quia est 
+      <lb ed="#J" n="26"/>inter alios motus talis, quod non re 
+      <lb ed="#J" n="27"/>mouetur illud, quod mouetur secu 
+      <lb ed="#J" n="28"/>dum illud a substantia sua. iste enim 
+      <lb ed="#J" n="29"/>solus non transmutat ipsum 
+      omni<lb ed="#J" n="30" break="no"/>no in sua essentia, sicut transmuta 
+      <lb ed="#J" n="31"/>tur apud alterationem secundum qua 
+      <lb ed="#J" n="32"/>litate, et apud augmetum, &amp; 
+      di<lb ed="#J" n="33" break="no"/>minutione secundum quatitatem. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e3810"><!-- l8-i-60 -->
+               <lb ed="#J" n="80"/>Et manifestum est, quod se pro 
+      <lb ed="#J" n="81"/>prie hoc motu mouet prima inten 
+      <lb ed="#J" n="82"/>tione. et dicimus quod primu prm 
+      <lb ed="#J" n="83"/>cipium in motis, &amp; motoribus est 
+      <lb ed="#J" n="84"/>illud, scilicet illud, quod mouet se. 
+  </p>
+            <p xml:id="aristdp-d1e105-d1e3824"><!-- l8-i-61 -->
+               <lb ed="#J" n="33"/>Apparet igitur ex hoc quod 
+      <lb ed="#J" n="34"/>translatio est primus motuum. 
+      <lb ed="#J" n="35"/>Quae autem translatio sit prima 
+      <lb ed="#J" n="36"/>declaratum erit nunc. &amp; 
+      mani<lb ed="#J" n="37" break="no"/>festabitur cum hoc per hanc 
+      ean<lb ed="#J" n="38" break="no"/>dem viam illud, quod posuimus 
+      <lb ed="#J" n="39"/>positione in hoc loco, &amp; prius, sci
+      <!--Averroes_Physica_JuntSecunda_04-0807.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="40" break="no"/>licet quoniam possibile est vt aliquo 
+      <lb ed="#J" n="41"/>motus sit continuus, et aeternus. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e3851"><!-- l8-i-62 -->
+               <lb ed="#J" n="49"/>Dicamus igitur, quod apparet 
+      <lb ed="#J" n="50"/>impossibile esse aliquem motum 
+      <lb ed="#J" n="51"/>aliorum esse continuum ex hoc ser 
+      <lb ed="#J" n="52"/>mone. Motus enim, &amp; omnes mo 
+      <lb ed="#J" n="53"/>di transmutationis sunt de 
+      opposi<lb ed="#J" n="54" break="no"/>to in oppositu. v. g. quoniam duo 
+      ter<lb ed="#J" n="55" break="no"/>mini generationis, &amp; corruptiois. 
+      <lb ed="#J" n="56"/>sunt esse, et non esse. &amp; duo termi 
+      <lb ed="#J" n="57"/>ni alterationis sunt duo contraria. 
+      <lb ed="#J" n="58"/>&amp; duo termini augmenti sunt ma 
+      <lb ed="#J" n="59"/>gnitudo, et paruitas, aut perfectio, 
+      <lb ed="#J" n="60"/>&amp; diminutio magnitudinis. &amp; il 
+      <lb ed="#J" n="61"/>la, quae sunt ad partes contrarias 
+      <lb ed="#J" n="62"/>sunt contraria. &amp; quod nunquam 
+      <lb ed="#J" n="63"/>mouetur motu demostrato, et fuit 
+      <lb ed="#J" n="64"/>ante necessario quiescens. 
+      manife<lb ed="#J" n="65" break="no"/>stum est igitur quod 
+      transmuta<lb ed="#J" n="66" break="no"/>tum quiescit, quando peruenerit 
+      <lb ed="#J" n="67"/>in contrarium. Et secundum hunc 
+      <lb ed="#J" n="68"/>modum est de modis 
+      trasmutatio<lb ed="#J" n="69" break="no"/>num. corruptio enim et generatio sunt 
+      <lb ed="#J" n="70"/>opposita simpliciter, &amp; quae sunti 
+      <lb ed="#J" n="71"/>vnoquoque, indiuiduo sunt opposita, 
+      <lb ed="#J" n="72"/>eis, quae sunt in alio. Et ideo, si no 
+      <lb ed="#J" n="73"/>fuerit possibile vt aliquid 
+      trans<lb ed="#J" n="74" break="no"/>mutetur insimul duobus modis, 
+      <lb ed="#J" n="75"/>transmutationis oppositis, impossi 
+      <lb ed="#J" n="76"/>bile est vt transmutatio sit 
+      conti<lb ed="#J" n="77" break="no"/>nua, sed necesse est vt inter ea sit 
+      <lb ed="#J" n="78"/>tempus. non enim est differentia inter 
+      <!--Averroes_Physica_JuntSecunda_04-0809.xml-->
+      <pb ed="#J" n="401-r"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1"/>hoc, quod modi transmutatiois com. 
+      <lb ed="#J" n="2"/>tradictorum sint contrarum, aut non  
+      <lb ed="#J" n="3"/>contrarum, duin hoc solum sit 
+      im<lb ed="#J" n="4" break="no"/>possibile in eis scilicet vtisimul existant 
+      <lb ed="#J" n="5"/>in eodem. hoc enim no indigetur in hoc 
+      <lb ed="#J" n="6"/>sermone. Nec etiam indigetur hoc, 
+      <lb ed="#J" n="7"/>cilicet quod non est necessarium vt gene 
+      <lb ed="#J" n="8"/>ratio sit in cotradistorus. Nec hoc 
+      <lb ed="#J" n="9"/>etiam, quod transmutatio est 
+      con<lb ed="#J" n="10" break="no"/>traria quieti. quod enim non est, 
+      di<lb ed="#J" n="11" break="no"/>gnum est, vt non sit possibile vt 
+      <lb ed="#J" n="12"/>quiescat: corruptio autem inducit 
+      <lb ed="#J" n="13"/>Mad non esse. sed illud, quo indige 
+  <lb ed="#J" n="14" break="no"/>tur in hoc sermone, est hoc solum, 
+      <lb ed="#J" n="15"/>Lvtrum inter ea fit tempus. quoniam, 
+      <lb ed="#J" n="16"/>si hoc fuerit, impossibile erit vt 
+      <lb ed="#J" n="17"/>transmutatio sit continua. nostra 
+      <lb ed="#J" n="18"/>enm indigentia in primis duabus re 
+      <lb ed="#J" n="19"/>bus non fuit ad contrarietate, sed  
+      <lb ed="#J" n="20"/>ad hoc, quod impossibile est vt 
+      ex<lb ed="#J" n="21" break="no"/>stant insimul. Et non debemus per 
+      <lb ed="#J" n="22"/>care propter hoc, quod idem erit 
+      <lb ed="#J" n="23"/>cotrarium pluribus. v.g. quod mo 
+      <lb ed="#J" n="24"/>tus est contrarius quieti, &amp; 
+      con<lb ed="#J" n="25" break="no"/>trarius motui, qui est ad 
+      contra<lb ed="#J" n="26" break="no"/>rium: sed non debemus nos 
+      consy<lb ed="#J" n="27" break="no"/>derare in hoc solo scilicet quodammodo  
+      <lb ed="#J" n="28"/>vno, et non quodam modo alio. 
+      mo<lb ed="#J" n="29" break="no"/>tus igitur, &amp; quies opponuntur 
+      <lb ed="#J" n="30"/>motui contrario, v.g. quod aequali 
+      <lb ed="#J" n="31"/>tas, &amp; temperamentu superabun 
+      <lb ed="#J" n="32"/>dantiae, &amp; diminutioni: &amp; quod 
+      <lb ed="#J" n="33"/>impossibile est vt sit insimul, neque, 
+      <lb ed="#J" n="34"/>duo motus oppositi, neque, duo modi 
+      <lb ed="#J" n="35"/>transmutationis oppositi.
+  </p>
+            <p xml:id="aristdp-d1e105-d1e4002"><!-- l8-i-63 -->
+               <lb ed="#J" n="81"/>Et etiam malum est omni mo 
+      exi<lb ed="#J" n="82" break="no"/>ssimare de generatione, &amp; 
+      corru<lb ed="#J" n="83" break="no"/>ptione, quod res, quado generatur. 
+      <lb ed="#J" n="84"/>necesse est vt corrupatur stati, &amp; 
+      <lb ed="#J" n="85"/>non remanet tempore omo. Et hoc 
+      <lb ed="#J" n="86"/>erit certitudo de hac intetione in 
+      <!--Averroes_Physica_JuntSecunda_04-0813.xml-->
+      <pb ed="#J" n="403-r"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1"/>aliis partibus. cursus enim est in  
+      <lb ed="#J" n="2"/>illis omnibus eodem. modo .  
+      </p>
+            <p xml:id="aristdp-d1e105-d1e4029"><!-- l8-i-64 -->
+               <lb ed="#J" n="67"/>Et nos declarabimus mo, quod 
+      <lb ed="#J" n="68"/>possibile est vt sit hic motus, 
+      infi<lb ed="#J" n="69" break="no"/>nitus, vnus, &amp; continuus. est enim 
+      <lb ed="#J" n="70"/>aut totius translati, aut circulari 
+      <lb ed="#J" n="71"/>ter. Dicamus igitur quod emne est tras 
+      <lb ed="#J" n="72"/>latum, aut circulariter, aut recte, 
+      <lb ed="#J" n="73"/>aut motu mixto. si igitur alter 
+      <lb ed="#J" n="74"/>istorum non iuerit continuus, 
+      ipossi<lb ed="#J" n="75" break="no"/>bile erit vt compositus ex ambobus 
+      <lb ed="#J" n="76"/>sit cotinuus. et manifestum est quod 
+      <lb ed="#J" n="77"/>translatu per. inea rectam finita non 
+      <lb ed="#J" n="78"/>mouetur cotinue: reuertitur enim 
+      re<lb ed="#J" n="79" break="no"/>cte: et quod reuertitur recte, moue 
+      <lb ed="#J" n="80"/>tur duobus motibus contrarus. mo 
+      <lb ed="#J" n="81"/>tus. nanloco ad superius est cotra 
+      <!--Averroes_Physica_JuntSecunda_04-0814.xml-->
+      <pb ed="#J" n="403-v"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1" break="no"/>rius motui ad inferius: &amp; motus 
+      <lb ed="#J" n="2"/>ad anterius est cotrarius motui ad  
+      <lb ed="#J" n="3"/>posterius: et motus ad sinistrum est 
+      <lb ed="#J" n="4"/>contrarius motui ad dextru. isti enim 
+      <lb ed="#J" n="5"/>sunt modi cotrarietatis in loco. Et 
+      <lb ed="#J" n="6"/>M determinauimus prius quis mo 
+      <lb ed="#J" n="7"/>tus sit vnus continuus, &amp; diximus 
+      <lb ed="#J" n="8"/>quod est motus, qui est eiusdem rei 
+      <lb ed="#J" n="9"/>in vno tempore, &amp; in eo, quod non  
+      <lb ed="#J" n="10"/>diuersatur secudum forma, scilicet secudum 
+      <lb ed="#J" n="11"/>spem. illa enim per quod complebitur hoc, 
+      <lb ed="#J" n="12"/>sunt tria, motum scilicet v. g. homo, aut 
+      <lb ed="#J" n="13"/>Deus: et quado, v. g. tepus: et 
+      ter<lb ed="#J" n="14" break="no"/>tiu est illud, in quo est motus scilicet 
+      lo<lb ed="#J" n="15" break="no"/>cus, aut passio, aut forma, aut ma 
+      <lb ed="#J" n="16"/>gnitudo. contrari aut differunt se 
+      <!--Averroes_Physica_JuntSecunda_04-0814.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="17"/>cundum formam, &amp; non secundum 
+      natu<lb ed="#J" n="18" break="no"/>ra. At illi autem modi, quos dixi 
+      <lb ed="#J" n="19"/>mus, differunt secundu locu. Et 
+      si<lb ed="#J" n="20" break="no"/>gnu quod motus de Aad Eest com 
+      <lb ed="#J" n="21"/>trarius motui ex Bad A, e, quia 
+      <lb ed="#J" n="22"/>contradicunt sibi, &amp; resistut, quam 
+      <lb ed="#J" n="23"/>do fuerint insimul. Et similiter est 
+      <lb ed="#J" n="24"/>et, cum fuerit i circulo. v.g. de 
+      mo<lb ed="#J" n="25" break="no"/>tu ab Aversus B, &amp; de 
+      Bver<lb ed="#J" n="26" break="no"/>sus A. quonia resistunt, et 
+      contra<lb ed="#J" n="27" break="no"/>dicunt sibi. si igitur fuerint 
+      conti<lb ed="#J" n="28" break="no"/>nui, non habebunt reuersionem, ne 
+      <lb ed="#J" n="29"/>que restexionem, quoniam 
+      cotra<lb ed="#J" n="30" break="no"/>ria sunt se corrumpentia, &amp; sibi 
+      <lb ed="#J" n="31"/>resistentia. et motus ad latus non  
+      <lb ed="#J" n="32"/>resistit motui ad superius. 
+  </p>
+            <p xml:id="aristdp-d1e105-d1e4146"><!-- l8-i-65 -->
+               <lb ed="#J" n="81"/>Et hoc apparet magis, scilicet 
+      <lb ed="#J" n="82"/>quod impossibile est vt motus per  
+      <!--Averroes_Physica_JuntSecunda_04-0818.xml-->
+      <pb ed="#J" n="405-v"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1"/>uneam rectam sit continuus, ex hoc scilicet 
+      <lb ed="#J" n="2"/>quod illud, quod resfectitur, 
+      neces<lb ed="#J" n="3" break="no"/>se est quod quiescat, non solum modo 
+      <lb ed="#J" n="4"/>illud, quod mouetur secundum 
+      li<lb ed="#J" n="5" break="no"/>neam recta, sed etiam illud, quod 
+      <lb ed="#J" n="6"/>mouetur per circulum. non enim est ea 
+      <lb ed="#J" n="7"/>dem intentio aliquid moueri circu 
+      <lb ed="#J" n="8"/>lariter, &amp; aliquid moueri per cum 
+      <lb ed="#J" n="9"/>culum. forte enim mouetur eudo super 
+      <lb ed="#J" n="10"/>ipsum, et forte, cum peruenerit ad 
+      <lb ed="#J" n="11"/>illum locum, a quo incoepit 
+      moue<lb ed="#J" n="12" break="no"/>ri, reuertetur. &amp; homo certus est, 
+      <lb ed="#J" n="13"/>quoniam talis motus necesse est vt 
+      <lb ed="#J" n="14"/>quiescat non sensu tantum, sed 
+      ra<lb ed="#J" n="15" break="no"/>tione. Et hoc est principium illius. 
+      <lb ed="#J" n="16"/>quonia hic sunt tria, principium, 
+      <lb ed="#J" n="17"/>&amp; medium, &amp; postremum, medi 
+      <lb ed="#J" n="18"/>um apud vtrunque extremorum est 
+      <lb ed="#J" n="19"/>vtrunque, &amp; est in numero, vnum, 
+      <lb ed="#J" n="20"/>&amp; in respectu duo. Et etiam illud, 
+      <lb ed="#J" n="21"/>quod est in potentia, est aliud ab eo, 
+      <lb ed="#J" n="22"/>quod est in actu Et ideo quodcunque 
+      <lb ed="#J" n="23"/>punctum imaginaueris inter duo 
+      <lb ed="#J" n="24"/>gextrema. est medium in potentia, 
+      <lb ed="#J" n="25"/>&amp; non est in actu, nisi quando 
+      di<lb ed="#J" n="26" break="no"/>uiserit illam, &amp; quando 
+      cessaue<lb ed="#J" n="27" break="no"/>rit quiesces apud illum punctum, 
+      <lb ed="#J" n="28"/>deinde incoeperit moueri, tunc igi 
+      <!--Averroes_Physica_JuntSecunda_04-0818.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="29" break="no"/>tur medius punctus erit principi 
+  <lb ed="#J" n="30" break="no"/>um, &amp; finis, principium postremi 
+      <lb ed="#J" n="31"/>&amp; finis primi. Verbi gratia quod  
+      <lb ed="#J" n="32"/>Amoueatur, &amp; quiescat apud  
+      <lb ed="#J" n="33"/>E, deinde moueatur ad &amp;C. cum 
+      au<lb ed="#J" n="34" break="no"/>tem mouetur secundum 
+      continua<lb ed="#J" n="35" break="no"/>tionem, impossibile erit vt A sit 
+      <lb ed="#J" n="36"/>in B, aut separetur ab ipso, sed erit 
+      <lb ed="#J" n="37"/>in eo tantum in instanti, non in tem 
+      <lb ed="#J" n="38"/>pore omnino, &amp; instas non diuidit, 
+      <lb ed="#J" n="39"/>totum, s. lineam. Si igitur aliquis 
+      <lb ed="#J" n="40"/>posuerit quod, cum Atrasfertur, 
+      <lb ed="#J" n="41"/>erit in E, &amp; separabitur ab eo 
+      <lb ed="#J" n="42"/>tunc erit quiescens. impossibile enim 
+      <lb ed="#J" n="43"/>est vt Asit insimul in E, &amp; sepa 
+      <lb ed="#J" n="44"/>retur ab eo. ergo hoc erit in duobus 
+      <lb ed="#J" n="45"/>puctis diuersis temporibus. ex quo 
+      <lb ed="#J" n="46"/>sequitur vt Aquiescat in 
+      pun<lb ed="#J" n="47" break="no"/>cto B. &amp; similiter in alis 
+      pun<lb ed="#J" n="48" break="no"/>ctis. quoniam ratio est eadem in  
+      <lb ed="#J" n="49"/>omnibus. Quando autem 
+      Amo<lb ed="#J" n="50" break="no"/>tum vtitur E, quod medium est 
+      <lb ed="#J" n="51"/>pro principio, &amp; fine, necesse est 
+      <lb ed="#J" n="52"/>vt quiescat, quia ponit ipsum duo. 
+      <lb ed="#J" n="53"/>sed quia incoepit a puncto A, sepa 
+      <lb ed="#J" n="54"/>ratur a principio, &amp; sic in puncto 
+      <lb ed="#J" n="55"/>C cum completur suus motus. 
+      <lb ed="#J" n="56"/>quiescat.
+  </p>
+            <p xml:id="aristdp-d1e105-d1e4286"><!-- l8-i-66 -->
+               <lb ed="#J" n="80"/>Et ideo oportet nos ratiocinart 
+      <lb ed="#J" n="81"/>per hoc in dissolutione quaestionis. 
+      <lb ed="#J" n="82"/>est enim locus dubitationis. 
+      Quo<lb ed="#J" n="83" break="no"/>niam, si spatium Hest aequale spa 
+      <lb ed="#J" n="84"/>tio &amp;, &amp; Amouetur continue de 
+      <!--Averroes_Physica_JuntSecunda_04-0822.xml-->
+      <pb ed="#J" n="407-v"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1"/>extremitate Had B, ad H reuer. 
+      <lb ed="#J" n="2"/>tendo, &amp; insimul fuit in puncto 
+      <lb ed="#J" n="3"/>E, &amp; Cmouetur de extremitate 
+      <lb ed="#J" n="4"/>&amp; aequaliter, &amp; in eadem 
+      veloci<lb ed="#J" n="5" break="no"/>tate, tunc C incedit citius ad O, 
+      <lb ed="#J" n="6"/>quam Aad H. illud enim quod  
+      <lb ed="#J" n="7"/>incedit in processu, necesse est vt 
+      <lb ed="#J" n="8"/>incedat citius. AIgitur non fuit 
+      <lb ed="#J" n="9"/>in E, &amp; separabitur ab eo isimul 
+      <lb ed="#J" n="10"/>&amp; similiter fuit diuersum. 
+      quo<lb ed="#J" n="11" break="no"/>niam, si esset insimul, non diuersa 
+  <lb ed="#J" n="12" break="no"/>retur, sed necesse est vt quiescat, 
+      <lb ed="#J" n="13"/>CErgo non oportet ponere quod, cum 
+      <lb ed="#J" n="14"/>Afuit in B, mouebatur A ab ex 
+      <lb ed="#J" n="15"/>tremo E. quoniam, si Afuit in B, 
+      <lb ed="#J" n="16"/>&amp; separatum est ab eo, et hoc im 
+      <!--Averroes_Physica_JuntSecunda_04-0822.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="17"/>possibile est esse insimul, quoniam. 
+      <lb ed="#J" n="18"/>positum est quod hoc fuit in 
+      diffe<lb ed="#J" n="19" break="no"/>rentia temporis, non in tempore. 
+      <lb ed="#J" n="20"/>Manifestum est igitur, quod in com. 
+      <lb ed="#J" n="21"/>tinuo impossibile est vt hoc 
+      dica<lb ed="#J" n="22" break="no"/>tur. in restexo vero necesse est vt 
+      <lb ed="#J" n="23"/>hoc dicatur, scilicet quies quoniam, si 
+      qua<lb ed="#J" n="24" break="no"/>do Amouetur, fuerit extremum 
+      <lb ed="#J" n="25"/>E, finis, &amp; principium, tunc 
+      vno<lb ed="#J" n="26" break="no"/>puncto. vtetur pro duobus. &amp; ideo 
+      <lb ed="#J" n="27"/>necesse est quiescere, non ita, quod  
+      <lb ed="#J" n="28"/>insimul proueniat ad B, &amp; 
+      rece<lb ed="#J" n="29" break="no"/>dat a B.&amp;, si non , tunc illic 
+      insi<lb ed="#J" n="30" break="no"/>mul esset, &amp; non esset in eodem 
+      <lb ed="#J" n="31"/>instanti.
+  </p>
+            <p xml:id="aristdp-d1e105-d1e4378"><!-- l8-i-67 -->
+               <lb ed="#J" n="29"/>Et non oportet dicere illam 
+      solu<lb ed="#J" n="30" break="no"/>tione in praedicta quaestioe prius. 
+      <lb ed="#J" n="31"/>Quonia impossibile est dicere quod  
+      <lb ed="#J" n="32"/>motum erit super CH, aut super 
+      <lb ed="#J" n="33"/>B, in loco differentiae temporis, ita 
+      <lb ed="#J" n="34"/>quod non fuit in ipso, neque, separati 
+      <lb ed="#J" n="35"/>ab eo. illud enim quod est in actu, 
+      <lb ed="#J" n="36"/>non in potentia, necesse est vt 
+      per<lb ed="#J" n="37" break="no"/>ueniat axfinem, &amp; puncta, quae  
+      <lb ed="#J" n="38"/>sunt in 1 dio, sunt in potentia, ista 
+      <lb ed="#J" n="39"/>autem sunt in actu, &amp; est finis ab 
+      <!--Averroes_Physica_JuntSecunda_04-0824.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="40"/>inferiori, &amp; principium a superio 
+      <lb ed="#J" n="41"/>ri. Et similiter etiam est de 
+      moti<lb ed="#J" n="42" break="no"/>bus. Necesse est igitur vt restexum 
+      <lb ed="#J" n="43"/>super lineam rectam quiescat. 
+      im<lb ed="#J" n="44" break="no"/>possibile est igitur vt in linea 
+      re<lb ed="#J" n="45" break="no"/>cta sit motus continuus aeternus. 
+      <lb ed="#J" n="46"/>Et secundum hunc modum 
+      debe<lb ed="#J" n="47" break="no"/>mus opponere sermoni genonis, 
+      di<lb ed="#J" n="48" break="no"/>centis quoniam illud, quod 
+      pertram<lb ed="#J" n="49" break="no"/>sit spatium, necesse est semper 
+      per<lb ed="#J" n="50" break="no"/>transire medietates: sed 
+      medieta<lb ed="#J" n="51" break="no"/>tes sunt infinitae: &amp; infinita non  
+      <lb ed="#J" n="52"/>possunt pertransiri: impossibile 
+      <lb ed="#J" n="53"/>est ergo illud spatium pertransiri. 
+      <lb ed="#J" n="54"/>Aut qui hoc dicit alio modo, sicut 
+      <lb ed="#J" n="55"/>alii dicunt, quod necesse est, du 
+      ho<lb ed="#J" n="56" break="no"/>mo mouetur, vt numeret medieta. 
+      <lb ed="#J" n="57"/>tes, vnam post aliam. Et tunc, cum 
+      <lb ed="#J" n="58"/>pertransit totam medietatem, tuc 
+      <lb ed="#J" n="59"/>numerat numeros infinitos. &amp; ma 
+      <lb ed="#J" n="60"/>nifestu est quod hoc est ipossibile. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e4455"><!-- l8-i-68 -->
+               <lb ed="#J" n="50"/>Dicamus igitur ad hoc, quod 
+      <lb ed="#J" n="51"/>in praeteritis sermonibus 
+      dissolui<lb ed="#J" n="52" break="no"/>mus hanc quodnem, cu diximus quoniaam, 
+      <lb ed="#J" n="53"/>tempore sunt partes infinitae. quoniam, 
+      <lb ed="#J" n="54"/>no est impossibile vt aliquid 
+      per<lb ed="#J" n="55" break="no"/>traseat res infinitas in tempore in  
+      <lb ed="#J" n="56"/>finito. &amp; infinitu eodem mo existit 
+      <lb ed="#J" n="57"/>in logitudine, &amp; tempore Sed ista 
+      <lb ed="#J" n="58"/>responsio sufficit in hac qone, 
+      quae<lb ed="#J" n="59" break="no"/>stio enim est, vtrum sit possibile in 
+      tepo<lb ed="#J" n="60" break="no"/>re finito pertransire, &amp; numerare 
+      <lb ed="#J" n="61"/>res infinitas: secundum aut re, &amp; in  
+      <lb ed="#J" n="62"/>res veritate non sufficit. quonia, si 
+      <lb ed="#J" n="63"/>bo diuiserit logitudinem, &amp; 
+      dimi<lb ed="#J" n="64" break="no"/>serit quaerere, vtrum sit possibilet 
+      <lb ed="#J" n="65"/>tempore finito pertransire res infini 
+      <lb ed="#J" n="66"/>tas, deinde quaesiuit hoc in ipso 
+      tem<lb ed="#J" n="67" break="no"/>pore: nam tempus habet differentias 
+      insi<lb ed="#J" n="68" break="no"/>nitas: tuc ista resposio non erit 
+      suffi<lb ed="#J" n="69" break="no"/>cites. Sed oportet nos dicere verum, 
+      <lb ed="#J" n="70"/>&amp; est illud, quod prius diximus scilicet 
+      <lb ed="#J" n="71"/>quod, cum aliquod diuidens diuiserit 
+      <lb ed="#J" n="72"/>cotinuum in duo media, tunc 
+      vte<lb ed="#J" n="73" break="no"/>tur hic eodem pucto pro duobus. facit 
+      <lb ed="#J" n="74"/>enim ipsum principium, &amp; finem. et 
+      <lb ed="#J" n="75"/>similiter facit qui nuerat, aut qui 
+      <lb ed="#J" n="76"/>diuidit medietates. Cu igitur 
+      fue<lb ed="#J" n="77" break="no"/>rit aliquid diuisum hac diuisione, 
+      <!--Averroes_Physica_JuntSecunda_04-0827.xml-->
+      <pb ed="#J" n="410-r"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1"/>non erit continuum, siue fuerit linea 
+      <lb ed="#J" n="2"/>siue motus. motus. enim continuus est 
+      <lb ed="#J" n="3"/>continuis &amp; in continuo certae sunt 
+      <lb ed="#J" n="4"/>medietates infinitae, non in actu, 
+      <lb ed="#J" n="5"/>sed in potentia. Cum igitur 
+      posue<lb ed="#J" n="6" break="no"/>rimus medietates in actu, tunc non 
+      <lb ed="#J" n="7"/>erit continuum, sed necesse est vt 
+      <lb ed="#J" n="8"/>quiescat. &amp; hoc sequitur 
+      manife<lb ed="#J" n="9" break="no"/>ste in eo, qui numerat modietates. 
+      <lb ed="#J" n="10"/>necessario enim numerat idem 
+      pun<lb ed="#J" n="11" break="no"/>ctum pro duobus. quoniam erit 
+      fi<lb ed="#J" n="12" break="no"/>nis alterius duarum medietatum, 
+      <lb ed="#J" n="13"/>&amp; principium alterius medieta. 
+      <lb ed="#J" n="14"/>tis, sed non numerat continuum pro 
+      <lb ed="#J" n="15"/>vno, sed pro duabus medietatibus. 
+      <lb ed="#J" n="16"/>Et ideo respondendum est quaerenti 
+      <lb ed="#J" n="17"/>vtrum sit possibile pertransire res 
+      <lb ed="#J" n="18"/>infinitas, aut in tempore, aut in to 
+      <lb ed="#J" n="19"/>gitudine, sic, quoniam quodammo 
+      <lb ed="#J" n="20"/>do hoc est possibile, &amp; quodammo 
+      <lb ed="#J" n="21"/>do impossibile. in actu quidem est 
+      <lb ed="#J" n="22"/>impossibile, in potentia vero 
+      possi<lb ed="#J" n="23" break="no"/>bile. quoniam illud, quod mouetur 
+      <lb ed="#J" n="24"/>continue, per accidens pertransit 
+      <lb ed="#J" n="25"/>res infinitas, simpliciter vero non.  
+      <lb ed="#J" n="26"/>accidens enim est, quod accidit 
+      li<lb ed="#J" n="27" break="no"/>neae, vt essent medietates infinitae, 
+      <lb ed="#J" n="28"/>secundum autem suam essentia non.
+  </p>
+            <p xml:id="aristdp-d1e105-d1e4586"><!-- l8-i-69 -->
+               <lb ed="#J" n="54"/>Et manifestum est quod, si 
+      ho<lb ed="#J" n="55" break="no"/>mo non posuerit punctum in tem 
+      <lb ed="#J" n="56"/>pore, distingues prius, &amp; posterius 
+      <lb ed="#J" n="57"/>posterioris, rei in re, semper tunc 
+      <lb ed="#J" n="58"/>idem erit ens, &amp; non ens: &amp;, cum 
+      <lb ed="#J" n="59"/>est ens, non est ens. punctus enim qui 
+      <lb ed="#J" n="60"/>est ambobus, &amp; continuus priori, 
+      <lb ed="#J" n="61"/>&amp; posteriori, est idem in numero, 
+      <lb ed="#J" n="62"/>sed in respectu non est idem. est enim 
+      <lb ed="#J" n="63"/>finis illius, &amp; principium istius. 
+      <lb ed="#J" n="64"/>in passione vero semper est 
+      postre<lb ed="#J" n="65" break="no"/>mae passionis. Sit igitur tempus A 
+      <lb ed="#J" n="66"/>E, &amp; passio C&amp; haec passio sit in  
+      <lb ed="#J" n="67"/>toto tempore Aalbum, &amp; in 
+      tem<lb ed="#J" n="68" break="no"/>pore Bnon album. in tempore 
+      igi<lb ed="#J" n="69" break="no"/>tur Cerit album, &amp; non album. 
+      <lb ed="#J" n="70"/>quoniam in quocunque loco fuerit ac 
+      <lb ed="#J" n="71"/>ceptum in A, dicetur vere quod  
+      <lb ed="#J" n="72"/>in eo est album, quoniam in hoc to 
+      <lb ed="#J" n="73"/>to tempore fuit album. &amp; in Best 
+      <lb ed="#J" n="74"/>non album: &amp; in C est interim. 
+      no<lb ed="#J" n="75" break="no"/>ergo oportet concedere quod est in  
+      <lb ed="#J" n="76"/>instati insimul, sed in instati, quod 
+      <lb ed="#J" n="77"/>est finis: &amp; est illud, in quo est E, 
+      <lb ed="#J" n="78"/>&amp; hoc est postremum. &amp;, si sit al 
+      <!--Averroes_Physica_JuntSecunda_04-0831.xml-->
+      <pb ed="#J" n="412-r"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1" break="no"/>bum, &amp; corrumpitur album in to 
+      <lb ed="#J" n="2"/>to A, tunc illud non fit, aut 
+      corru<lb ed="#J" n="3" break="no"/>pitur, nisi in B. &amp; ideo igitur, si 
+      <lb ed="#J" n="4"/>fuerit album, aut non album, tunc 
+      <lb ed="#J" n="5"/>primo erit verum dicere hoc in eo. 
+      <lb ed="#J" n="6"/>&amp;, si non, quando fit aliquid, non  
+      <lb ed="#J" n="7"/>est illud, &amp; quando corrumpitur. 
+      <lb ed="#J" n="8"/>est illud, a quo transmutatur. aut 
+      <lb ed="#J" n="9"/>erit necesse vt insimul sit album, 
+      <lb ed="#J" n="10"/>&amp; non album, &amp; vniuersaliter 
+      <lb ed="#J" n="11"/>tale esse, &amp; illud non esse. Si igitur 
+      <lb ed="#J" n="12"/>illud, quod est nunc, &amp; non fuit an 
+      <lb ed="#J" n="13"/>te, necesse est vt generetur, &amp; quocd 
+      <lb ed="#J" n="14"/>generatur, dum generatur, non est 
+      <lb ed="#J" n="15"/>illud apud genorationem, 
+      impossi<lb ed="#J" n="16" break="no"/>bile est igitur vt tempus diuidam 
+      <lb ed="#J" n="17"/>tur in tempora indiuisibilia, 
+      quo<lb ed="#J" n="18" break="no"/>ntam, si fuerit Cin tempore A. 
+      <lb ed="#J" n="19"/>erit album, deinde insimul erit 
+      al<lb ed="#J" n="20" break="no"/>bum. est igitur album in alio tem 
+      <!--Averroes_Physica_JuntSecunda_04-0831.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="21" break="no"/>pore indiuisibili, sed est consequens,. 
+      <lb ed="#J" n="22"/>scilict in tempore B. &amp;, quia in tempo 
+      <lb ed="#J" n="23"/>re Anon fuit album, in Bvero 
+      <lb ed="#J" n="24"/>fuit album, ideo necesse est vt inte 
+      <lb ed="#J" n="25"/>rim sit aliqua generatio. &amp; ideo 
+      <lb ed="#J" n="26"/>necesse est vt etiam sit tempus, in 
+      <lb ed="#J" n="27"/>quo fuit generatio. Et ista ratio non 
+      <lb ed="#J" n="28"/>contingit eis, qui non dicunt 
+      par<lb ed="#J" n="29" break="no"/>tes esse indiuisibiles. in puncto enim 
+      <lb ed="#J" n="30"/>qui est finis, &amp; desitio temporis, in  
+      <lb ed="#J" n="31"/>quo generatur res, in eo efficitur, 
+      <lb ed="#J" n="32"/>res generata, &amp; ens, ita, quod om 
+      <lb ed="#J" n="33"/>nino non sit conseques. tempora 
+      au<lb ed="#J" n="34" break="no"/>tem indiuisibilia sunt successiua, 
+      <lb ed="#J" n="35"/>Manifestum est igitur quod, quan 
+      <lb ed="#J" n="36"/>do aliquid in toto tempore 
+      Age<lb ed="#J" n="37" break="no"/>neratur, tunc illud tempus, in quo 
+      <lb ed="#J" n="38"/>veneratur, non est, in quo fuit 
+      ad<lb ed="#J" n="39" break="no"/>dens toti tempori, in quo generabi 
+      <lb ed="#J" n="40"/>tur tantum. 
+  </p>
+            <p xml:id="aristdp-d1e105-d1e4741"><!-- l8-i-70 -->
+               <lb ed="#J" n="11"/>Istae enim sunt ratiocinationes, &amp;  
+      <lb ed="#J" n="12"/>quibus homo debet esse certus, quo 
+      <lb ed="#J" n="13"/>niam sunt conuenientes, &amp; 
+      conse<lb ed="#J" n="14" break="no"/>quentes de suis similibus. Si aute 
+      <lb ed="#J" n="15"/>posuerit cosyderationem de hoc 
+      se<lb ed="#J" n="16" break="no"/>cudum Dialecticam, sequitur hoc 
+      <lb ed="#J" n="17"/>idem aluis modis, quos narrauimus. 
+      <lb ed="#J" n="18"/>Dicamus igitur, quod omne 
+      mo<lb ed="#J" n="19" break="no"/>tum secundum continuationem, 
+      <lb ed="#J" n="20"/>nisi aliquid occurrat ei, illud, quod 
+      <lb ed="#J" n="21"/>est trarmutatum ad ipsum, 
+      moue<lb ed="#J" n="22" break="no"/>natur iprimo. v.g. quod, si Afuit 
+      <lb ed="#J" n="23"/>ad B, ad ipsum fuit finis motus 
+      <lb ed="#J" n="24"/>eius in primo: &amp; non solum modo  
+      <!--Averroes_Physica_JuntSecunda_04-0835.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="25"/>intendit ad ipsum, quando fuit 
+      pro<lb ed="#J" n="26" break="no"/>pe ipsum, sed intendebat illud a 
+      <lb ed="#J" n="27"/>principio motus. non enim est illic ea, 
+      <lb ed="#J" n="28"/>propter quam sit dignius vt tunc 
+      <lb ed="#J" n="29"/>intenderit in ipsum magis quam 
+      <lb ed="#J" n="30"/>primo. et similiter est de alis. Et 
+      <lb ed="#J" n="31"/>illud, quod transfertur ex A, si, 
+      <lb ed="#J" n="32"/>quando peruenerit in B, 
+      reuerta<lb ed="#J" n="33" break="no"/>tur ad A, si mouetur secundum con 
+      <lb ed="#J" n="34"/>tinuationem, tunc, quando 
+      moue<lb ed="#J" n="35" break="no"/>batur de Aad E, in illo et tempore 
+      <lb ed="#J" n="36"/>mouebatur ad A, motu, qui est C. 
+      <lb ed="#J" n="37"/>secundum igitur hoc mouetur duo 
+      <lb ed="#J" n="38"/>bus motibus contrarujs insimul. isti 
+      <lb ed="#J" n="39"/>enim duo motus secundum rectitudinem, 
+      <lb ed="#J" n="40"/>sunt contraru. &amp; cum hoc cotingit, 
+      <lb ed="#J" n="41"/>vt trasferatur ab eo, in quo no est, 
+      <lb ed="#J" n="42"/>2. ab eo, in quo non fuit. &amp; , cu hoc 
+      <lb ed="#J" n="43"/>su impossibile, necessario quiescit 
+      <lb ed="#J" n="44"/>tunc, &amp; sic motus non erit vnus 
+      <lb ed="#J" n="45"/>motus. in quo enim interponitur, 
+      <lb ed="#J" n="46"/>quies, non est vnus.
+  </p>
+            <p xml:id="aristdp-d1e105-d1e4828"><!-- l8-i-71 -->
+               <lb ed="#J" n="53"/>Et hoc apparet magis in omni mo 
+      <lb ed="#J" n="54"/>tu ex hoc sermone etiam. Quonia, si omne 
+      <lb ed="#J" n="55"/>motu no mouetur, nisi aliquo 
+      isto<lb ed="#J" n="56" break="no"/>rum motuu pdictoru, necesse est vt 
+      <lb ed="#J" n="57"/>quiescat quiete opposita illi motui 
+      <lb ed="#J" n="58"/>quo mouetur. nullus enim est motus hic 
+      <lb ed="#J" n="59"/>praeter illos. &amp; motu non mouetur 
+      <lb ed="#J" n="60"/>semper isto modo motus scilicet motibus 
+      <lb ed="#J" n="61"/>diuersis in specie, neque, est etiam aliqua 
+      <lb ed="#J" n="62"/>pars totius moti. ergo necesse et vt 
+      <lb ed="#J" n="63"/>prius quiescat quiete opposita mo 
+      <lb ed="#J" n="64"/>tui. quies enim est priuatio motus. Si 
+      <lb ed="#J" n="65"/>ligitur motus recti sunt cor. carum 
+      <lb ed="#J" n="66"/>et est impossibile vt moueatur 
+      ali<lb ed="#J" n="67" break="no"/>quid duobus motibus contrarijs in  
+      <lb ed="#J" n="68"/>simul, tunc illud, quod transfertur 
+      <lb ed="#J" n="69"/>de Aad c, impossibile est vt insi 
+      <lb ed="#J" n="70"/>mul transferatur exCad A. &amp;,  
+      <lb ed="#J" n="71"/>cum non mouetur istis duobus 
+      mo<lb ed="#J" n="72" break="no"/>tibus contrarus insimul, &amp; moue 
+      <lb ed="#J" n="73"/>tur hoc motu, necesse est vt 
+      quie<lb ed="#J" n="74" break="no"/>scat, antequam moueatur ad C. ista 
+      <lb ed="#J" n="75"/>enim ques est opposita motui ex C. Et de 
+      <lb ed="#J" n="76"/>claratu e igitur ex hoc, quod 
+      dixi<lb ed="#J" n="77" break="no"/>mus, quod iste motus no e continuus. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e4886"><!-- l8-i-72 -->
+               <lb ed="#J" n="13"/>Et etiam iste sermo est magis 
+      con<lb ed="#J" n="14" break="no"/>ueniens, quam pdictus. et est vt 
+      in<lb ed="#J" n="15" break="no"/>simul corrumpatur non album, &amp;  
+      <lb ed="#J" n="16"/>fiat album. Cum igitur alteratio 
+      <lb ed="#J" n="17"/>fuerit continua ad album, &amp; ex al 
+      <lb ed="#J" n="18"/>bo, et hoc non durat aliquo tempore 
+      <lb ed="#J" n="19"/>tunt insimul corrumpitur non 
+      al<lb ed="#J" n="20" break="no"/>bum, &amp; fit album, deinde fit non  
+      <lb ed="#J" n="21"/>album. vnu igitur tjns erit tribus. 
+      <lb ed="#J" n="22"/>Et etiam non sequitur, si tempus est com 
+      <lb ed="#J" n="23"/>tinuum, vt motus sint cotinui, sed  
+      <lb ed="#J" n="24"/>successiui. Et, si non, quo erit idem 
+      <lb ed="#J" n="25"/>postremum cotrariorum duorum, 
+      <lb ed="#J" n="26"/>v.g. postremum albedinis, &amp; 
+      po<lb ed="#J" n="27" break="no"/>stremum nigrediniss 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e4922"><!-- l8-i-73 -->
+               <lb ed="#J" n="37"/>Motus aut circularis est vnus. 
+      <lb ed="#J" n="38"/>&amp; continuus. non enim sequitur ex hoc 
+      <lb ed="#J" n="39"/>aliquo modo ipossibile. Quoniam illud 
+      <lb ed="#J" n="40"/>quod mouetur ex A, mouetur ad 
+      <lb ed="#J" n="41"/>A eadem intentione. ad illud enim ad 
+      <!--Averroes_Physica_JuntSecunda_04-0840.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="42"/>quod peruenit, ad illud est 
+      moue<lb ed="#J" n="43" break="no"/>tur: sed non mouetur duobus moti 
+      <lb ed="#J" n="44"/>bus contrarus insimul, neque 
+      opposi<lb ed="#J" n="45" break="no"/>tis. Non enim omnis motus ad auiquid est 
+      <lb ed="#J" n="46"/>contrarius ei, qui est ab illo, neque 
+      <lb ed="#J" n="47"/>oppositus. Sed contraru sunt illi, qui 
+      <lb ed="#J" n="48"/>suut recte, isti enim sunt contrarum 
+      se<lb ed="#J" n="49" break="no"/>cundum locum, v.g. illi, qui sunt 
+      se<lb ed="#J" n="50" break="no"/>cundu diametru, qui maxime 
+      di<lb ed="#J" n="51" break="no"/>stat. oppositi aut sunt illi, qui sunt 
+      <lb ed="#J" n="52"/>in eade longitudine. &amp; ideo no est 
+      <lb ed="#J" n="53"/>remotum quod ille motus sit 
+      conti<lb ed="#J" n="54" break="no"/>nuus, &amp; nunquam cesset ommo. 
+      Mo<lb ed="#J" n="55" break="no"/>tus enim circularis est ab aliquo loco 
+      <lb ed="#J" n="56"/>ad illu eudem locu: Motus at recto est 
+      <lb ed="#J" n="57"/>de vno loco ad aliud. Et motus et i 
+      <lb ed="#J" n="58"/>eadem reuolutioe no erit illud, quod 
+      <lb ed="#J" n="59"/>mouetur secudum illui eisdem locis 
+      omni<lb ed="#J" n="60" break="no"/>no: illud at, quod mouetur motu re 
+      <lb ed="#J" n="61"/>cto, erit i eisdem locis multoties. Mo 
+      <lb ed="#J" n="62"/>tus igitur, i quo illud, quod 
+      moue<lb ed="#J" n="63" break="no"/>tur, erit in loco post auiu, pot esse con 
+      <lb ed="#J" n="64"/>tinuus: motus autem, in quo illud, 
+      <lb ed="#J" n="65"/>quod mouetur, erit in eodem loco 
+      <lb ed="#J" n="66"/>multotiens, non pot esse continuus: 
+      quo<lb ed="#J" n="67" break="no"/>niam necesse est vt illud, quod moue 
+      <lb ed="#J" n="68"/>tur secudum illud, moueatur duobus 
+      <lb ed="#J" n="69"/>motibus oppositis isimul. Et io 
+      im<lb ed="#J" n="70" break="no"/>possibile e, vt aliquid moueatur in 
+      <lb ed="#J" n="71"/>semicirculo, aut i alio arcu omnino se 
+      <lb ed="#J" n="72"/>cudum continuationem. necesse est enim vt 
+      <lb ed="#J" n="73"/>multoties moueatur eisdem motibus. 
+      <lb ed="#J" n="74"/>et, vt trasmutetur modis 
+      trasmu<lb ed="#J" n="75" break="no"/>tatiois cotrarus. quonia finis no com 
+      <lb ed="#J" n="76"/>lugitur cu principio: in circulo 
+      au<lb ed="#J" n="77" break="no"/>te est ifinitu, et est solus perfectus.
+    </p>
+            <p xml:id="aristdp-d1e105-d1e5019"><!-- l8-i-74 -->
+               <lb ed="#J" n="25"/>Et apparet ex hac diuisioe, quod  
+      <lb ed="#J" n="26"/>impossibile est, vt alu motus sint 
+      <lb ed="#J" n="27"/>cotinui. contingit enim vt in omnibus istis 
+      <lb ed="#J" n="28"/>iterentur motus. v. g. in alteratio 
+  <lb ed="#J" n="29" break="no"/>ne erit iteratio iter duo extrema, 
+      <lb ed="#J" n="30"/>&amp; in quantitate erit iteratio in  
+      <lb ed="#J" n="31"/>magnitudinibus, quae sunt in 
+      me<lb ed="#J" n="32" break="no"/>dio, &amp; in generatione, &amp; 
+      corru<lb ed="#J" n="33" break="no"/>ptione similiter. &amp; nulla est 
+      dif<lb ed="#J" n="34" break="no"/>ferentia in hoc quod res, in quibus 
+      <lb ed="#J" n="35"/>est transmutatio, sint multae, aut 
+      <lb ed="#J" n="36"/>paucae, neque, in hoc vt in medio 
+      po<lb ed="#J" n="37" break="no"/>natur aliquid, aut auferatur. 
+      con<lb ed="#J" n="38" break="no"/>tiget enim vtroa mo vt idem iteretur. 
+      <lb ed="#J" n="39"/>Declaratu est igitur ex hoc, quod 
+      <!--Averroes_Physica_JuntSecunda_04-0843.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="40"/>de loquentibus in naturis non bene 
+      <lb ed="#J" n="41"/>dicut, qui dicut omnia sensibilia semper  
+      <lb ed="#J" n="42"/>moueri. quoniam necesse est vt non 
+      <lb ed="#J" n="43"/>moueantur, nisi altero istorum mo 
+      <lb ed="#J" n="44"/>tuum, &amp; dignior motuum in hoc 
+      <lb ed="#J" n="45"/>apud eos est alteratio. dicunt enim 
+      <lb ed="#J" n="46"/>quod omnia semper siuunt, et 
+      di<lb ed="#J" n="47" break="no"/>minuuntur. &amp; posuerunt 
+      genera<lb ed="#J" n="48" break="no"/>tionem, &amp; corruptionem esse alte 
+      <lb ed="#J" n="49"/>rationem. Et declaratu est hoc vni 
+      <lb ed="#J" n="50"/>uersaliter in omni motu scilicet quod 
+      impos<lb ed="#J" n="51" break="no"/>sibile est vt aliquid moueatur om 
+      <lb ed="#J" n="52"/>nino secudum cotinuationem, nisi in  
+      <lb ed="#J" n="53"/>motu circulari. et io impossibile est 
+      <lb ed="#J" n="54"/>vt moueatur secundum 
+      cotinuatio<lb ed="#J" n="55" break="no"/>nem in alteratione, aut augmento, 
+      <lb ed="#J" n="56"/>Hoc igitur dicimus, quoniam nul 
+      <lb ed="#J" n="57"/>la transmutatio est infinita, et 
+      com<lb ed="#J" n="58" break="no"/>tinua, nisi motus localis circularis. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e5101"><!-- l8-i-75 -->
+               <lb ed="#J" n="10"/>Et manifestum est, quod motus 
+      <lb ed="#J" n="11"/>tur cularis est primus motuum 
+      lo<lb ed="#J" n="12" break="no"/>calium. Omnis enim translatio, sicut 
+      di<lb ed="#J" n="13" break="no"/>ximus prius, aut est circularis, aut 
+      <lb ed="#J" n="14"/>recta, aut mixta. Mixta aut 
+      ne<lb ed="#J" n="15" break="no"/>cesse est vt praecedant illae duae: ex 
+      <lb ed="#J" n="16"/>illis enim existit. &amp; vt recta 
+      praece<lb ed="#J" n="17" break="no"/>dat circularis, quia est simplex, et 
+      <lb ed="#J" n="18"/>perfecta. quonia impossibile est, vt 
+      <lb ed="#J" n="19"/>aliquid moueatur per linea recta 
+      <lb ed="#J" n="20"/>infinitam. quonia nihil est aliquid 
+      <lb ed="#J" n="21"/>huiusmodi infinitum. neque, et, si esset, 
+      es<lb ed="#J" n="22" break="no"/>set aliquid, quod moueretur per il 
+      <lb ed="#J" n="23"/>lud., quod enim est impossibile, no erit:  
+      <lb ed="#J" n="24"/>&amp; pertransire infinitu est 
+      impos<lb ed="#J" n="25" break="no"/>sibile. Motus autem per linea 
+      re<lb ed="#J" n="26" break="no"/>ctam finita, si refssectatur, erit 
+      co<lb ed="#J" n="27" break="no"/>positus, &amp; erunt duo motus. &amp;, si 
+      <lb ed="#J" n="28"/>non restectetur, erit diminutus, et 
+      <lb ed="#J" n="29"/>corruptibilis. Et in natura, &amp; in 
+      <lb ed="#J" n="30"/>tone, &amp; in tempore praecedit 
+      per<lb ed="#J" n="31" break="no"/>fectum diminutu, et incorruptibile 
+      <lb ed="#J" n="32"/>corruptibile. Et et motus, qui pt esse 
+      <lb ed="#J" n="33"/>aeternus, pcedit motu, in quo est hoc 
+      <lb ed="#J" n="34"/>impos sibile. Et motus circularis 
+      <lb ed="#J" n="35"/>est possibile vt sit aeternus, ali ve 
+      <lb ed="#J" n="36"/>ro non, neque, corruptibiles, neque, alii 
+      <!--Averroes_Physica_JuntSecunda_04-0845.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="37"/>modorum cessantium est 
+      possibi<lb ed="#J" n="38" break="no"/>te vt sint aeterni. cessatio enim est 
+      <lb ed="#J" n="39"/>necessaria in eis: &amp; cessatio non  
+      <lb ed="#J" n="40"/>est nisi in corruptione motus. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e5176"><!-- l8-i-76 -->
+               <lb ed="#J" n="58"/>Et recte contingit vt motus cir 
+      <lb ed="#J" n="59"/>cularis sit vnus, &amp; continuus, non  
+      <lb ed="#J" n="60"/>motus rectus. in recto enim principiu 
+      <lb ed="#J" n="61"/>est terminatum, &amp; finis, &amp; 
+      me<lb ed="#J" n="62" break="no"/>dium, &amp; omnia ista sunt 
+      existen<lb ed="#J" n="63" break="no"/>tia in eo. &amp; ideo incoepit motum 
+      <lb ed="#J" n="64"/>in eo ab aliquo loco, &amp; completur 
+      <lb ed="#J" n="65"/>suus motus, omne enim quod mouetur su 
+  <lb ed="#J" n="66" break="no"/>per ipsum, quiescit apud extrema, 
+      <lb ed="#J" n="67"/>aut incoepit, aut ex quo est. In cir 
+      <lb ed="#J" n="68"/>culari vero vltima sunt non termi 
+      <lb ed="#J" n="69"/>nata. quonid in circunferentia non  
+      <lb ed="#J" n="70"/>est locus, qui sit dignior vt sit ex 
+      <lb ed="#J" n="71"/>tremum, quam alius. quilibet enim eodem 
+      <lb ed="#J" n="72"/>mo est principium, &amp; medium, et 
+      fi<lb ed="#J" n="73" break="no"/>nis. et io motu super ipsum semper 
+      <lb ed="#J" n="74"/>est in principio, et in medio, et in  
+      <lb ed="#J" n="75"/>fine, et non est in aliquo eorum in  
+      <lb ed="#J" n="76"/>aliquo tempore. Et ideo sphaera 
+      <lb ed="#J" n="77"/>mouetur, &amp; quiescit 
+      quodammo<lb ed="#J" n="78" break="no"/>do, quia tenet eundem locum. 
+      <!--Averroes_Physica_JuntSecunda_04-0848.xml-->
+      <pb ed="#J" n="420-v"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1"/>Et causa in hoc est, quia omnia ista ac 
+      <lb ed="#J" n="2"/>cidunt centro, est enim principiu 
+      ma<lb ed="#J" n="3" break="no"/>gnitudinis, et medium, et finis. Et 
+      <lb ed="#J" n="4"/>io, quia est extra circunferentiam, et 
+      <lb ed="#J" n="5"/>ideo curculus non habet locu, i quo 
+      quie<lb ed="#J" n="6" break="no"/>scat, postquam peruenerit ad illum. 
+      <lb ed="#J" n="7"/>quia Seper mouetur circa medium, 
+      <lb ed="#J" n="8"/>&amp; non ad vltimu. et io totu perma 
+      <lb ed="#J" n="9"/>net semper, cum sit quiescens 
+      quo<lb ed="#J" n="10" break="no"/>damo, &amp; moueatur secundum 
+      con<lb ed="#J" n="11" break="no"/>tinuationem. Contingit aut in hoc 
+      <lb ed="#J" n="12"/>motu aliquid, &amp; suum couersum. 
+      <lb ed="#J" n="13"/>motus enim circularis, quia e mensura, 
+      <lb ed="#J" n="14"/>otum motuu, necesse est vt sit 
+      pri<lb ed="#J" n="15" break="no"/>mus. dmia enim mensuratur per prima 
+      <lb ed="#J" n="16"/>mensura. &amp; quia est primus, est 
+      <lb ed="#J" n="17"/>mensura alioru motuu. Amplius 
+      <lb ed="#J" n="18"/>aut motus circularis solus est 
+      pos<lb ed="#J" n="19" break="no"/>sibilis vt sit aequalis. res enim quae mo 
+      <lb ed="#J" n="20"/>uentur recte diuersantur in motu 
+      <lb ed="#J" n="21"/>ex principio ad fine, omnia enim quanto 
+      <lb ed="#J" n="22"/>magis remouentur a quiescente 
+      <lb ed="#J" n="23"/>tanto, velocius mouentur. in motu 
+      <lb ed="#J" n="24"/>autem curculari non est principium 
+      <lb ed="#J" n="25"/>naturale, neque, finis, sed extra 
+      ip<lb ed="#J" n="26" break="no"/>sum, in quo est motus recte.
+    </p>
+            <p xml:id="aristdp-d1e105-d1e5289"><!-- l8-i-77 -->
+               <lb ed="#J" n="5"/>Quoniam autem motus localis sit 
+      <lb ed="#J" n="6"/>primus motuum testantur omnes, 
+      <lb ed="#J" n="7"/>qui aliquid dixerunt de motu 
+      inli<lb ed="#J" n="8" break="no"/>bro. attribuunt. enim principia eius 
+      <lb ed="#J" n="9"/>bis, qui hoc motu mouentur. Sepa 
+      <lb ed="#J" n="10"/>ratio enim &amp; congregatio sunt motus 
+      <lb ed="#J" n="11"/>locales. sic autem opinati sunt 
+      ami<lb ed="#J" n="12" break="no"/>citia, &amp; litem mouere: haec enim sepa 
+      <lb ed="#J" n="13"/>rat, illa vero congregat. Anaxa 
+      <lb ed="#J" n="14"/>goras autem dicit ae itellectu, qui 
+      <lb ed="#J" n="15"/>est primus motor, ipsum separare 
+      <lb ed="#J" n="16"/>&amp; discernere. Similiter autem se 
+      <lb ed="#J" n="17"/>habent &amp; qui non concedunt 
+      ali<lb ed="#J" n="18" break="no"/>quod agens huiusmodi, sed dicunt 
+      <lb ed="#J" n="19"/>cia moueri per vacuum. illi enim 
+      di<lb ed="#J" n="20" break="no"/>cut naturam moueri localiter. mo 
+      <lb ed="#J" n="21"/>tus enim propter vacuum est motus lo 
+      <lb ed="#J" n="22"/>calis. impossibile est enim quod 
+      ali<lb ed="#J" n="23" break="no"/>quis aliorum motuum sit i primo, 
+      <lb ed="#J" n="24"/>sed in his, quae generaliter fiunt a 
+      <lb ed="#J" n="25"/>primo. dicunt enim augmentum, &amp; al 
+      <lb ed="#J" n="26"/>terationem fieri in congregatis, et 
+      <lb ed="#J" n="27"/>separatis corporibus 
+      indiuisibili<lb ed="#J" n="28" break="no"/>bus. Et similiter qui dicunt 
+      gene<lb ed="#J" n="29" break="no"/>rationem, &amp; corruptionem fieri 
+      <lb ed="#J" n="30"/>ex spissitudine, &amp; raritate haec enim 
+      <lb ed="#J" n="31"/>ordinant in congregatione, &amp; 
+      se<lb ed="#J" n="32" break="no"/>paratione. Et similiter alii 
+      ponen<lb ed="#J" n="33" break="no"/>tes animam causam esse motus. 
+      di<lb ed="#J" n="34" break="no"/>cunt enim illud, quod mouet seipsum, 
+      <lb ed="#J" n="35"/>esse pricipium motuum. animalia 
+      <lb ed="#J" n="36"/>autem, &amp; quicquid habet anima, 
+      <!--Averroes_Physica_JuntSecunda_04-0851.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="37"/>mouent se motu locali. Amplius, 
+      <lb ed="#J" n="38"/>si dixerit aliquid moueri hic 
+      pri<lb ed="#J" n="39" break="no"/>mo, apprehendet anima ipsum,s 
+      <lb ed="#J" n="40"/>moueri tantum in loco. quiescens 
+      au<lb ed="#J" n="41" break="no"/>tem ab hoc motu, &amp; si continue 
+      <lb ed="#J" n="42"/>augetur, aut diminuitur, aut alte 
+      <lb ed="#J" n="43"/>ratur, dicetur moueri sic, 
+      simplici<lb ed="#J" n="44" break="no"/>ter autem non dicetur moueri. Dt 
+      <lb ed="#J" n="45"/>ctum est, quoniam motus simplici 
+      <lb ed="#J" n="46"/>ter fuit, &amp; erit toto tempore, &amp; 
+      <lb ed="#J" n="47"/>principiu motus aeterni quid sit, et 
+      <lb ed="#J" n="48"/>motus aeternus quis sit, &amp; motus, 
+      <lb ed="#J" n="49"/>qui solus potest esse aeternus, quis sit, 
+      <lb ed="#J" n="50"/>et quod primus motor sit imobilis. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e5397"><!-- l8-i-78 -->
+               <lb ed="#J" n="68"/>Nunc autem volumus hoc 
+      pro<lb ed="#J" n="69" break="no"/>bare, hunc motorem impartibilem 
+      <lb ed="#J" n="70"/>sse non habentem magnitudinem, 
+      <lb ed="#J" n="71"/>determinates prius quaedam, quae  
+      <lb ed="#J" n="72"/>praecedunt hanc propositione. 
+      Quo<lb ed="#J" n="73" break="no"/>rum vnum est motorem finitum 
+      <lb ed="#J" n="74"/>tempore infinito mouere 
+      impossi<lb ed="#J" n="75" break="no"/>bile esse. Sunt enim tria. motor, scilicet &amp;  
+      <lb ed="#J" n="76"/>quod mouetur, &amp; in quo fit 
+      mo<lb ed="#J" n="77" break="no"/>tus, scilicet tempus, haec autem tria, 
+      <lb ed="#J" n="78"/>aut omnia infinita, aut omnia fini 
+      <lb ed="#J" n="79"/>ta aut quaedam sic, quaedam sic, vt 
+      <lb ed="#J" n="80"/>si dicas duo, aut vnum. Sit ergo 
+      <lb ed="#J" n="81"/>A, quod mouet, &amp; B, quod mo
+      <!--Averroes_Physica_JuntSecunda_04-0854.xml-->
+      <pb ed="#J" n="423-v"/>
+               <cb ed="#J" n="a"/>
+               <lb ed="#J" n="1" break="no"/>uetur, &amp; tempus infinitum c, &amp; 
+      <lb ed="#J" n="2"/>moueat Dpars eius, partem eius. 
+      <lb ed="#J" n="3"/>quae est E. Non ergo mouebit illud  
+      <lb ed="#J" n="4"/>in tempore aequali C, cum maius 
+      <lb ed="#J" n="5"/>debet mouere, &amp; longiori 
+      tempo<lb ed="#J" n="6" break="no"/>re. non erit ergo tunc tempus 
+      infi<lb ed="#J" n="7" break="no"/>nitum. sit ergo tempus, in quo D 
+      <lb ed="#J" n="8"/>mouet E. tempus. 4. si ergo addide 
+      <lb ed="#J" n="9"/>rimus A, consumemus A, &amp; fi 
+      <lb ed="#J" n="10"/>addiderimus E cosumabimus E: 
+      <!--Averroes_Physica_JuntSecunda_04-0854.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="11"/>tempus autem si diminuerimus. 
+      <lb ed="#J" n="12"/>semper aequaliter, non c onsumabi 
+      <lb ed="#J" n="13"/>tur: est enim infinitum: necesse est 
+      <lb ed="#J" n="14"/>ergo quod totum Amoueat totu 
+      <lb ed="#J" n="15"/>pe in tempore finito: C. 
+      ergofini<lb ed="#J" n="16" break="no"/>tum erit. Impossibile est ergo 
+      ali<lb ed="#J" n="17" break="no"/>quod finitum moueri motu 
+      infini<lb ed="#J" n="18" break="no"/>to. vnde manifestum est finitum 
+      <lb ed="#J" n="19"/>mouere aliquid tempore infinito 
+      <lb ed="#J" n="20"/>impossibile esse.
+    </p>
+            <p xml:id="aristdp-d1e105-d1e5485"><!-- l8-i-79 -->
+      <!--Averroes_Physica_JuntSecunda_04-0857.xml-->
+               <cb ed="#J" n="b"/>
+               <lb ed="#J" n="30"/>Quoniam aut impossibile e omni 
+      <lb ed="#J" n="31"/>no in magnitudine finita esse poten 
+      <lb ed="#J" n="32"/>tiam infinita exusdem manifestu est. 
+      <lb ed="#J" n="33"/>Sitque maior potetia, quae agit aequa 
+      <lb ed="#J" n="34"/>liter in tempore minori, v. g, quae 
+      ca<lb ed="#J" n="35" break="no"/>lefacit, aut sanat, &amp; vniuersaliter, 
+      <lb ed="#J" n="36"/>mouet. Necesse est ergo ifinitu, cu po 
+      <lb ed="#J" n="37"/>teniia eius sit infinita, agere in 
+      pas<lb ed="#J" n="38" break="no"/>sibile maiore passionem, quam quod  
+      <lb ed="#J" n="39"/>finita. infinitum enim maius est. Non  
+      <lb ed="#J" n="40"/>autem huiusmodi pot esse tempus. Si enim 
+      <lb ed="#J" n="41"/>Asit tempus, in quo potentia 
+      insi<lb ed="#J" n="42" break="no"/>nita calefacit, aut eleuat, &amp; inten 
+      <lb ed="#J" n="43"/>pore Aagit illam eandem 
+      actio<lb ed="#J" n="44" break="no"/>nem potentia finita: accipientes enim 
+      <lb ed="#J" n="45"/>semper potentiam maiorem, ac 
+      fi<lb ed="#J" n="46" break="no"/>nitam, nec esse est aliquando perue 
+      <lb ed="#J" n="47"/>nire ad quod moueat in tempore A. 
+      <lb ed="#J" n="48"/>augentes enim semper finitum su 
+      <lb ed="#J" n="49"/>perat omne terminatum, &amp; 
+      dimi<lb ed="#J" n="50" break="no"/>nuentes semper diminuitur simili 
+      <lb ed="#J" n="51"/>ter: mouet ergo finitum in 
+      tempo<lb ed="#J" n="52" break="no"/>re, in quo infinitu mouet. quod est 
+      <lb ed="#J" n="53"/>impossibile. non ergo finiti est 
+      po<lb ed="#J" n="54" break="no"/>tentia infinita.
+    </p>
+            <p xml:id="aristdp-d1e105-d1e5547"><!-- l8-i-80 -->
+      <!--Averroes_Physica_JuntSecunda_04-0862.xml-->
+               <cb ed="#J" n="b"/>
+               <lb ed="#J" n="33"/>Neque infinitum habere virtu. 
+      <lb ed="#J" n="34"/>tem finitam est possibile, licet in 
+      <lb ed="#J" n="35"/>minori magnitudine potest inesse 
+      <lb ed="#J" n="36"/>maior potentia: tamen, cum hoc 
+      <lb ed="#J" n="37"/>fuerit, dignius erit quod in maiori 
+      <lb ed="#J" n="38"/>sit maior. Sit ergo 
+      ABinfini<lb ed="#J" n="39" break="no"/>tum. ECigitur est potentia, quae  
+      <lb ed="#J" n="40"/>mouet Din aliquo tempore. sit 
+      er<lb ed="#J" n="41" break="no"/>vo illud tempus H42. BCergo du 
+      <lb ed="#J" n="42"/>plicatum mouet in medietate tem 
+      <lb ed="#J" n="43"/>poris H9. procedamus sic igitur, 
+      <lb ed="#J" n="44"/>&amp; sit illud tempus 4 T. cum ergo 
+      <lb ed="#J" n="45"/>sic processerimus semper, nuquam 
+      <lb ed="#J" n="46"/>peruentemus ad consumationem 
+      <lb ed="#J" n="47"/>AE: de tempore vero posito 
+      sem<lb ed="#J" n="48" break="no"/>per accipiemus minus: sic ioitur, 
+      <lb ed="#J" n="49"/>erit virtus infinita. Necesse est 
+      <lb ed="#J" n="50"/>enim cuiuslibet. potentiae finitae 
+      <lb ed="#J" n="51"/>tempus etiam esse finitum. nam si 
+      <lb ed="#J" n="52"/>haec potentia mouet in hoc 
+      tempo<lb ed="#J" n="53" break="no"/>re, quae maior est illa, mouet item 
+      <lb ed="#J" n="54"/>pore minori illo: sed tamen illud 
+      <lb ed="#J" n="55"/>tempus est determinatum, cuius 
+      <lb ed="#J" n="56"/>processus est econuerso. virtus 
+      au<lb ed="#J" n="57" break="no"/>tem est infinita eo modo, quo nume 
+      <lb ed="#J" n="58"/>rus. magnitudo vero, quae excedit 
+      <lb ed="#J" n="59"/>omne determinatum. 
+      <!--Averroes_Physica_JuntSecunda_04-0863.xml-->
+    </p>
+            <p xml:id="aristdp-d1e105-d1e5615"><!-- l8-i-81 -->
+               <lb ed="#J" n="30"/>Hoc quidem aliter pot declarari 
+      <lb ed="#J" n="31"/>sic, ponendo quod aliqua potentia 
+      <lb ed="#J" n="32"/>eiusdem generis illius potetiae, qui est 
+      <lb ed="#J" n="33"/>Imagnitudine infinita, sit in pote 
+      <lb ed="#J" n="34"/>tia finita. sic ergo erit potentia in 
+      <lb ed="#J" n="35"/>quatitate potentiae finitae inifinito. 
+      <lb ed="#J" n="36"/>Quonia aut ipossibile e potetia 
+      in<lb ed="#J" n="37" break="no"/>finita in finita esse magnitudine, 
+      <lb ed="#J" n="38"/>aut potentia finitam esse in infini 
+      <lb ed="#J" n="39"/>ea magnitudine manifestum est
+    </p>
+            <p xml:id="aristdp-d1e105-d1e5640"><!-- l8-i-82 -->
+               <lb ed="#J" n="20"/>De his aut, quai localiter 
+      mouen<lb ed="#J" n="21" break="no"/>tur, bonus est prius inducere quadam 
+      <lb ed="#J" n="22"/>dubitationem. Na si oe, quod moue. 
+      <lb ed="#J" n="23"/>tur, ab aliquo mouetur scilicet dum illud 
+      <lb ed="#J" n="24"/>&amp; se no mouetur, quo quidam continue 
+      <lb ed="#J" n="25"/>mouentur sine eo, quod contingat mo 
+      <lb ed="#J" n="26"/>torem, v.g. quod proucitur, aut quod 
+      <lb ed="#J" n="27"/>agittatur. Et, si motor moueat cu 
+      <lb ed="#J" n="28"/>hoc etam aliud, vt aerem, et, cu 
+      moue<lb ed="#J" n="29" break="no"/>tur hoc, mouet, tame ipossibile est 
+      <lb ed="#J" n="30"/>ipsu moueri, nisi primu tagat, aut 
+      <lb ed="#J" n="31"/>moueatur: imo necesse est simul omnia 
+      <lb ed="#J" n="32"/>moueri, et simul quiescere, cum 
+      pri<lb ed="#J" n="33" break="no"/>mus motor quieuerit. similiter est 
+      <lb ed="#J" n="34"/>et, si etiam facit, sicut facit lapis scilicet 
+      <lb ed="#J" n="35"/>magnetes, v.g. quoniam illud, quod 
+      <lb ed="#J" n="36"/>mouet lapis, quod est serru, mouet, i 
+      <lb ed="#J" n="37"/>attrabit ferru, a quo mouetur, &amp;  
+      <lb ed="#J" n="38"/>sic mouet. Hoc aute debet concedi 
+      <!--Averroes_Physica_JuntSecunda_04-0866.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="39"/>de necessitate, scilicet quod primus mo
+  <lb ed="#J" n="40" break="no"/>tor e, qui hoc facit. v.g. qui mouet 
+      <lb ed="#J" n="41"/>aere, cu fuerit huiusmodi, aut aqua, aut 
+      <lb ed="#J" n="42"/>aliud, quod innatu est mouere, &amp;  
+      <lb ed="#J" n="43"/>moueri, sed non debet insimul 
+      quie<lb ed="#J" n="44" break="no"/>scere ab hoc, quod moueat, et 
+      mo<lb ed="#J" n="45" break="no"/>ueatur, immo cessat ab hoc 
+      moue<lb ed="#J" n="46" break="no"/>ri, quod moueatur, cessate eius mo 
+      <lb ed="#J" n="47"/>tore a mouere, et ad haec remanet 
+      <lb ed="#J" n="48"/>mouendo. vnde vnum mouet aliud si 
+      <lb ed="#J" n="49"/>bi succedes. et procedit istud aliud 
+      <lb ed="#J" n="50"/>et hoc eodem processu. Motus aut 
+      il<lb ed="#J" n="51" break="no"/>lius quiescit, cum virtus mouendi 
+      di<lb ed="#J" n="52" break="no"/>minuitur in suecessioe paulatim. 
+      <lb ed="#J" n="53"/>et vltio cessat, quado motor 
+      penul<lb ed="#J" n="54" break="no"/>timus peruenerit ad hoc, quod 
+      ni<lb ed="#J" n="55" break="no"/>hil agat, sed solumo mouetur. hoc 
+      <lb ed="#J" n="56"/>aut necessario fuit simul scilicet motorem 
+      <lb ed="#J" n="57"/>quiescere a mouere, et motum a mo 
+      <lb ed="#J" n="58"/>ueri, &amp; ipse motus omnimo. Hic 
+      qui<lb ed="#J" n="59" break="no"/>dem motus, est motus, qui fit in eis 
+      <lb ed="#J" n="60"/>qua possunt aliquando moueri, aliqua 
+      <lb ed="#J" n="61"/>do quiescere, et no cotinuus, sed vi 
+      <lb ed="#J" n="62"/>detur. motor enim non est vnus, sed sunt 
+      <lb ed="#J" n="63"/>qua succedunt sibi inuicem. Vnde talis 
+      <lb ed="#J" n="64"/>motus non fit, nisii aere, auti aqua, 
+      <lb ed="#J" n="65"/>qui a quibusdam attribuitur, et suc 
+      <lb ed="#J" n="66"/>cessoni, et ab ea denominatur. Sed  
+      <lb ed="#J" n="67"/>pdictae quodnes aliter, quam 
+      narraui<lb ed="#J" n="68" break="no"/>mus, no possunt solui. Successio aut 
+      <lb ed="#J" n="69"/>facit omnia ea mouere, &amp; 
+      moue<lb ed="#J" n="70" break="no"/>ri, vnde oportet quod quiescant: 
+      <lb ed="#J" n="71"/>sed nos videmus vnum idem 
+      con<lb ed="#J" n="72" break="no"/>tinue moueri: quare necesse est ip 
+      <lb ed="#J" n="73"/>sum moueri ab aliquo: mouetur 
+      <lb ed="#J" n="74"/>enim ab vno eodem.
+    </p>
+            <p xml:id="aristdp-d1e105-d1e5768"><!-- l8-i-83 -->
+               <lb ed="#J" n="32"/>Et, quia necesse est vt semper in 
+      <lb ed="#J" n="33"/>eis, qui sunt, sit motus cotinuus: 
+      conti<lb ed="#J" n="34" break="no"/>nua aut sunt vnita: et oportet etia 
+      <lb ed="#J" n="35"/>quod sit alicuius magnitudinis: 
+      <lb ed="#J" n="36"/>quod enim no habet magnitudinem, nomo 
+      <lb ed="#J" n="37"/>uetur: et quod sit vnius, et in vno. 
+      <lb ed="#J" n="38"/>nam, si eet alter. no esset continuus, sed  
+      <lb ed="#J" n="39"/>successiuus, &amp; diuisibilis: moto 
+      <lb ed="#J" n="40"/>aut, cu sit vnus, aut mouet, &amp; mo 
+      <!--Averroes_Physica_JuntSecunda_04-0870.xml-->
+      <cb ed="#J" n="b"/>
+               <lb ed="#J" n="41"/>uetur, aut non mouetur. Et, siquidem, 
+      <lb ed="#J" n="42"/>mouetur, sequitur ipsum transmu 
+      <lb ed="#J" n="43"/>tari propter ipsum trasmutari ab 
+      <lb ed="#J" n="44"/>aliquo, necesse est quod hoc cesset, 
+      <lb ed="#J" n="45"/>&amp; perueniat ad aliquid, quod mo 
+      <lb ed="#J" n="46"/>ueat absque eo, quod moueatur. quod 
+      <lb ed="#J" n="47"/>enim est tale, no transmutatur cu es, 
+      <lb ed="#J" n="48"/>quod transmutat, sed pot semper  
+      <lb ed="#J" n="49"/>mouere, cum in tali mo mouenda 
+      <lb ed="#J" n="50"/>no est fatigatio. Et talis motus. 
+      so<lb ed="#J" n="51" break="no"/>tus est aequalis, et est dignior in hoc 
+      <lb ed="#J" n="52"/>caeteris motibus. motor enim nullum ha 
+      <lb ed="#J" n="53"/>bet modum trasmutatiois. et oportet. 
+      <lb ed="#J" n="54"/>quod, neque, quod mouetur prope hoc 
+      <lb ed="#J" n="55"/>ab hoc habeat transmutationem, 
+      <lb ed="#J" n="56"/>vt motus sit consimilis. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e5830"><!-- l8-i-84 -->
+               <lb ed="#J" n="54"/>Igitur necesse est, aut quod sit 
+      <lb ed="#J" n="55"/>in medio, aut in circuferentia, haec 
+      <lb ed="#J" n="56"/>enim sunt duo pricipia: sed illud, quod 
+      <lb ed="#J" n="57"/>magis appropinquat motori, e 
+      ve<lb ed="#J" n="58" break="no"/>locius in motu: &amp; sic est de motuus 
+      <lb ed="#J" n="59"/>totius: motor ergo est illic. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e5847"><!-- l8-i-85 -->
+               <lb ed="#J" n="49"/>Sed est hic quod difficilis. motor 
+      <lb ed="#J" n="50"/>quidem pot mouere continue, &amp; non  
+      <lb ed="#J" n="51"/>ecundu idem, secundum quod expellit 
+      <lb ed="#J" n="52"/>vnum post aliud: et sic continuatio 
+      <lb ed="#J" n="53"/>eius est successio. Ad quod est 
+      di<lb ed="#J" n="54" break="no"/>cendum, quonia necesse est, aut quod 
+      <lb ed="#J" n="55"/>seper expellat, aut attrahat, aut 
+      <lb ed="#J" n="56"/>agat vtrunque, aut agat aliud, cui 
+      <lb ed="#J" n="57"/>succedit vnum post aliud, vt 
+      dixi<lb ed="#J" n="58" break="no"/>mus superius in re prorecta. aer enim 
+      <lb ed="#J" n="59"/>quia est aptus vt diuidatur, 
+      simi<lb ed="#J" n="60" break="no"/>uiter et aqua, mouet per suum motu 
+      <lb ed="#J" n="61"/>semper modis diuersis. sed impossi 
+      <lb ed="#J" n="62"/>bile est secudu vtrunque modu quod  
+      <lb ed="#J" n="63"/>motus sit vnus, sed successiuus. Co 
+      <lb ed="#J" n="64"/>tinuus igitur est solus, qui 
+      moue<lb ed="#J" n="65" break="no"/>tur a non moto. quonia, cu semper 
+      <lb ed="#J" n="66"/>sit eodem modo, &amp; ideo etia apud  
+      <lb ed="#J" n="67"/>illud, quod ab illo mouetur, est 
+      eo<lb ed="#J" n="68" break="no"/>dem modo continue. 
+      </p>
+            <p xml:id="aristdp-d1e105-d1e5894"><!-- l8-i-86 -->
+               <lb ed="#J" n="13"/>His ergo distinctis manifestum 
+      <lb ed="#J" n="14"/>est quod primus motor, qui no 
+      mo<lb ed="#J" n="15" break="no"/>uetur, non potest habere 
+      magni<lb ed="#J" n="16" break="no"/>tudinem omnino. Nam, si 
+      ha<lb ed="#J" n="17" break="no"/>beret, necesse esset vt esset finita, 
+      <lb ed="#J" n="18"/>aut ifinita. Et iam declarauimus 
+      <lb ed="#J" n="19"/>in sermone nostro naturali, quonia, 
+      <lb ed="#J" n="20"/>imposibile est magnitudinem esse 
+      <lb ed="#J" n="21"/>infinitam. Et nunc declarauimus 
+      <lb ed="#J" n="22"/>quoniam finitum non potest 
+      habe<lb ed="#J" n="23" break="no"/>re virtutem infinitam, &amp; quod fi 
+      <lb ed="#J" n="24"/>nitum non potest mouere tempore 
+      <lb ed="#J" n="25"/>tmfinito: sed primus motor mouet 
+      <lb ed="#J" n="26"/>motu aeterno, tempore infinito, 
+      <lb ed="#J" n="27"/>ergo manifestum est ipsum esse in  
+      <lb ed="#J" n="28"/>diuisibilem, &amp; impartibilem, et 
+      <lb ed="#J" n="29"/>nullam habere magnitudinem.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

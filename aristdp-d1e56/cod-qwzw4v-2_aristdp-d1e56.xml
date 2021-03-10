@@ -397,7 +397,7 @@
              <lb ed="#J" n="70"/>est ex vtrisque. sed, si de eo, quid est 
              <lb ed="#J" n="71"/>ex vtrisque, &amp; de vtraque. 
            </p>
-           <p alias="l2-ni-22" xml:id="aristdp-d1e56-d1e756">
+           <p xml:id="aristdp-d1e56-d1e756">
              <lb ed="#J" n="69"/>vtrum igitur eiusdem, aut alterius 
              <lb ed="#J" n="70"/>vtranque cognoscere 7 Ad 
              Anti<lb ed="#J" n="71" break="no"/>quos enim aspicienti videbitur 
@@ -460,26 +460,7 @@
              <lb ed="#J" n="20"/>in Physicis est. 
            </p>
            
-            <p xml:id="aristdp-d1e56-d1e872"><!-- l2-i-25 -->
-               <lb ed="#J" n="21"/>Et artes continentes materiam, 
-      <lb ed="#J" n="22"/>&amp; cognoscentes illam sunt duae: et 
-      <lb ed="#J" n="23"/>de arte operationis est Oeometria 
-      <lb ed="#J" n="24"/>operatiua: &amp; ideo ars operatiua 
-      <lb ed="#J" n="25"/>attribuitur etiam quodam modo  
-      <lb ed="#J" n="26"/>Oeometriae operatiua. sed tamen 
-      di<lb ed="#J" n="27" break="no"/>ferunt: illa enim attribuitur 
-      Geo<lb ed="#J" n="28" break="no"/>metriae operatiuae, secundum quod 
-      <lb ed="#J" n="29"/>cognoscit formam, ista autem 
-      seci<lb ed="#J" n="30" break="no"/>dum quod scit materiam, guberna 
-      <lb ed="#J" n="31"/>tor enim scit formam remi, 
-      quo<lb ed="#J" n="32" break="no"/>modo debet esse, &amp; praecipit fieri 
-      <lb ed="#J" n="33"/>huiusmodi, &amp; ista alia scit de qui 
-      <lb ed="#J" n="34"/>bus lignis, &amp; quibus motibus per.  
-      <lb ed="#J" n="35"/>ficitur. Quod aut fit per arte, nos 
-      <lb ed="#J" n="36"/>facimus materia in illa propter 
-      il<lb ed="#J" n="37" break="no"/>lud, quod intendimus, in rehus aut 
-      <lb ed="#J" n="38"/>Naturalibus est existens.
-  </p>
+            
            <p xml:id="aristdp-d1e56-d1e915"> <!-- l2-ni-26 -->
              <lb ed="#J" n="19"/>Amplius, eorum, quae ad 
              ali<lb ed="#J" n="20" break="no"/>quid, materia est. ad aliam enim 
@@ -522,23 +503,6 @@
              <lb ed="#J" n="67"/>tentemus quaesitorum vnumquodque. 
            </p>
            
-           
-           <p xml:id="aristdp-d1e56-d1e958"><!-- l2-i-27 -->
-               <lb ed="#J" n="68"/>His igitur determinatis conso 
-      <lb ed="#J" n="69"/>derandum est de causis, quae &amp;  
-      <lb ed="#J" n="70"/>quot sunt. Intentio enim istius 
-      cosyde<lb ed="#J" n="71" break="no"/>rationis, quia est scia: &amp; nos non  
-      <lb ed="#J" n="72"/>credimus aliquid scire absque eo 
-      <lb ed="#J" n="73"/>quod prius det erminemus illa, ex 
-      <lb ed="#J" n="74"/>quibus est, &amp; hoc est scire suas cas pri 
-      <lb ed="#J" n="75"/>mas: manifestum e quod oportet nos 
-      <lb ed="#J" n="76"/>etiam facere hoc in generatione, et 
-      <lb ed="#J" n="77"/>corruptione, &amp; in omni 
-      transmu<lb ed="#J" n="78" break="no"/>tatione naturali: ita quod, cum 
-      sci<lb ed="#J" n="79" break="no"/>uerimus principia eorum, 
-      quaere<lb ed="#J" n="80" break="no"/>mus reddere ad illa vnumquodque, 
-      <lb ed="#J" n="81"/>eorum, de quib. erimus perscrutati.
-  </p>
            <p xml:id="aristdp-d1e56-d1e992"> <!-- l2-ni-28 -->
              <lb ed="#J" n="27"/>Vno igitur modo causa dicitur, ex 
              <lb ed="#J" n="28"/>quo sit aliquid cum insit: vt aes 
@@ -571,7 +535,7 @@
              <lb ed="#J" n="84"/>sunt opera, alia vero organa.
            </p>
            
-           <p alias="l2-ni-30" xml:id="aristdp-d1e56-d1e1078">
+           <p xml:id="aristdp-d1e56-d1e1078"><!-- l2-ni-30 -->
              <lb ed="#J" n="48"/>Causae igitur ferem tot modis diiunt. 
              <lb ed="#J" n="49"/>Accidit autem, cum multipsitur 
              dican<lb ed="#J" n="50" break="no"/>tur causae, &amp; multas eiusdem 
@@ -593,21 +557,7 @@
              gu<lb ed="#J" n="66" break="no"/>bernatoris nauis subuersionis, 
              <lb ed="#J" n="67"/>cuius erat presentia causa salutis, 
            </p>
-           
-           
-            <p xml:id="aristdp-d1e56-d1e1078"><!-- l2-i-30 -->
-               <lb ed="#J" n="68"/>isti igitur sunt modi, secundum 
-      <lb ed="#J" n="69"/>quot fere dicuntur causae. Et 
-      acci<lb ed="#J" n="70" break="no"/>dit, si causae sint multis modis, vt 
-      <lb ed="#J" n="71"/>plures causae sint vnius rei, &amp; non  
-      <lb ed="#J" n="72"/>per accidens. v. g. quoniam causa, 
-      <lb ed="#J" n="73"/>idoli hominis est ars statuandi, &amp;  
-      <lb ed="#J" n="74"/>causa eius est cuprum, &amp; hoc non  
-      <lb ed="#J" n="75"/>est alio modo, sed secundum quod est 
-      <lb ed="#J" n="76"/>statua: sed non eodem modo sunt cau 
-      <lb ed="#J" n="77"/>sae: sed hoc secundum materia, hoc 
-      au<lb ed="#J" n="78" break="no"/>te secudum quod est pricipiu motus.
-    </p>
+          
            <p xml:id="aristdp-d1e56-d1e1148"> <!-- l2-ni-31 -->
              <lb ed="#J" n="58"/>Omnes autem nunc dictae cau 
              <lb ed="#J" n="59"/>sae in quatuor cadunt modos ma 
@@ -1182,7 +1132,7 @@
              <lb ed="#J" n="76"/>semper quod deinceps est. 
            </p>
            
-           <p xml:id="aristdp-d1e56-d1e2426"> <!-- l2-ni-73 -->
+           <p xml:id="aristdp-d1e56-d1e2458"> <!-- l2-ni-73 -->
              <lb ed="#J" n="37"/>Duplicia autem sunt 
              princi<lb ed="#J" n="38" break="no"/>pia mouentia physice, quorum 
              <lb ed="#J" n="39"/>alterum non Physicum est: non 

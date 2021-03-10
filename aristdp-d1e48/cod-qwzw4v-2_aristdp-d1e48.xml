@@ -1,0 +1,1529 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Liber 1</title>
+            <author ref="#Aristotle">Aristotle</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Liber 1</title>
+               <date when="2021-03-09">March 9, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="J" n="cod-qwzw4v">Juntina, Venice 1562</witness><!-- non-italic text --> 
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-03-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#J" n="21-v"/>
+            <cb ed="#J" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="aristdp-d1e48">
+            <head xml:id="aristdp-d1e48-Hd1e105">Liber 1</head>
+           <!--<p>
+             <!-\-Averroes_Physica_JuntSecunda_04-0018.xml-\->
+             <pb ed="#J" n="5-v"/>
+             <cb ed="#J" n="a"/>
+             <lb ed="#J" n="1"/>De Propo sito buius scientiae. Cap. 1. 
+           </p>-->
+           <p xml:id="aristdp-d1e48-d1e108"> <!-- l1-ni-1 --> <!-- ni=non-italic; possibly antiqua translation -->
+             <lb ed="#J" n="2"/>Voniam 
+             cogno<lb ed="#J" n="3" break="no"/>scere, ac scitur com 
+             <lb ed="#J" n="4"/>tigit circa omnes 
+             <lb ed="#J" n="5"/>methodos, quae 
+             <lb ed="#J" n="6"/>rum sunt princi 
+             <lb ed="#J" n="7"/>pia, aut causae, 
+             <lb ed="#J" n="8"/>aut elementa 
+             <lb ed="#J" n="9"/>ex horum cognitione: tunc enim 
+             pu<lb ed="#J" n="10" break="no"/>tamus cognoscere vnunquodque, 
+             <lb ed="#J" n="11"/>cum cauns primas cognouerimus, &amp;  
+             <lb ed="#J" n="12"/>principia prima, &amp; vsque ad 
+             ele<lb ed="#J" n="13" break="no"/>menta: manifestum est quod &amp; ea, quae 
+             <lb ed="#J" n="14"/>st circa principia seniae, quae de 
+             natu<lb ed="#J" n="15" break="no"/>ra est, primum determinatur tentandum. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e146"> <!-- l1-ni-2 -->
+             <lb ed="#J" n="26"/>INnata autem est ex notiori 
+             <lb ed="#J" n="27"/>bus nobis via, &amp; manifestio 
+             <lb ed="#J" n="28"/>ribus ad manifestiora 
+             natu<lb ed="#J" n="29" break="no"/>rae, &amp; notiora: non enim sunt ea 
+             <lb ed="#J" n="30"/>dem &amp; nobis nota, &amp; simplici 
+             <lb ed="#J" n="31"/>ter. Quapropter necesse est ad 
+             <lb ed="#J" n="32"/>liunc modum procedere ex 
+             im<lb ed="#J" n="33" break="no"/>manifestioribus quidem 
+             natu<lb ed="#J" n="34" break="no"/>rae, nobis at manifestioribus ad 
+             <lb ed="#J" n="35"/>manifestiora naturae, &amp; notiora. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e180"> <!-- l1-ni-3 -->
+             <lb ed="#J" n="24"/>Sunt autem primum nobis 
+             <lb ed="#J" n="25"/>dilucida, ac manifesta confusa 
+             <lb ed="#J" n="26"/>magis: posterius autem ex his 
+             <lb ed="#J" n="27"/>nota fiunt elementa, &amp; 
+             princi<lb ed="#J" n="28" break="no"/>pia ijs, qui diuidunt haec. 
+           </p>
+           <!--<p>
+             <lb ed="#J" n="56"/>De modo ordinis doctrinae. Cap. 3. 
+           </p>-->
+           <p xml:id="aristdp-d1e48-d1e197"> <!-- l1-ni-4 -->
+             <lb ed="#J" n="57"/>Vapropter ex vniversalibus ad 
+             <lb ed="#J" n="58"/>singularia, procedere opor 
+             <lb ed="#J" n="59"/><!-- line coord error -->
+             <lb ed="#J" n="60"/>tet. totum enim secundum sensum 
+             <lb ed="#J" n="61"/>notius est: vniversalie autem to 
+             <lb ed="#J" n="62"/>tum quoddam est: multa enim 
+             <lb ed="#J" n="63"/>comprehendit, vt partes, vniversalier 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e215"> <!-- l1-ni-5 -->
+             <lb ed="#J" n="56"/>Patiuntur autem hoc idem quo 
+             <lb ed="#J" n="57"/>dammodo &amp; nomina ad 
+             ratio<lb ed="#J" n="58" break="no"/>nem: totum enim quoddam, &amp;  
+             <lb ed="#J" n="59"/>indistincte significant, vt 
+             circu<lb ed="#J" n="60" break="no"/>lus: definitio autem ipsius diuidit 
+             <lb ed="#J" n="61"/>in singula. Ac pueri primum 
+             qui<lb ed="#J" n="62" break="no"/>dem omnes viros patres appeltant, 
+             <lb ed="#J" n="63"/>&amp; matres foeminas: posterius 
+             au<lb ed="#J" n="64" break="no"/>tem determinant horum vtrunque. 
+           </p>
+           <!--<p>
+             <lb ed="#J" n="21"/>SVMMA SECVNBA. 
+             <lb ed="#J" n="22"/>Antiquorum opiniones de principiis natu¬ 
+             <lb ed="#J" n="23"/>ralibus examinat, easque destruit. 
+             <lb ed="#J" n="24"/>De opinionibus antiquorum circa 
+             <lb ed="#J" n="25"/>principia. Cap. 1. 
+           </p>-->
+           <p xml:id="aristdp-d1e48-d1e242"> <!-- l1-ni-6 -->
+             <lb ed="#J" n="26"/>NEcesse est autem aut 
+             <lb ed="#J" n="27"/>vnum esse principium, 
+             <lb ed="#J" n="28"/>aut plura. Et, si vnum, 
+             <lb ed="#J" n="29"/>aut immobile, vt 
+             di<lb ed="#J" n="30" break="no"/>cunt Parmenides, ac Melissus, 
+             <lb ed="#J" n="31"/>aut mobile, vt Physici, hi quidem 
+             <lb ed="#J" n="32"/>aerem asserentes esse, alii vero 
+             <lb ed="#J" n="33"/>aquam primum principium. Si 
+             ve<lb ed="#J" n="34" break="no"/>rom plura, aut finita, aut infinita. 
+             <lb ed="#J" n="35"/>Et, si finita, plura autem vno, aut 
+             <lb ed="#J" n="36"/>duo, aut tria, aut quatuor, aut 
+             <lb ed="#J" n="37"/>secundum alium quempiam numerum. 
+             <lb ed="#J" n="38"/>Et, si infinita, aut sic vt 
+             Demo<lb ed="#J" n="39" break="no"/>critus, genere quidem vnum, 
+             fi<lb ed="#J" n="40" break="no"/>gura vero, vel specie differentia, 
+             <lb ed="#J" n="41"/>aut etiam contraria.
+           </p>
+           <p  xml:id="aristdp-d1e48-d1e285"> <!-- l1-ni-7 -->
+             <lb ed="#J" n="34"/>Similiter autem quaerunt &amp; quae  
+             <lb ed="#J" n="35"/>rentes quot sunt ea, quae sunt. ex 
+             <lb ed="#J" n="36"/>quibus enim sunt ea, quae sunt 
+             <lb ed="#J" n="37"/>quaerunt primum vtrum haec vnum, 
+             <lb ed="#J" n="38"/>anmulta sint. &amp; si multa, finita, 
+             <lb ed="#J" n="39"/>an infinita. quare principium, 
+             <lb ed="#J" n="40"/>ac elementum quaerunt vtrum 
+             <lb ed="#J" n="41"/>sit vnum, an multa. 
+           </p>
+           <!--<p>
+             <lb ed="#J" n="78"/>Ex dictisopinionibus quaenam a Physico 
+             <lb ed="#J" n="79"/>destrui, pel non destrui debeant. Cc. 1.
+           </p>-->
+           <p xml:id="aristdp-d1e48-d1e312"> <!-- l1-ni-8 -->
+             <lb ed="#J" n="80"/>ITaque si vnum, atque 
+             immobi<lb ed="#J" n="81" break="no"/>le sit id, quod est, 
+             consydera<lb ed="#J" n="82" break="no"/>re, non est de natura 
+             specula<lb ed="#J" n="83" break="no"/>ri. vt enim &amp; Geometrae non  
+             <lb ed="#J" n="84"/>amplius est ratio ad eum, qui de 
+             <lb ed="#J" n="85"/>struit principia, sed aut alterius 
+             <!--Averroes_Physica_JuntSecunda_04-0026.xml-->
+             <pb ed="#J" n="9-v"/>
+             <cb ed="#J" n="a"/>
+             <lb ed="#J" n="1"/>est scientiae, aut omnium communis, sic 
+             <lb ed="#J" n="2"/>neque ei, qui de principiis. non enim  
+             <lb ed="#J" n="3"/>amplius principium est, si vnum 
+             <lb ed="#J" n="4"/>solum, &amp; ita vnum est, aut enim princi 
+             <lb ed="#J" n="5"/>pium cuiusdam, aut aliquorum est. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e346"> <!-- l1-ni-9 -->
+             <lb ed="#J" n="10"/>Simile itaque est consyderare 
+             <lb ed="#J" n="11"/>an sic vnum est, &amp; ad aliam quam 
+             <lb ed="#J" n="12"/>libet positionem sermonis gera 
+             <lb ed="#J" n="13"/>dictam disputare, vtHeracliteam, 
+             <lb ed="#J" n="14"/>aut siquis dicat hominem vnum, 
+             <lb ed="#J" n="15"/>id, quod est, esse. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e365"> <!-- l1-ni-10 -->
+             <lb ed="#J" n="35"/>Aut soluere litigiosam rationem, 
+             <lb ed="#J" n="36"/>quod vtraeque quidem hiabunt rationes &amp;  
+             <lb ed="#J" n="37"/>Melissi, &amp; Parmenidis: etenim 
+             <lb ed="#J" n="38"/>falsa accipiunt, &amp; non syllogixam 
+             <lb ed="#J" n="39"/>tes sunt. magis autem Melissi one 
+             <lb ed="#J" n="40"/>rosa est, &amp; non habens dubitationem, 
+             <lb ed="#J" n="41"/>sed vno inconuenienti dato alia 
+             <!--Averroes_Physica_JuntSecunda_04-0027.xml-->
+             <cb ed="#J" n="b"/>
+             <lb ed="#J" n="42"/>contingunt. hoc autem nihil dif 
+             <lb ed="#J" n="43"/>ficile est. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e389"> <!-- l1-ni-11 -->
+             <lb ed="#J" n="26"/>Nobis autem supponatur ea, 
+             <lb ed="#J" n="27"/>quae sunt natura, aut omnia, aut 
+             <lb ed="#J" n="28"/>quaedam moueri. manisestum 
+             <!--Averroes_Physica_JuntSecunda_04-0028.xml-->
+             <cb ed="#J" n="b"/>
+             <lb ed="#J" n="29"/>est autem ex inductione. Simul 
+             <lb ed="#J" n="30"/>autem neque conuenit omnia sol 
+             <lb ed="#J" n="31"/>uere, sed quaecunque ex 
+             princi<lb ed="#J" n="32" break="no"/>psuns aliquis demonstrans menti 
+             <lb ed="#J" n="33"/>tur, quaecunque vero non, 
+             mini<lb ed="#J" n="34" break="no"/>me. vt Tetragonismum, eum 
+             qui<lb ed="#J" n="35" break="no"/>dem, qui per sectiones 
+             Oeome<lb ed="#J" n="36" break="no"/>trici est dissoluere: illum autem, 
+             <lb ed="#J" n="37"/>qui Antiphontis, non 
+             Oeome<lb ed="#J" n="38" break="no"/>trici est. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e425"> <!-- l1-ni-12 -->
+             <lb ed="#J" n="51"/>Sed, quoniam de natura quidem, non 
+             <lb ed="#J" n="52"/>autem naturales dubitationes con 
+             <lb ed="#J" n="53"/>tingit dicere ipsos, forsitan 
+             qui<lb ed="#J" n="54" break="no"/>dem bene se habet aliquantulum 
+             <lb ed="#J" n="55"/>disputare de ipsis, habet enim philoso 
+             <lb ed="#J" n="56"/>phiam haec consyderatio. 
+           </p>
+           <!--<p>
+             <lb ed="#J" n="78"/>De Opinionibus non naturaliter loquen¬ 
+             <lb ed="#J" n="79"/>tium. Cap. 7.
+           </p>-->
+           <p xml:id="aristdp-d1e48-d1e442"> <!-- l1-ni-13 -->
+             <lb ed="#J" n="80"/>PRincipium autem maxime om 
+             <lb ed="#J" n="81"/>nium proprium. quoniam mul 
+             <lb ed="#J" n="82"/>tipliciter dicitur id, quod est, quomodo 
+             <lb ed="#J" n="83"/>dicunt dicentes vnum esse 
+             om<lb ed="#J" n="84" break="no"/>niaVtrum substantiam omnia, an 
+             <lb ed="#J" n="85"/>quanta, aut qualia: &amp; iterum vtrum 
+             <!--Averroes_Physica_JuntSecunda_04-0031.xml-->
+             <pb ed="#J" n="12-r"/>
+             <cb ed="#J" n="a"/>
+             <lb ed="#J" n="1"/>substantiam vnam omnia, vt 
+             ho<lb ed="#J" n="2" break="no"/>minem vnum, aut equum vnum, 
+             <lb ed="#J" n="3"/>aut animam vnamcan quale, vnum 
+             <lb ed="#J" n="4"/>autem hoc, vt album, aut calidum, 
+             <lb ed="#J" n="5"/>aut aliquid taliumchaec enim 
+             om<lb ed="#J" n="6" break="no"/>nia differunt multum, &amp; sunt 
+             <lb ed="#J" n="7"/>impossibilia dictu. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e476"> <!-- l1-ni-14 -->
+             <lb ed="#J" n="55"/>Si enim erunt &amp; substantia. 
+             <lb ed="#J" n="56"/>&amp; quale, &amp; quantum, &amp; haec si 
+             <lb ed="#J" n="57"/>ue separata adinuicem, siue non 
+             <lb ed="#J" n="58"/>multa sunt quae sunt. Si vero 
+             om<lb ed="#J" n="59" break="no"/>nia quale, aut quantum, siue cum 
+             <lb ed="#J" n="60"/>sit substantia, siue cum non sit, 
+             <lb ed="#J" n="61"/>inconueniens est. si oportet 
+             in<lb ed="#J" n="62" break="no"/>conueniens dicere quod 
+             impossi<lb ed="#J" n="63" break="no"/>bile. nullum enim aliorum separabile 
+             <lb ed="#J" n="64"/>est praeter substantiam: omnia nanque 
+             <lb ed="#J" n="65"/>de subiecto dicitunrtur, ipsa suba. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e546"> <!-- l1-ni-15 -->
+             <lb ed="#J" n="43"/>Melissus autem quod est infi 
+             <lb ed="#J" n="44"/>nitum esse dicit, quantum itaque 
+             <!--Averroes_Physica_JuntSecunda_04-0032.xml-->
+             <cb ed="#J" n="b"/>
+             <lb ed="#J" n="45"/>aliquid est quod est. infinitum 
+             <lb ed="#J" n="46"/>enim in quanto est. substantiam 
+             <lb ed="#J" n="47"/>autem infinitam, aut qualitatem, 
+             <lb ed="#J" n="48"/>aut passionem esse non 
+             contin<lb ed="#J" n="49" break="no"/>git, nisi secundum accidens, si simul &amp;  
+             <lb ed="#J" n="50"/>quanta aliqua sint. Infiniti enim ratio 
+             <lb ed="#J" n="51"/>quanto vtitur, sed non 
+             substan<lb ed="#J" n="52" break="no"/>tia, neque quali. Si igitur &amp; substam 
+             <lb ed="#J" n="53"/>tia est, &amp; quantum, duo, &amp; non  
+             <lb ed="#J" n="54"/>vnum est quod est. si verom 
+             sub<lb ed="#J" n="55" break="no"/>stantia solum sit, non infinitum est, 
+             <lb ed="#J" n="56"/>neque magnitudinem habebit vllam. 
+             <lb ed="#J" n="57"/>quantum enim quoddam erit. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e587"> <!-- l1-ni-16 -->
+             <lb ed="#J" n="57"/>Amplius, quoniam &amp; ipsum vnum 
+             <lb ed="#J" n="58"/>multipsitur dicitur, quemadmodum &amp; 
+             <lb ed="#J" n="59"/>quod est, consyderandum est quo 
+             <lb ed="#J" n="60"/>modo dicunt vnum esse omne. dicitur 
+             <lb ed="#J" n="61"/>enim Vnum, aut continuum, aut in 
+             <lb ed="#J" n="62"/>diuisibile, aut quorum ratio eadem, 
+             <lb ed="#J" n="63"/>&amp; vna est ipsius quod quid erat 
+             <lb ed="#J" n="64"/>esse: quemadmodum merum, 
+             <lb ed="#J" n="65"/>&amp; vinum. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e608"> <!-- l1-ni-17 -->
+             <lb ed="#J" n="13"/>Si igitur continuum est, multa est 
+             <lb ed="#J" n="14"/>id, quod est: infinitum enim diuisibile est 
+             <lb ed="#J" n="15"/>continuum. Habet autem dubita. 
+             <lb ed="#J" n="16"/>tionem de parte, &amp; toto. fortassis 
+             <lb ed="#J" n="17"/>autem nihil ad oionem, sed ipsam 
+             <lb ed="#J" n="18"/>secundum scipsam, vtrum vnum, an plu 
+             <lb ed="#J" n="19"/>ra sint pars, &amp; totum. Et quomod 
+             <lb ed="#J" n="20"/>vnum, aut plura. Et si plura, quo 
+             <lb ed="#J" n="21"/>plura. Et de partibus non conti 
+             <lb ed="#J" n="22"/>nuis eadem est rtio. Et si toti vnum 
+             <lb ed="#J" n="23"/>vtraque est, velut indiuisibile, quoniam 
+             <lb ed="#J" n="24"/>&amp; ipsae sibiipsis. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e640"><!-- alias="l1-ni-18" -->
+             <lb ed="#J" n="7"/>At vero, si velut indiuisibile, 
+             <lb ed="#J" n="8"/>nullum erit quantum, neque quale 
+             <lb ed="#J" n="9"/>Neque itaque infinitum est id, quod est 
+             <lb ed="#J" n="10"/>sicut Melissus dicit, neque finitum, 
+             <lb ed="#J" n="11"/>sicut Parmenides. terminus. enim 
+             <lb ed="#J" n="12"/>indiuisibilis est, neque finitus est. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e657"> <!-- l1-ni-19 -->
+             <lb ed="#J" n="46"/>At verom, si omnia, quae sunt, ratione 
+             <lb ed="#J" n="47"/>vnum sunt, vt indumentum, &amp; 
+             <lb ed="#J" n="48"/>tunica, Heracliti onionem conti 
+             <lb ed="#J" n="49"/>git ipsos dicere. idem enim erit &amp; 
+             <lb ed="#J" n="50"/>bono, &amp; malo, &amp; non bono esse. 
+             <lb ed="#J" n="51"/>&amp; bono, quare idem erit bonum 
+             <lb ed="#J" n="52"/>&amp; non bonum, &amp; homo &amp; equus 
+             <lb ed="#J" n="53"/>&amp; non de eo, quod vnum sunt, qua 
+             <lb ed="#J" n="54"/>sunt, ratio erit, sed de eo, quod nihil se. 
+             <lb ed="#J" n="55"/>&amp; tali esse, &amp; tanto idem. 
+           </p>
+           
+           <p xml:id="aristdp-d1e48-d1e689"> <!-- l1-ni-20 -->
+             <lb ed="#J" n="36"/>Conturbabantur autem &amp; 
+             po<lb ed="#J" n="37" break="no"/>steriores, quemadmodum &amp; 
+             Anti<lb ed="#J" n="38" break="no"/>qui, ne forte accidat ipsis idem 
+             si<lb ed="#J" n="39" break="no"/>mul vnum esse, et multa. Quapro 
+             <lb ed="#J" n="40"/>pter &amp; alii quidem ipsum est aufe 
+             <lb ed="#J" n="41"/>ferebant, quemadmodum 
+             Lyco<lb ed="#J" n="42" break="no"/>phron: alii autem muntabant di 
+             <lb ed="#J" n="43"/>ctionem, quoniam homo, non albus est, 
+             <!--Averroes_Physica_JuntSecunda_04-0036.xml-->
+             <cb ed="#J" n="b"/>
+             <lb ed="#J" n="44"/>sed albatur, neque ambulans est, 
+             <lb ed="#J" n="45"/>sed ambulat: ne ipsum est 
+             adi<lb ed="#J" n="46" break="no"/>cientes, multa faciant esse vnum. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e719"> <!-- l1-ni-21 -->
+             <lb ed="#J" n="80"/>Iamquae singulariter dicto vno, 
+             <lb ed="#J" n="81"/>aut ente. Sed multa sunt quae sunt: 
+             <lb ed="#J" n="82"/>aut ratione, vt aliud est albo esse, 
+             <lb ed="#J" n="83"/>et musico, eidem vero vtraque. mul 
+             <!--Averroes_Physica_JuntSecunda_04-0037.xml-->
+             <pb ed="#J" n="15-r"/>
+             <cb ed="#J" n="a"/>
+             <lb ed="#J" n="1"/>ta itaque vnum: aut diuisione, 
+             quem<lb ed="#J" n="2" break="no"/>admodum totum, &amp; partes. Hic 
+             <lb ed="#J" n="3"/>autem iam dubitabant, et 
+             confiteban<lb ed="#J" n="4" break="no"/>tur vnum multa esse, tanque non com 
+             <lb ed="#J" n="5"/>tingeret idem vnum, &amp; multa esse, 
+             <lb ed="#J" n="6"/>non autem opposita. est enim vnum 
+             <lb ed="#J" n="7"/>&amp; potentia, &amp; actu. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e752"> <!-- l1-ni-22 -->
+             <lb ed="#J" n="57"/>Hoc igitur modo dicentibus 
+             <lb ed="#J" n="58"/>impossibile videtur quae sunt 
+             <lb ed="#J" n="59"/>vnum esse. Et ex quibus 
+             osten<lb ed="#J" n="60" break="no"/>dunt soluere non difficile est. 
+             <lb ed="#J" n="61"/>vtrique enim contentiose syllogiaant. 
+             <lb ed="#J" n="62"/>&amp; Melissus, &amp; Parmenides. nam 
+             <lb ed="#J" n="63"/>&amp; falsa accipiunt, &amp; non 
+             syllo<lb ed="#J" n="64" break="no"/>giaantes sunt. Est autem Melissi 
+             <lb ed="#J" n="65"/>magis onerosa ratio, &amp; non 
+             ha<lb ed="#J" n="66" break="no"/>bens dubitationem. sed vno in  
+             <lb ed="#J" n="67"/>conuententi dato, alia 
+             contin<lb ed="#J" n="68" break="no"/>gunt. hoc autem nihil difficile est. 
+           </p>
+           <!--<p>
+             <lb ed="#J" n="34"/>De confutatione syllogismorum pro iam 
+             <lb ed="#J" n="35"/>diclis opinionibus. Cap. A. 
+           </p>-->
+           <p xml:id="aristdp-d1e48-d1e782"> <!-- l1-ni-23 -->
+             <lb ed="#J" n="36"/>QVod igitur paralogizat 
+             <lb ed="#J" n="37"/>Melissus manifestum est 
+             <lb ed="#J" n="38"/>um opinatur enim accipere, si quid 
+             <lb ed="#J" n="39"/>factum est, omne habet principium, 
+             <lb ed="#J" n="40"/>quod &amp; id, quod non factum est, non 
+             ha<lb ed="#J" n="41" break="no"/>bet. Postea et hoc inconueniens 
+             <lb ed="#J" n="42"/>omnis ? esse principium rei, &amp; non  
+             <lb ed="#J" n="43"/>temporis, et generationis non sim¬ 
+             <!--Averroes_Physica_JuntSecunda_04-0038.xml-->
+             <cb ed="#J" n="b"/>
+             <lb ed="#J" n="44"/>plicis, sed &amp; alterationis, tanque 
+             <lb ed="#J" n="45"/>non momentanea facta mutatione. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e816"> <!-- l1-ni-24 -->
+             <lb ed="#J" n="52"/>Deinde &amp; propter quid est 
+             im<lb ed="#J" n="53" break="no"/>mobile, si vnu estes sicut enim &amp;  
+             <lb ed="#J" n="54"/>pars vna cum sit, haec aqua 
+             mo<lb ed="#J" n="55" break="no"/>uet in seipsa, quare non &amp; 
+             totun<lb ed="#J" n="56" break="no"/>Postea alteratio propter quod non erite 
+             <lb ed="#J" n="57"/>At vero nec specie possibile est 
+             <lb ed="#J" n="58"/>vnum esse, nisi eo, ex quo. Sic autem 
+             <lb ed="#J" n="59"/>&amp; Physicorum quidam dicunt 
+             <lb ed="#J" n="60"/>vnum, illo autem modo non,  
+             <lb ed="#J" n="61"/>hiomo nanque ab equo alterum est 
+             <lb ed="#J" n="62"/>specie, &amp; contraria inuicem. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e848"> <!-- l1-ni-25 -->
+             <lb ed="#J" n="25"/>Et ad Parmenidem autem idem 
+             <lb ed="#J" n="26"/>modus rationum est, &amp; si aliqui 
+             <lb ed="#J" n="27"/>ali sunt, proprim. Et solutio est, 
+             par<lb ed="#J" n="28" break="no"/>tim quidem, quia falsa est: partim 
+             <lb ed="#J" n="29"/>autem, quia non concludit. Ealsa qui 
+             <lb ed="#J" n="30"/>dem, quia quod est accipit 
+             sim<lb ed="#J" n="31" break="no"/>psiciter dici, cum multipssitu dicatur. 
+             <lb ed="#J" n="32"/>Non concludit autem, quia, si sola 
+             <lb ed="#J" n="33"/>alba capiantur, significante vnum 
+             <lb ed="#J" n="34"/>albo, nihilo minus multa alba 
+             <lb ed="#J" n="35"/>sunt, &amp; non vnum. non enim 
+             con<lb ed="#J" n="36" break="no"/>tinuatione erit album vnum, neque 
+             <lb ed="#J" n="37"/>ratione. aliud enim erit esse albo, &amp;  
+             <lb ed="#J" n="38"/>suscipienti, &amp; non erit praeter al 
+             <lb ed="#J" n="39"/>bum nihil separabile. non enim 
+             <lb ed="#J" n="40"/>quatenus separabile est, sed esse 
+             <lb ed="#J" n="41"/>alterum est albo, et ei cui inest. Sed  
+             <lb ed="#J" n="42"/>hoc Parmenides nondum videbat.
+           </p>
+           <p xml:id="aristdp-d1e48-d1e906"> <!-- l1-ni-26 -->
+             <lb ed="#J" n="52"/>Necesse est igitur accipere ijs, 
+             <lb ed="#J" n="53"/>qui dicunt quod est vnum esse, non 
+             <lb ed="#J" n="54"/>solum vnum significare quod est, 
+             <lb ed="#J" n="55"/>de quo vtique praedicetur, sed &amp; quod  
+             <lb ed="#J" n="56"/>vere est, &amp; quod verem vnum est. 
+             <lb ed="#J" n="57"/>accidens. enim de subiecto quodam 
+             <lb ed="#J" n="58"/>icitur quare cui accidit quod est, 
+             <lb ed="#J" n="59"/>non erit: alterum enim est ab eo 
+             <lb ed="#J" n="60"/>quod est: erit itaque aliquid, quid 
+             <lb ed="#J" n="61"/>non est. non itaque erit alii 
+             inexi<lb ed="#J" n="62" break="no"/>stens quod vere est. Tnon enim erit 
+             <lb ed="#J" n="63"/>enti ipsi esse, nisi multa quod est si 
+             <lb ed="#J" n="64"/>gnificet, sic, vt sit aliquid vnum 
+             <lb ed="#J" n="65"/>quodque. sed supponitur quid est si 
+             <lb ed="#J" n="66"/>gnificare vnum. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e946"> <!-- l1-ni-27 -->
+             <lb ed="#J" n="41"/>Si igitur quod vere est nulli 
+             <lb ed="#J" n="42"/>accidit, sed illi aliquid, magis 
+             <lb ed="#J" n="43"/>quod vere est significat quod est. 
+             <!--Averroes_Physica_JuntSecunda_04-0043.xml-->
+             <cb ed="#J" n="b"/>
+             <lb ed="#J" n="44"/>quae quod non est. Si enim erit quod 
+             <lb ed="#J" n="45"/>verem est idem &amp; album, albo 
+             au<lb ed="#J" n="46" break="no"/>tem esse non est quod verem est: 
+             <lb ed="#J" n="47"/>neque enim accidere ipsi possibi 
+             <lb ed="#J" n="48"/>le est quod est: nihil enim quod est 
+             <lb ed="#J" n="49"/>est, quod non verem sit non ergo 
+             <lb ed="#J" n="50"/>quod est album est. non sic autem vt 
+             ali<lb ed="#J" n="51" break="no"/>quid non sit, sed omnino non sit, erit. 
+             <lb ed="#J" n="52"/>quod verem itaque est non est. 
+             ve<lb ed="#J" n="53" break="no"/>rum enim est dicere quod verem est 
+             <lb ed="#J" n="54"/>quod album, hoc autem non quid 
+             <lb ed="#J" n="55"/>est significabat, quare, si &amp; album 
+             <lb ed="#J" n="56"/>significat quod verem est, multa 
+             <lb ed="#J" n="57"/>ergo significat quod est.
+           </p>
+           <p xml:id="aristdp-d1e48-d1e990"> <!-- l1-ni-28 -->
+             <lb ed="#J" n="38"/>Neque igitur magnitudinem 
+             <lb ed="#J" n="39"/>habebit quod est, si quidem quod 
+             <lb ed="#J" n="40"/>verem est, est, quod est. vtrique enim 
+             <lb ed="#J" n="41"/>partium aliud est esse. Quod au 
+             <lb ed="#J" n="42"/>tem diuiditur quod verem est in  
+             <lb ed="#J" n="43"/>quod verem est aliquid aliud etiam 
+             <!--Averroes_Physica_JuntSecunda_04-0044.xml-->
+             <cb ed="#J" n="b"/>
+             <lb ed="#J" n="44"/>ratone manifestum est. vt homo, 
+             <lb ed="#J" n="45"/>si est quod verem est aliquid, 
+             ne<lb ed="#J" n="46" break="no"/>cesse est &amp; animal, quod verem aliquid 
+             <lb ed="#J" n="47"/>est esse, &amp; bipes. si enim non quod 
+             <lb ed="#J" n="48"/>verem est, est, accidentia erunt, aut 
+             <lb ed="#J" n="49"/>ligitur homini, aut alicui alii sub 
+             <lb ed="#J" n="50"/>iecto. sed impossibile est. accidens 
+             <lb ed="#J" n="51"/>etenim dicitur hoc, aut quod 
+             con<lb ed="#J" n="52" break="no"/>tingit esse, &amp; non esse, aut cuius 
+             <lb ed="#J" n="53"/>est in ratione hoc, cui accidit. vt 
+             <lb ed="#J" n="54"/>sedere quidem, velut separabile. I 
+             <lb ed="#J" n="55"/>simo autem est ratio naris, cui 
+             di<lb ed="#J" n="56" break="no"/>cimus accidere simum. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e1037"> <!-- l1-ni-29 -->
+             <lb ed="#J" n="40"/>Amplius quaecunque in defini 
+             <lb ed="#J" n="41"/>tiua ratione insunt, aut ex 
+             qui<lb ed="#J" n="42" break="no"/>bus sunt, in ratione horum non 
+             <lb ed="#J" n="43"/>inest ratio totius. vt in bipede ratio 
+             <!--Averroes_Physica_JuntSecunda_04-0045.xml-->
+             <cb ed="#J" n="b"/>
+             <lb ed="#J" n="44"/>homins, aut in albo ratio albi homins, 
+             <lb ed="#J" n="45"/>Si igitur haec hoc se habent modo.  
+             <lb ed="#J" n="46"/>&amp; homini accidit bipes. necesse 
+             <lb ed="#J" n="47"/>est separabile esse ipsum, quare 
+             <lb ed="#J" n="48"/>continget vtique non bipedem esse 
+             <lb ed="#J" n="49"/>hominem, aut in ratione bipedis 
+             <lb ed="#J" n="50"/>inerit hominis ratio. sed 
+             impos<lb ed="#J" n="51" break="no"/>sibile est. illud enim in tillius 
+             ratio<lb ed="#J" n="52" break="no"/>ne inest. Si autem alii accidunt bi 
+             <lb ed="#J" n="53"/>pes, &amp; animal, &amp; non est vtrun 
+             <lb ed="#J" n="54"/>que quod vere est aliquid, &amp; homo 
+             <lb ed="#J" n="55"/>vtique erit accidentium alteri. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e1082"> <!-- l1-ni-30 -->
+             <lb ed="#J" n="6"/>Sed quod verem aliquid est sit ac 
+             <lb ed="#J" n="7"/>cidens nulli. &amp; de quo ambo, &amp;  
+             <lb ed="#J" n="8"/>vtrunque, &amp; quod est ex his, dica 
+             <lb ed="#J" n="9"/>tur. ex indiuisibilibus itaque est 
+             <lb ed="#J" n="10"/>omne. Quidam autem rationibus 
+             <lb ed="#J" n="11"/>vtrisque acquieuerunt, huic 
+             qui<lb ed="#J" n="12" break="no"/>dem, quod omnia vnum sunt, si quid 
+             <lb ed="#J" n="13"/>est vnum signiat, quod id est etiam quod 
+             <lb ed="#J" n="14"/>non est, ei autem, quae ex 
+             disfe<lb ed="#J" n="15" break="no"/>ctione, indiuiduas facientes ma 
+             <lb ed="#J" n="16"/>gnitudines. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e111X"> <!-- l1-ni-31 -->
+             <lb ed="#J" n="81"/>Manifestum autem est &amp; quod non ve 
+             <lb ed="#J" n="82"/>rum est quod, si vnum significat 
+             <lb ed="#J" n="83"/>quod est, &amp; non possibile est 
+             <!--Averroes_Physica_JuntSecunda_04-0048.xml-->
+             <pb ed="#J" n="20-v"/>
+             <cb ed="#J" n="a"/>
+             <lb ed="#J" n="1"/>simul contradictionem esse, 
+             ni<lb ed="#J" n="2" break="no"/>hil erit quod non est. nihil enim 
+             pro<lb ed="#J" n="3" break="no"/>hibet non simpiricitur esse, sed non ens 
+             <lb ed="#J" n="4"/>aliquid esse quod non est. Dice, 
+             <lb ed="#J" n="5"/>re quoque, nisi praeter ipsum, quid 
+             <lb ed="#J" n="6"/>est, aliquid erit aliud, vnum omnia 
+             <lb ed="#J" n="7"/>fore, inconuemens est. aquis eni 
+             <lb ed="#J" n="8"/>addiscit ipsum quod est, nisi quid 
+             <lb ed="#J" n="9"/>verem est aliquid esset si autem hoc, 
+             <lb ed="#J" n="10"/>nihil sic prohibet multa quod est 
+             <lb ed="#J" n="11"/>esse, sicut dictum est. Quod igitu 
+             <lb ed="#J" n="12"/>sic vnum esse quod est 
+             impossi<lb ed="#J" n="13" break="no"/>bile sit manifestum est. 
+           </p>
+           
+           <!--<p>
+             <lb ed="#J" n="61"/>SVMMA TERTIA. 
+             <lb ed="#J" n="62"/>In qua fit sermo cum illis, qui circa princi¬ 
+             <lb ed="#J" n="63"/>pia proprium commiserunt errorem.
+             <lb ed="#J" n="64"/>Antiquorum de principio materiali narram 
+             <lb ed="#J" n="65"/>tur opinionet, eorumque opinionis red  
+             <lb ed="#J" n="66"/>ditur causa. Cap. 1. 
+           </p>-->
+           <p xml:id="aristdp-d1e48-d1e1116"> <!-- l1-ni-32 -->
+             <lb ed="#J" n="67"/>VT autem Physici dicunt, 
+             <lb ed="#J" n="68"/>duo modi sunt. Hi enim 
+             <lb ed="#J" n="69"/>vnum facientes quod 
+             <lb ed="#J" n="70"/>est corpus subiectum 
+             <lb ed="#J" n="71"/>aut trium aliquid, aut aliud, quid 
+             <lb ed="#J" n="72"/>est igne quidem densius, aere ve 
+             <lb ed="#J" n="73"/>ro subtilius. alia generant densi 
+             <lb ed="#J" n="74"/>tate, &amp; raritate, multa facientes:  
+             <lb ed="#J" n="75"/>haec autem sunt contraria. 
+             Vni<lb ed="#J" n="76" break="no"/>uersaliter autem excessus, &amp; de 
+             <lb ed="#J" n="77"/>fectus, sicut magnum dicit 
+             Pla<lb ed="#J" n="78" break="no"/>to, &amp; paruum: nisi quod hic quidem 
+             <lb ed="#J" n="79"/>haec facit materiam, vnum autem 
+             <lb ed="#J" n="80"/>formam. Alii uero vnum quidem 
+             <!--Averroes_Physica_JuntSecunda_04-0049.xml-->
+             <pb ed="#J" n="21-r"/>
+             <cb ed="#J" n="a"/>
+             <lb ed="#J" n="1"/>subiectum, materiam, contraria 
+             <lb ed="#J" n="2"/>autem differentias, &amp; formas. 
+             <lb ed="#J" n="3"/>Quidam autem ex vno inexisten 
+             <lb ed="#J" n="4"/>tes contrarietates segregant, quem 
+             <lb ed="#J" n="5"/>admodum Anaximander dicit. 
+             <lb ed="#J" n="6"/>Et quicunque etiam vnum, &amp; mul 
+             <lb ed="#J" n="7"/>ta dicunt esse, quae sunt, sicut Em 
+             <lb ed="#J" n="8"/>pedocles, &amp; Anaxagoras. ex 
+             com<lb ed="#J" n="9" break="no"/>mixtione nanque &amp; hi segregant 
+             <lb ed="#J" n="10"/>alia. differunt autem abinuicem, 
+             <lb ed="#J" n="11"/>eo quod ille circulationem facit ho 
+             <lb ed="#J" n="12"/>rum, hic autem semel: &amp; hic 
+             qui<lb ed="#J" n="13" break="no"/>dem infinita, &amp; similes partes 
+             <lb ed="#J" n="14"/>habentia, &amp; contraria, ille vero 
+             <lb ed="#J" n="15"/>vocata elementa solum. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e1189"> <!-- l1-ni-33 -->
+             <lb ed="#J" n="80"/>Videtur autem Anaxagoras sic 
+             in<lb ed="#J" n="81" break="no"/>finita opinari, quoniam putabat com 
+             <lb ed="#J" n="82"/>munem opinionem Physicorum esse 
+             <lb ed="#J" n="83"/>veram, quod nihil fit ex eo, quid non  
+             <lb ed="#J" n="84"/>est. prper hoc enim sic dicunt, erant si 
+             <lb ed="#J" n="85"/>mul omnia, &amp; fieri huiusmodi statuerunt 
+             <lb ed="#J" n="86"/>alterari, Alii autem 
+             congregatio<lb ed="#J" n="87" break="no"/>nem, &amp; segregationem.
+           </p>
+           <p xml:id="aristdp-d1e48-d1e1223"> <!-- l1-ni-34 -->
+             <lb ed="#J" n="33"/>Amplius autem ex eo quod fiunt ex 
+             <lb ed="#J" n="34"/>alterutris contraria. inerant 
+             ergo<lb ed="#J" n="35" break="no"/>Si enim omne, quod fit, necesse est 
+             <lb ed="#J" n="36"/>fieri aut ex ijs, quae sunt, aut ex 
+             <lb ed="#J" n="37"/>is, quae non sunt, horum autem id,  
+             <lb ed="#J" n="38"/>quod est, ex ijs, quae non sunt, 
+             fie<lb ed="#J" n="39" break="no"/>ri impossibile est: Ide hac enim conue 
+             <lb ed="#J" n="40"/>niunt opinione omnes, qui de Natu 
+             <!--Averroes_Physica_JuntSecunda_04-0051.xml-->
+             <cb ed="#J" n="b"/>
+             <lb ed="#J" n="41"/>ra:? reliquum iam contingere ex nel 
+             <lb ed="#J" n="42"/>cessitate putauerunt ex ijs quidem, 
+             <lb ed="#J" n="43"/>quae sunt, &amp; insunt, fieri, sed pro 
+             <lb ed="#J" n="44"/>pter paruitatem magnitudinum ex 
+             <lb ed="#J" n="45"/>insensibilibus nobis, vnde dicunt 
+             <lb ed="#J" n="46"/>omne in omni misceri, propterea quod  
+             <lb ed="#J" n="47"/>omnesex omni videbant fieri: appa 
+             <lb ed="#J" n="48"/>rere autem differentia, &amp; appellari 
+             <lb ed="#J" n="49"/>altera ab inuicem, ex eo quod 
+             ma<lb ed="#J" n="50" break="no"/>xime superabundat propter mul 
+             <lb ed="#J" n="51"/>titudinem in mistura 
+             infinito<lb ed="#J" n="52" break="no"/>rum. syncere enim totum album, 
+             <lb ed="#J" n="53"/>aut nigrum, aut duice, aut 
+             car<lb ed="#J" n="54" break="no"/>nem, aut os non esse, sed, cuius 
+             <lb ed="#J" n="55"/>plurimum vnumquodque habet, 
+             <lb ed="#J" n="56"/>hoc videri esse naturam rei.¬ 
+           </p>
+           
+            
+           <!--<p>
+             <lb ed="#J" n="70"/>Nationes afferuntur contra asserentes prin 
+             <lb ed="#J" n="71"/>cipia esse infinita. Cap. 1.
+           </p>-->
+           <p xml:id="aristdp-d1e48-d1e128Y"> <!-- l1-ni-35 -->
+             <lb ed="#J" n="72"/>Igitur infinitum, secundum quod 
+             in<lb ed="#J" n="73" break="no"/>finitum, ignotum est, secundum mul 
+             <lb ed="#J" n="74"/><!-- line coord error -->
+             <lb ed="#J" n="75"/> Atitudinem quidem, aut 
+             magni<lb ed="#J" n="76" break="no"/>tudinem infinitum ignotum 
+             quan<lb ed="#J" n="77" break="no"/>tum quoddam est: secundum formam 
+             <lb ed="#J" n="78"/>quoque infinitum ignotum quale 
+             <lb ed="#J" n="79"/>quoddam est. principiis autem 
+             exi<lb ed="#J" n="80" break="no"/>stentibus infinitis secundum 
+             multitu<lb ed="#J" n="81" break="no"/>dinem, &amp; secundum speciem, impossibile 
+             <lb ed="#J" n="82"/>est ea, quae sunt ex his, 
+             cognosce<lb ed="#J" n="83" break="no"/>re: sic enim cognoscere composi 
+             <lb ed="#J" n="84"/>tum arbitramur, cum cognosci 
+             <lb ed="#J" n="85"/>mus ex quibus, &amp; quot sit.
+           </p>
+           <p xml:id="aristdp-d1e48-d1e1288"> <!-- l1-ni-36 -->
+             <!--Averroes_Physica_JuntSecunda_04-0054.xml-->
+             <cb ed="#J" n="b"/>
+             <lb ed="#J" n="45"/>Amplius autem, si necesse est 
+             <lb ed="#J" n="46"/>cuius partem contingit 
+             quantu<lb ed="#J" n="47" break="no"/>lancunque esse secundum magnitudinem, &amp;  
+             <lb ed="#J" n="48"/>paruitatem, et ipsum contingere. 
+             <lb ed="#J" n="49"/>Idico autem talium aliquam partium, 
+             <lb ed="#J" n="50"/>in quam, cum insint, diuiditur to 
+             <lb ed="#J" n="51"/>tum. vsi autem impossibile est 
+             ani<lb ed="#J" n="52" break="no"/>mal, aut plantam quantancunque 
+             <lb ed="#J" n="53"/>esse secundum magnitudinem, &amp; 
+             par<lb ed="#J" n="54" break="no"/>uitatem, manifestum est quod neque 
+             <lb ed="#J" n="55"/>partium quamlibet. erit enim &amp; 
+             to<lb ed="#J" n="56" break="no"/>tum similiter. caro autem, &amp;  
+             <lb ed="#J" n="57"/>os, &amp; huiusmodi partes sunt 
+             anima<lb ed="#J" n="58" break="no"/>lis, &amp; fructus plantarum. mani 
+             <lb ed="#J" n="59"/>festum est igitur quod impossibile 
+             <lb ed="#J" n="60"/>est carnem, aut os, aut aliquid 
+             <lb ed="#J" n="61"/>aliud quantuncunque esse 
+             magni<lb ed="#J" n="62" break="no"/>tudine, aut in maius, aut in minus 
+           </p>
+           
+           
+           <p xml:id="aristdp-d1e48-d1e133B"> <!-- l1-ni-37 -->
+             <lb ed="#J" n="79"/>Amplius, si omnia insunt quod 
+             <lb ed="#J" n="80"/>dem huiusmodi in inuicem, et non fiunt, 
+             <lb ed="#J" n="81"/>sed segregantur cum insint, 
+             di<lb ed="#J" n="82" break="no"/>cuntur autem a pluri: fit autem ex quo 
+             <lb ed="#J" n="83"/>libet quodlibet, vt ex carne aqua, 
+             <lb ed="#J" n="84"/>segregata, &amp; caro ex aqua: 
+             om<lb ed="#J" n="85" break="no"/>ne autem corpus finitum consumi 
+             <lb ed="#J" n="86"/>tur a corpore finito: manifestum 
+             <lb ed="#J" n="87"/>est quod non contingit in vnoquoque 
+             <!--Averroes_Physica_JuntSecunda_04-0056.xml-->
+             <pb ed="#J" n="24-v"/>
+             <cb ed="#J" n="a"/>
+             <lb ed="#J" n="1"/>vnumquodque esse. remota enim ex 
+             <lb ed="#J" n="2"/>aqua carne, et iterum alia facta ex 
+             <lb ed="#J" n="3"/>reliqua, segregatione, quamuis 
+             <lb ed="#J" n="4"/>semper minor erit segregata, at 
+             <lb ed="#J" n="5"/>tamen non excedit magnitudi 
+             <lb ed="#J" n="6"/>nem aliquam paruitate. Quare, si 
+             <lb ed="#J" n="7"/>quidem stabit segregatio, non omne 
+             <lb ed="#J" n="8"/>in omni inerit. in reliqua enim aqua 
+             <lb ed="#J" n="9"/>non inerit caro. Si vero 
+             nonsta<lb ed="#J" n="10" break="no"/>bit, sed habebit semper 
+             remotio<lb ed="#J" n="11" break="no"/>nem, in finit a magnitudine, aequa 
+             <lb ed="#J" n="12"/>lia finita inerunt, infinita secundum 
+             mul<lb ed="#J" n="13" break="no"/>titudinem. hoc autem impossibile est. 
+           </p>
+           
+           <p xml:id="aristdp-d1e48-d1e1335"> <!-- l1-ni-38 -->
+             <!--Averroes_Physica_JuntSecunda_04-0057.xml-->
+             <cb ed="#J" n="b"/>
+             <lb ed="#J" n="45"/>Ad haec autem, si omne 
+             qui<lb ed="#J" n="46" break="no"/>dem corpus, remoto quodam 
+             <lb ed="#J" n="47"/>minus necesse est fieri: carnis 
+             au<lb ed="#J" n="48" break="no"/>tem determinata est quantitas 
+             <lb ed="#J" n="49"/>&amp; magnitudine, &amp; paruitate: 
+             <lb ed="#J" n="50"/>manifestum est quod ex minima 
+             car<lb ed="#J" n="51" break="no"/>ne nullum segregabitur corpus 
+             <lb ed="#J" n="52"/>erit enim minor minima. Amplius 
+             <lb ed="#J" n="53"/>autem infinitis corporibus inesset 
+             <lb ed="#J" n="54"/>vtique iam caro infinita, &amp; 
+             san<lb ed="#J" n="55" break="no"/>guis, &amp; cerebrum, separata tamen 
+             ab<lb ed="#J" n="56" break="no"/>inuicem, nihil autem minus en 
+             <lb ed="#J" n="57"/>tia, &amp; infinitum vnumquodque. 
+             <lb ed="#J" n="58"/>hoc autem irrationabile est. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e1371"> <!-- l1-ni-39 -->
+             <lb ed="#J" n="35"/>Nunquam autem segregatum 
+             <lb ed="#J" n="36"/>iri non scienter quidem dicitur, 
+             <lb ed="#J" n="37"/>recte autem dicitur: passiones. enim 
+             <lb ed="#J" n="38"/>inseparabiles sunt. Si igitur 
+             mix<lb ed="#J" n="39" break="no"/>ti sunt colores, &amp; habitus, si se 
+             <lb ed="#J" n="40"/>gregentur, erit aliquid album, 
+             <lb ed="#J" n="41"/>vel sanum, non alterum aliquid 
+             <lb ed="#J" n="42"/>existens, neque de subiecto. 
+             Qua<lb ed="#J" n="43" break="no"/>re inconueiens est, impossibi¬ 
+             <!--Averroes_Physica_JuntSecunda_04-0058.xml-->
+             <cb ed="#J" n="b"/>
+             <lb ed="#J" n="44"/>lia quaerens intellectus, si velit 
+             <lb ed="#J" n="45"/>quidem segregare, hoc autem 
+             face<lb ed="#J" n="46" break="no"/>re sit impossibile, &amp; secundum 
+             <lb ed="#J" n="47"/>quantum, &amp; secundum quale. secundum 
+             <lb ed="#J" n="48"/>quantum quidem, quia non est 
+             <lb ed="#J" n="49"/>minima magnitudo: secundum 
+             <lb ed="#J" n="50"/>quale autem, quia inseparabiles 
+             <lb ed="#J" n="51"/>sunt passiones. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e1416"> <!-- l1-ni-40 -->
+             <lb ed="#J" n="66"/>Non recte autem neque genera 
+             <lb ed="#J" n="67"/>tionem accipit eorum, quae sunt 
+             <lb ed="#J" n="68"/>similium partium. est enim, vt 
+             <lb ed="#J" n="69"/>utum iluta diuiditur: est autem 
+             <lb ed="#J" n="70"/>vt non. &amp; non idem modus est, 
+             <lb ed="#J" n="71"/>vt lateres ex domo, &amp; domus ex 
+             <lb ed="#J" n="72"/>lateribus. sic autem aqua, &amp; 
+             aer<lb ed="#J" n="73" break="no"/>ex alterutris &amp; sunt, &amp; fiunt. 
+           </p>
+           
+           <p xml:id="aristdp-d1e48-d1e144Q"> <!-- l1-ni-41 -->
+             <lb ed="#J" n="37"/>Elius autem est 
+             pau<lb ed="#J" n="38" break="no"/>ciora, &amp; finita recipe 
+             <lb ed="#J" n="39"/>re, quod quidem 
+             fa<lb ed="#J" n="40" break="no"/>cit Empedocles. Om 
+             <lb ed="#J" n="41"/>nes igitur contraria, principia 
+             fa<lb ed="#J" n="42" break="no"/>ciunt, &amp; qui dicunt quod sit vnum 
+             <!--Averroes_Physica_JuntSecunda_04-0060.xml-->
+             <cb ed="#J" n="b"/>
+             <lb ed="#J" n="43"/>omne, &amp; immobile setenim Parme 
+             <lb ed="#J" n="44"/>nides calidum, &amp; frigidum princi 
+             <lb ed="#J" n="45"/>pia facit: haec autem appellat ignem, 
+             <lb ed="#J" n="46"/>&amp; terram, &amp; qui rarum, &amp; desum, 
+             <lb ed="#J" n="47"/>&amp; Democritus solidum, &amp; inane, 
+             <lb ed="#J" n="48"/>quorum aliud quidem, vt quod est 
+             <lb ed="#J" n="49"/>aliud autem, vt quod non est, esse 
+             di<lb ed="#J" n="50" break="no"/>cit. Adhuc positione, figura, &amp;  
+             <lb ed="#J" n="51"/>ordine, haec autem genera 
+             contra<lb ed="#J" n="52" break="no"/>riorum sunt: positionis sursum &amp;  
+             <lb ed="#J" n="53"/>deorsum, au &amp; retro: figurae 
+             an<lb ed="#J" n="54" break="no"/>gulare, inagulatur, rectum, rotudum, 
+           </p>
+           
+           <p xml:id="aristdp-d1e48-d1e1443"> <!-- l1-ni-42 -->
+             <lb ed="#J" n="84"/>Quod igitur contraria 
+             quo<lb ed="#J" n="85" break="no"/>dammodo omnes faciunt 
+             prin<lb ed="#J" n="86" break="no"/>cipia manifestum est. Et hoc rati 
+             <lb ed="#J" n="87"/>nabilter. Oportet enim pricipia neque 
+             <!--Averroes_Physica_JuntSecunda_04-0062.xml-->
+             <pb ed="#J" n="27-v"/>
+             <cb ed="#J" n="a"/>
+             <lb ed="#J" n="1"/>ex alterutris esse, neque ex aliis, &amp;  
+             <lb ed="#J" n="2"/>ex his omnia. contrarijs autem pri 
+             <lb ed="#J" n="3"/>mis insunt haec. ob id quidem 
+             <lb ed="#J" n="4"/>quod prima sunt non sunt ex aliis: 
+             <lb ed="#J" n="5"/>ob id verom quod sunt contraria, non 
+             <lb ed="#J" n="6"/>sunt ex alterutris. 
+           </p>
+           
+           <p xml:id="aristdp-d1e48-d1e1468"> <!-- l1-ni-43 -->
+             <lb ed="#J" n="65"/>Sed oportet hoc &amp; in ratione 
+             <lb ed="#J" n="66"/>consyderare qualiter contingat. 
+             <lb ed="#J" n="67"/>Accipiendum igitur est primum quod  
+             <lb ed="#J" n="68"/>omnium, quae st, nihil nequefacere natum 
+             <lb ed="#J" n="69"/>est, neque pati contingens a 
+             con<lb ed="#J" n="70" break="no"/>tingenti. neque fit quidlibet ex quo 
+             <lb ed="#J" n="71"/>libet, nisi quis accipiat secundum 
+             acci<lb ed="#J" n="72" break="no"/>dens. qualiter enim fiet album 
+             <lb ed="#J" n="73"/>ex musico, nisi accidens sit albo, 
+             <lb ed="#J" n="74"/>aut nigro musscum e sed album 
+             <lb ed="#J" n="75"/>quidem fit ex non albo: &amp; hoc 
+             <lb ed="#J" n="76"/>non ex omni, sed ex nigro, aut me 
+             <lb ed="#J" n="77"/>diis. &amp; musicum ex non musico, 
+             <lb ed="#J" n="78"/>sed non ex omni, sed ex immusi 
+             <lb ed="#J" n="79"/>co, aut si aliquid ipsis medium. 
+           </p>
+           
+           <p xml:id="aristdp-d1e48-d1e1516"> <!-- l1-ni-44 -->
+             <!--Averroes_Physica_JuntSecunda_04-0064.xml-->
+             <pb ed="#J" n="28-v"/>
+             <cb ed="#J" n="a"/>
+             <lb ed="#J" n="1"/>Neque igitur corrumpitur in 
+             <lb ed="#J" n="2"/>contingens primum. vt album 
+             <lb ed="#J" n="3"/>non in musicum, nisi forte secundum acciuns 
+             <lb ed="#J" n="4"/>sed in non album, &amp; in non album, 
+             <lb ed="#J" n="5"/>non in contingens, sed in nigrum, 
+             <lb ed="#J" n="6"/>aut medium. similiter autem &amp; musi 
+             <lb ed="#J" n="7"/>cum in non musicum: &amp; hoc non 
+             <lb ed="#J" n="8"/>incontingens, sed in immusicum, 
+             <lb ed="#J" n="9"/>aut si ipsis aliquid medium est. 
+           </p>
+           
+           <p xml:id="aristdp-d1e48-d1e1548"> <!-- l1-ni-45 -->
+             <lb ed="#J" n="55"/>Siir autem his &amp; in aliis, quoniam &amp; 
+             <lb ed="#J" n="56"/>non simplicia eorum, quae sunt, sed  
+             <lb ed="#J" n="57"/>composita secundum eandem se habent 
+             <lb ed="#J" n="58"/>rationem: sed, propterea quod 
+             oppo<lb ed="#J" n="59" break="no"/>sitae dispositiones non denomina 
+             <lb ed="#J" n="60"/>tae sunt, latet hoc contingens. ne 
+             <lb ed="#J" n="61"/>cesse est enim omne consonans ex 
+             <lb ed="#J" n="62"/>inconsonanti fieri, &amp; inconsonans 
+             <lb ed="#J" n="63"/>ex consonanti, &amp; corrumpi con 
+             <lb ed="#J" n="64"/>sonans in consonantiam, &amp; hanc 
+             <lb ed="#J" n="65"/>non contingentem, sed in oppositam. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e1582"> <!-- l1-ni-46 -->
+             <lb ed="#J" n="32"/>Differt autem nihil in 
+             conso<lb ed="#J" n="33" break="no"/>nantia dicere, aut ordine, aut com 
+             <lb ed="#J" n="34"/>positione: manifestum enim est 
+             <lb ed="#J" n="35"/>quod eadem sit ratio. At verom &amp; do 
+             <lb ed="#J" n="36"/>mus, &amp; statua, &amp; quadlibet aliud 
+             <lb ed="#J" n="37"/>fit similiter domus enim fit ex eo, quod  
+             <lb ed="#J" n="38"/>non composita, sed diuisa sunt 
+             <lb ed="#J" n="39"/>haec sic: &amp; statua, &amp; figuratorum 
+             <lb ed="#J" n="40"/>aliquod ex infigurato: &amp; 
+             vnum<lb ed="#J" n="41" break="no"/>quodque horum secundum alia quidem 
+             <lb ed="#J" n="42"/>ordo, secundum alia vero 
+             com<lb ed="#J" n="43" break="no"/>positio quaedam est.
+           </p>
+           <p xml:id="aristdp-d1e48-d1e1620"> <!-- l1-ni-47 -->
+             <!--Averroes_Physica_JuntSecunda_04-0066.xml-->
+             <pb ed="#J" n="29-v"/>
+             <cb ed="#J" n="a"/>
+             <lb ed="#J" n="1"/>Si ergo hoc verum est, omne vti 
+             <lb ed="#J" n="2"/>que, quod fit, fiet, &amp; corrumper 
+             <lb ed="#J" n="3"/>quod corrumpitur aut ex 
+             con<lb ed="#J" n="4" break="no"/>trarijs, aut in contraria, &amp; horum 
+             <lb ed="#J" n="5"/>media: media autem ex 
+             contra<lb ed="#J" n="6" break="no"/>rijs sunt, vt colores ex albo, &amp; 
+             ni<lb ed="#J" n="7" break="no"/>gro: quare omnia vtique erunt, quae 
+             <lb ed="#J" n="8"/>natura fiunt, aut contraria, aut 
+             <lb ed="#J" n="9"/>ex contrarijs. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e1647"> <!-- l1-ni-48 -->
+             <lb ed="#J" n="36"/>Hucusque igitur ferem secuti sunt 
+             <lb ed="#J" n="37"/>&amp; aliorum plurimi, 
+             quemadmo<lb ed="#J" n="38" break="no"/>dum diximus prius. Omnes enim 
+             <lb ed="#J" n="39"/>elementa, &amp; ab ipsis vocata prin 
+             <lb ed="#J" n="40"/>cipia, quamuis sine ratione po¬ 
+             <!--Averroes_Physica_JuntSecunda_04-0066.xml-->
+             <cb ed="#J" n="b"/>
+             <lb ed="#J" n="41"/>nentes, tamen contraria dicunt, I 
+             <lb ed="#J" n="42"/>tanque ab ipsa veritate coacti. 
+             Dif<lb ed="#J" n="43" break="no"/>ferunt autem ab inuicem, ex eo 
+             <lb ed="#J" n="44"/>quod alii quidem priora, alii 
+             poste<lb ed="#J" n="45" break="no"/>riora accipiunt: &amp; quod hi quidem 
+             <lb ed="#J" n="46"/>notiora secundum rationem, illi autem 
+             <lb ed="#J" n="47"/>secundum sensum. Hi enim Calidum, 
+             <lb ed="#J" n="48"/>&amp; Erig. illi autem Hu. &amp; Siccum, 
+             <lb ed="#J" n="49"/>alii autem Impar, &amp; Par, quidam 
+             <lb ed="#J" n="50"/>autem Litem &amp; Amicitiam 
+             cau<lb ed="#J" n="51" break="no"/>sas ponunt generationis, haec 
+             au<lb ed="#J" n="52" break="no"/>tem abinuicem differunt secun 
+             <lb ed="#J" n="53"/>dum dictum modum. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e1696"> <!-- l1-ni-49 -->
+             <lb ed="#J" n="53"/>Quare est eadem dicere 
+             quo<lb ed="#J" n="54" break="no"/>dammodo, &amp; altera ab inuicem. 
+             <lb ed="#J" n="55"/>altera quidem, quemadmodum 
+             <lb ed="#J" n="56"/>&amp; videtur plurimis. eadem 
+             au<lb ed="#J" n="57" break="no"/>tem secundum analogiam. accipiunt enim 
+             <lb ed="#J" n="58"/>ex eadem coordinatione, haec 
+             <lb ed="#J" n="59"/>enim continent, alia autem 
+             continen<lb ed="#J" n="60" break="no"/>tur contrariorum. Sic igitur 
+             simi<lb ed="#J" n="61" break="no"/>liter dicunt, &amp; aliter, &amp; peius, 
+             <lb ed="#J" n="62"/>&amp; melius. Et hi quidem notiora 
+             <lb ed="#J" n="63"/>secundum rationem, sicut dictum est 
+             <lb ed="#J" n="64"/>prius, illi autem secundum sensum: vniversaliter 
+             <lb ed="#J" n="65"/>enim secundum rationem notum est. 
+             <lb ed="#J" n="66"/>singulare autem secundum sensum: ratio enim 
+             <lb ed="#J" n="67"/>vniversalis est, sensus autem particularis, 
+             <lb ed="#J" n="68"/>vt magnum, &amp; paruum secun 
+             <lb ed="#J" n="69"/>dum rationem, rarum autem 
+             <lb ed="#J" n="70"/>&amp; densum secundum sensum. 
+           </p>
+           <!--<p>
+             <lb ed="#J" n="68"/>De numero principiorum naturalium se¬ 
+             <lb ed="#J" n="69"/>cundum veritatem. Cap. 1. 
+           </p>-->
+           <p xml:id="aristdp-d1e48-d1e1750"> <!-- l1-ni-50 -->
+             <lb ed="#J" n="70"/>QVod igitur contraria 
+             opor<lb ed="#J" n="71" break="no"/>tet esse principia mani¬ 
+             <lb ed="#J" n="72"/>festum est. 
+             Conse<lb ed="#J" n="73" break="no"/>quens autem erit dicere vtrum 
+             <lb ed="#J" n="74"/>duo, aut tria, aut plura sint. Vnum 
+             <lb ed="#J" n="75"/>enim ipossibile est, quoniam non vnum 
+             <lb ed="#J" n="76"/>contraria. infinita autem non  
+             <lb ed="#J" n="77"/>quoniam neque scibile quod est erit. Et 
+             <lb ed="#J" n="78"/>vna contrarietas in omni gene, 
+             <lb ed="#J" n="79"/>re vno, substantia autem vnum 
+             <lb ed="#J" n="80"/>quoddam genus est. Et, quia com 
+             <lb ed="#J" n="81"/>tingit ex finitis: melius autem ex 
+             <lb ed="#J" n="82"/>finitis, quemadmodum 
+             Empe<lb ed="#J" n="83" break="no"/>docles, quam ex infinitis. omnia nanque 
+             <lb ed="#J" n="84"/>assignare opinatur, quemadmo¬  
+             <!--Averroes_Physica_JuntSecunda_04-0069.xml-->
+             <pb ed="#J" n="31-r"/>
+             <cb ed="#J" n="a"/>
+             <lb ed="#J" n="1"/>dum Anaxag. ex infinitis. Am. 
+             <lb ed="#J" n="2"/>plius sunt alia aliis priora contra 
+             <lb ed="#J" n="3"/>ria. et fiunt altera ex aliis, vt dul 
+             <lb ed="#J" n="4"/>ce, &amp; amarum, &amp; album, &amp; ni 
+             <lb ed="#J" n="5"/>grum. principia autem semper 
+             <lb ed="#J" n="6"/>oport et manere. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e1862"> <!-- l1-ni-51 -->
+             <lb ed="#J" n="11"/>Quod igitur neque vnum, neque 
+             <lb ed="#J" n="12"/>infinita sint manifestum est ex his. 
+             <lb ed="#J" n="13"/><pc type="indent"/>Quoniam autem finita, non facere 
+             <lb ed="#J" n="14"/>duo tandum habet quandam rationem, 
+             <lb ed="#J" n="15"/>Dubitabit enim aliquis, quali 
+             <lb ed="#J" n="16"/>densitas raritatem facere apta 
+             na<lb ed="#J" n="17" break="no"/>ta sit, aut haec densitatem, similiter autem 
+             <lb ed="#J" n="18"/>&amp; alia quaecunque contrarietas. 
+             <lb ed="#J" n="19"/>non enim amicitia litem congre 
+             <lb ed="#J" n="20"/>gat, &amp; facit aliquid ex ipsa, neque 
+             <lb ed="#J" n="21"/>lis ex illa, sed vtraque alterum 
+             quid<lb ed="#J" n="22" break="no"/>dam terrium: Quidam autem &amp;  
+             <lb ed="#J" n="23"/>plura recipiunt, ex quibus 
+             confi<lb ed="#J" n="24" break="no"/>ciunt eorum, quae sunt, naturam. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e1898"> <!-- l1-ni-52 -->
+             <!--Averroes_Physica_JuntSecunda_04-0071.xml-->
+             <pb ed="#J" n="32-r"/>
+             <cb ed="#J" n="a"/>
+             <lb ed="#J" n="1"/>Ad haec autem adhuc &amp; hoc 
+             ali<lb ed="#J" n="2" break="no"/>quis dubitauerit, nisi quis aliam 
+             <lb ed="#J" n="3"/>supposuerit contrarijs naturam 
+             <lb ed="#J" n="4"/>Iullius enim videmus eorum, 
+             <lb ed="#J" n="5"/>quae sunt, substantiam, contraria, 
+             <lb ed="#J" n="6"/>principium autem non de subiecto 
+             <lb ed="#J" n="7"/>oportet dici aliquo: erit enim 
+             <lb ed="#J" n="8"/>principium principii. subiectum 
+             <lb ed="#J" n="9"/>enim principium, &amp; prius videt 
+             <lb ed="#J" n="10"/>esse praedicato. Amplius non esse 
+             <lb ed="#J" n="11"/>dicimus substantiam contrariam 
+             <lb ed="#J" n="12"/>substantiae. Quomodo igitur ex 
+             <lb ed="#J" n="13"/>non substantijs substantia vtique 
+             <lb ed="#J" n="14"/>erit caut quomodo prius non sub 
+             <lb ed="#J" n="15"/>stantia quae substantia erit¬ 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e1934"> <!-- l1-ni-53 -->
+             <lb ed="#J" n="80"/>Quocirca, si quis &amp; priorem 
+             <lb ed="#J" n="81"/>veram putabit esse rationem, &amp;  
+             <lb ed="#J" n="82"/>hanc, necessarium est, si debet 
+             sal<lb ed="#J" n="83" break="no"/>uare vtrasque rationes, subiscere 
+             <!--Averroes_Physica_JuntSecunda_04-0072.xml-->
+             <pb ed="#J" n="32-v"/>
+             <cb ed="#J" n="a"/>
+             <lb ed="#J" n="1"/>quoddam tertium, quemadmodum 
+             <lb ed="#J" n="2"/>dicunt vnam quandam naturam 
+             <lb ed="#J" n="3"/>dicentes esse vniuersum, vt aquam, 
+             <lb ed="#J" n="4"/>dut ignem, aut medium horum. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e1953"> <!-- l1-ni-54 -->
+             <lb ed="#J" n="33"/>Videtur autem medium magis. 
+             <lb ed="#J" n="34"/>ignis eni &amp; terra, &amp; aer, &amp; aqua, 
+             <lb ed="#J" n="35"/>contrarietatibus complexa sunt. 
+             <lb ed="#J" n="36"/>Ideo non irrationabiliter faciunt, 
+             <lb ed="#J" n="37"/>subiectum alterum ab his facientes. 
+             <lb ed="#J" n="38"/>aliorum autem quidam aerem: 
+             aer<lb ed="#J" n="39" break="no"/>enim minime aliorum habet 
+             dif<lb ed="#J" n="40" break="no"/>ferentias sensibiles. consequens 
+             <lb ed="#J" n="41"/>autem est aqua. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e1980"> <!-- l1-ni-55 -->
+             <lb ed="#J" n="7"/>Sed omnes vnum hoc contrarijs 
+             <lb ed="#J" n="8"/>figurant, vt densitate, &amp; rarita. 
+             <lb ed="#J" n="9"/>te, &amp; eo, quod magis, &amp; minus, 
+             <lb ed="#J" n="10"/>haec autem omnino sunt supabum 
+             <lb ed="#J" n="11"/>dantia, videlicet, &amp; defectus, 
+             si<lb ed="#J" n="12" break="no"/>cut dictum est prius. Et videtuer 
+             anti<lb ed="#J" n="13" break="no"/>qua esse etiam haec opinio, quod Vnum, 
+             <lb ed="#J" n="14"/>&amp; Superabundantia, &amp; defects 
+             <lb ed="#J" n="15"/>principia entium sint. verum non 
+             <lb ed="#J" n="16"/>eodem modo. sed Antiqui duo 
+             <lb ed="#J" n="17"/>quidem agere, vnum autem pa 
+             <lb ed="#J" n="18"/>ti, posteriorum autem quidam est 
+             <lb ed="#J" n="19"/>contrario vnum quidem agere 
+             <lb ed="#J" n="20"/>duo autem pati dicunt magis. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e2015"> <!-- l1-ni-56 -->
+             <lb ed="#J" n="66"/>Tria igitur dicere elementa esse, 
+             <lb ed="#J" n="67"/>&amp; exhis, &amp; ex huiusmodi aliis 
+             <lb ed="#J" n="68"/>consyderantibus videbitur vti 
+             <lb ed="#J" n="69"/>que habere quanda. enim rationem, 
+             <lb ed="#J" n="70"/>sicut praediximus. plura autem 
+             <lb ed="#J" n="71"/>tribus non amplius. ad 
+             patien<lb ed="#J" n="72" break="no"/>dum enim sufficiens est vnum. Si 
+             <lb ed="#J" n="73"/>autem quatuor existentibus duae 
+             <lb ed="#J" n="74"/>erunt contrarietates, oportebit 
+             <lb ed="#J" n="75"/>seorsum ab vtraque esse alteram 
+             <lb ed="#J" n="76"/>quandam naturam mediam. Si autem 
+             <lb ed="#J" n="77"/>ex seinuicem possint generare 
+             <lb ed="#J" n="78"/>ociosa vtique altera contrarietatum 
+             <lb ed="#J" n="79"/>erit. simul autem &amp; impossibile 
+             <lb ed="#J" n="80"/>est plures esse contrarietates pri 
+             <lb ed="#J" n="81"/>mas. substantia enim vnum quoddam 
+             <lb ed="#J" n="82"/>genus est entis, quare eo quod prius 
+             <!--Averroes_Physica_JuntSecunda_04-0074.xml-->
+             <pb ed="#J" n="33-v"/>
+             <cb ed="#J" n="a"/>
+             <lb ed="#J" n="1"/>&amp; posterius different solum 
+             ab<lb ed="#J" n="2" break="no"/>inuicem principia, sed non gnere. 
+             <lb ed="#J" n="3"/>semper enim in vno genere contrarietas 
+             <lb ed="#J" n="4"/>vna est. omnes autem contrarietates 
+             <lb ed="#J" n="5"/>reduci videntur ad vnam. 
+           </p>
+           <!--<p>
+             <lb ed="#J" n="55"/>Duo duntaxat esse principia probatur. Ma 
+             <lb ed="#J" n="56"/>teriam scilicet &amp; formam, Priuationem 
+             <lb ed="#J" n="57"/>autem principium esse per ac 
+             <lb ed="#J" n="58"/>cidens. Cap. 1. 
+           </p>-->
+           <p xml:id="aristdp-d1e48-d1e2062"> <!-- l1-ni-57 -->
+             <lb ed="#J" n="59"/>Vod igitur neque vnum sit 
+             <lb ed="#J" n="60"/>elementum, neque plura 
+             <lb ed="#J" n="61"/> duobus, vel tribus, 
+             <lb ed="#J" n="62"/>manifestum est. Horum autem vtrum 
+             <lb ed="#J" n="63"/>quemadmodum diximus dubi 
+             <lb ed="#J" n="64"/>tationem habet multam. Sic igi 
+             <lb ed="#J" n="65"/>tur nos dicamus primum de omni 
+             <lb ed="#J" n="66"/>generatione aggredientes. est enim 
+             <lb ed="#J" n="67"/>secundum naturam communia 
+             <lb ed="#J" n="68"/>primum dicentes, sic circa vnum 
+             <lb ed="#J" n="69"/>quodque propria speculari. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e2094"> <!-- l1-ni-58 -->
+             <lb ed="#J" n="56"/>Dicimus enim fieri ex alio aliud, 
+             <lb ed="#J" n="57"/>&amp; ex altero alterum, aut 
+             simpli<lb ed="#J" n="58" break="no"/>cia dicentes, aut composita. 
+             dico<lb ed="#J" n="59" break="no"/>autem hoc sic. est enim fieri 
+             homi<lb ed="#J" n="60" break="no"/>nem musicum, est autem &amp; non  
+             <lb ed="#J" n="61"/>musicum quippiam fieri 
+             musi<lb ed="#J" n="62" break="no"/>cum, aut non musicum hominem, 
+             <lb ed="#J" n="63"/>honem musicum. Simplex igitur, 
+             <lb ed="#J" n="64"/>dico quod factum est, homnem, &amp;  
+             <lb ed="#J" n="65"/>non musicum, &amp; quod fit 
+             sim<lb ed="#J" n="66" break="no"/>plex, musicum: compositum autem 
+             <lb ed="#J" n="67"/>&amp; quod fit, &amp; quod factum est, 
+             <lb ed="#J" n="68"/>cum non musicum hominem dicimus 
+             <lb ed="#J" n="69"/>fieri musicum honem. Horum 
+             <lb ed="#J" n="70"/>autem hoc quidem non solum dicitur, 
+             <lb ed="#J" n="71"/>hoc aliquid fieri, sed etiam ex hoc, 
+             <lb ed="#J" n="72"/>vt ex non musico musicus. hoc 
+             <lb ed="#J" n="73"/>autem non dicitur in omnibus. non 
+             <lb ed="#J" n="74"/>enim ex hoine factus est musicus 
+             <lb ed="#J" n="75"/>sed homo factus est musicus. 
+           </p>
+           
+           <p xml:id="aristdp-d1e48-d1e2154"> <!-- l1-ni-59 -->
+             <lb ed="#J" n="7"/>Eorum autem, quae vt simpli 
+             <lb ed="#J" n="8"/>cia dicimus sieri, aliud quidem 
+             <lb ed="#J" n="9"/>permanens sit, aliud vero non  
+             <lb ed="#J" n="10"/>permanens. homo enim permanet 
+             <lb ed="#J" n="11"/>factus musicus homo, non musi 
+             <lb ed="#J" n="12"/>cum autem, &amp; immusicum, neque sim 
+             <lb ed="#J" n="13"/>plex, neque compositum permanet. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e2173"> <!-- l1-ni-60 -->
+             <lb ed="#J" n="35"/>Determinatis autem his, ex om 
+             <lb ed="#J" n="36"/>nibus, quae fiunt, hoc est accipe. 
+             <lb ed="#J" n="37"/>re, si aliquis inspexerit, sicut 
+             di<lb ed="#J" n="38" break="no"/>cimus, quod oportet semper aliquid 
+             <lb ed="#J" n="39"/>subilci, quod fit. &amp; hoc, etsi 
+             nu<lb ed="#J" n="40" break="no"/>mero est vnum, at forma quidem 
+             <lb ed="#J" n="41"/>non vnum. forma enim dico, &amp; ratio 
+             <!--Averroes_Physica_JuntSecunda_04-0078.xml-->
+             <cb ed="#J" n="b"/>
+             <lb ed="#J" n="42"/>ne idem. non enim idem est 
+             homi<lb ed="#J" n="43" break="no"/>ni, &amp; immusico esse: &amp; illud qui 
+             <lb ed="#J" n="44"/>dem permanet, hoc vero non per 
+             <lb ed="#J" n="45"/>manet, etenim non oppositum 
+             <lb ed="#J" n="46"/>permanet. homo enim pormanet, 
+             musi<lb ed="#J" n="47" break="no"/>cum autem, &amp; immusicum non 
+             per<lb ed="#J" n="48" break="no"/>manet: neque ex ambobus 
+             com<lb ed="#J" n="49" break="no"/>positum, vt immusicus homo. 
+           </p>
+           
+           <p xml:id="aristdp-d1e48-d1e2213"> <!-- l1-ni-61 -->
+             <lb ed="#J" n="39"/>Sed ex aliquo fieri aliquid, &amp; 
+             <lb ed="#J" n="40"/>non hoc fieri, magis quidem dicitu 
+             <lb ed="#J" n="41"/>in non permanentibus. vt ex 
+             im<lb ed="#J" n="42" break="no"/>musico musicum fieri, ex 
+             homi<lb ed="#J" n="43" break="no"/>ne autem non At verom &amp; in perma 
+             <!--Averroes_Physica_JuntSecunda_04-0080.xml-->
+             <cb ed="#J" n="b"/>
+             <lb ed="#J" n="44"/>nentibus aliquaid dicitur similiter ex aere enim i 
+             <lb ed="#J" n="45"/>statuam dicimus fieri, non aes sta 
+             <lb ed="#J" n="46"/>tuam. Hoc tamen ex opposito, &amp; non 
+             <lb ed="#J" n="47"/>permanent vtroque modo dicitur, &amp;  
+             <lb ed="#J" n="48"/>ex hoc, hoc, &amp; hoc, hoc. nanque ex 
+             <lb ed="#J" n="49"/>immusico, &amp; immusicus fit mu 
+             <lb ed="#J" n="50"/>sicus. quocirca &amp; in composito 
+             <lb ed="#J" n="51"/>similiter etenim ex immusico 
+             homi<lb ed="#J" n="52" break="no"/>ne, &amp; immusicus homo fieri 
+             di<lb ed="#J" n="53" break="no"/>citur musicus. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e2257"> <!-- l1-ni-62 -->
+             <lb ed="#J" n="20"/>Multipliciter autem cum dicatur 
+             fie<lb ed="#J" n="21" break="no"/>ri, &amp; horum quidem non 
+             simpli<lb ed="#J" n="22" break="no"/>citer fieri, sed hoc aliquid fieri 
+             <lb ed="#J" n="23"/>simpiscitur autem fieri, substantiarum 
+             so<lb ed="#J" n="24" break="no"/>lum, manifestum est quod secundum alia 
+             qui<lb ed="#J" n="25" break="no"/>dem necesse est subilci aliquid, quid 
+             <lb ed="#J" n="26"/>fit. etenim quantum, &amp; quale, &amp;  
+             <lb ed="#J" n="27"/>ad alterum, &amp; quando, &amp; vbi fiunt sub 
+             <lb ed="#J" n="28"/>iecto aliquo, propterea quod sola sub 
+             <lb ed="#J" n="29"/>stantia de nullo alio dicitur subiecto 
+             <lb ed="#J" n="30"/>sed alia omnia de substantia. Quod  
+             <lb ed="#J" n="31"/>autem substantia, &amp; quacunque alia 
+             <lb ed="#J" n="32"/>simperitur entia ex subiecto quodam 
+             <lb ed="#J" n="33"/>fiant, consyderanti fiet vtique 
+             <lb ed="#J" n="34"/>manisestum. semper enim est aliquid 
+             <lb ed="#J" n="35"/>quod subilcitur, ex quo fit quod 
+             <lb ed="#J" n="36"/>sit, vt plantae, &amp; animalia ex semine. 
+           </p>
+           
+           <!--<p>
+             <!-\- this para is unclear; doesn't have parallel in italic version -\->
+             <lb ed="#J" n="2"/>Et apparet per consyderationem, &amp;c. i. &amp;  
+             <lb ed="#J" n="3"/>ex natura generationis apparet illi, 
+             <lb ed="#J" n="4"/>qui consyderauerit, quod substantiae, &amp; 
+             <lb ed="#J" n="5"/>omnia generabilia indigent in 
+             generatio<lb ed="#J" n="6" break="no"/>ne in eo, quod est generatio, aliquo 
+             sub<lb ed="#J" n="7" break="no"/>lecto: omnia enim habent aliquid subiectum, 
+             <lb ed="#J" n="8"/>ex quo generantur. v. g. in substantia, 
+             <lb ed="#J" n="9"/>&amp; est sperma animalium, &amp; semen 
+             vege<lb ed="#J" n="10" break="no"/>tabilium. Et dixit hoc, quia perfecte 
+             <lb ed="#J" n="11"/>apparet, quod in spermate est aliquid, 
+             <lb ed="#J" n="12"/>cuius proportio ad animal generatum 
+             <lb ed="#J" n="13"/>ex ipso est sicut proportio 
+             substan<lb ed="#J" n="14" break="no"/>tia: demonstratae ad album, &amp; nigrum 
+             <lb ed="#J" n="15"/>&amp; vniversaliter ad pdicamenta accidentis, 
+             quem<lb ed="#J" n="16" break="no"/>admodum enim generatio albi, secundum quod 
+             <lb ed="#J" n="17"/>est motus, indiget principio 
+             opposi<lb ed="#J" n="18" break="no"/>to ei, quod generat, ex quo fit 
+             mo<lb ed="#J" n="19" break="no"/>tus, &amp; tertio, subiecto motui, 
+             simili<lb ed="#J" n="20" break="no"/>ter est in aliis generationibus. &amp; 
+             si<lb ed="#J" n="21" break="no"/>cut partes oppositi successiuem rece 
+             <lb ed="#J" n="22"/>dunt a subiecto, &amp; fiunt in ipso par.¬ 
+             <lb ed="#J" n="23"/>es generati, similiter est &amp; in substantia 
+             <lb ed="#J" n="24"/>a in spermate enim apud venerationem, 
+             <lb ed="#J" n="25"/>hominis non cessant partes spermatis re 
+             <lb ed="#J" n="26"/>cedere, &amp; partes fieri homins, donec 
+             for<lb ed="#J" n="27" break="no"/>ma humana perficiatur: &amp; hoc, ssi 
+             for<lb ed="#J" n="28" break="no"/>ma recipit partitionem: si autem non  
+             <lb ed="#J" n="29"/>istud necessario accidit in accidenti 
+             <lb ed="#J" n="30"/>pus propriis formae generatae, vnde 
+             <lb ed="#J" n="31"/>necessario generatio sequitur altera 
+             <lb ed="#J" n="32"/>tionem. Et, quia subiectum esse 
+             ne<lb ed="#J" n="33" break="no"/>cessarium in substantia apparet etiam 
+             in<lb ed="#J" n="34" break="no"/>ductione, incoepit notificare hoc, &amp; d. 
+           </p>-->
+           <p xml:id="aristdp-d1e48-d1e2317"> <!-- l1-ni-63 -->
+             <lb ed="#J" n="35"/>Eiunt autem quae fiunt simpeircicitur 
+             <lb ed="#J" n="36"/>alia quidem transfiguratione, vt 
+             <lb ed="#J" n="37"/>statua, ex aere: alia verom 
+             apposi<lb ed="#J" n="38" break="no"/>tione, vt quae augmentantur: alia 
+             ve<lb ed="#J" n="39" break="no"/>ro subtractione, vt ex lapide 
+             mer<lb ed="#J" n="40" break="no"/>curius: compositione autem alia, vt 
+             <lb ed="#J" n="41"/>domus: alia vero alteratione, vt 
+             <lb ed="#J" n="42"/>qua vertuntur secundum materiam. omnia autem, 
+             <lb ed="#J" n="43"/>qua sic fiunt, manifestum est quod ex 
+             <lb ed="#J" n="44"/>subiectis fiunt. 
+           </p>
+           
+           <p xml:id="aristdp-d1e48-d1e2351"> <!-- l1-ni-64 -->
+             <!--Averroes_Physica_JuntSecunda_04-0084.xml-->
+             <pb ed="#J" n="38-v"/>
+             <cb ed="#J" n="a"/>
+             <lb ed="#J" n="1"/>Quare manifestum est ex 
+             di<lb ed="#J" n="2" break="no"/>ctis quod omne, quod fit, semper 
+             composi<lb ed="#J" n="3" break="no"/>tum est. et est quidem aliquid, quid fit, 
+             <lb ed="#J" n="4"/>est autem aliquid, quid hoc fit: &amp;  
+             <lb ed="#J" n="5"/>hoc duplex: aut enim subiectum, aut 
+             <lb ed="#J" n="6"/>oppositum. Dicitur autem 
+             oppo<lb ed="#J" n="7" break="no"/>ni immusicum, hominem autem 
+             <lb ed="#J" n="8"/>subilci: &amp; infigurationem 
+             qui<lb ed="#J" n="9" break="no"/>dem, &amp; informitatem, vel 
+             inor<lb ed="#J" n="10" break="no"/>dinationem oppositum, aes 
+             au<lb ed="#J" n="11" break="no"/>tem, vel lapidem, vel aurum subiectum. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e2378"> <!-- l1-ni-65 -->
+             <lb ed="#J" n="67"/>Manifestum igitur quod, si quidem 
+             <lb ed="#J" n="68"/>sunt causae, &amp; principia eorum, 
+             <lb ed="#J" n="69"/>quae natura sunt, ex quibus pri 
+             <lb ed="#J" n="70"/>mis sunt, et facta sunt, non secundum 
+             <lb ed="#J" n="71"/>accidens, sed vnumqundque, quod di 
+             <lb ed="#J" n="72"/>citur secundum substantiam, quod omne &amp;  
+             <lb ed="#J" n="73"/>ex subiecto, et forma fit. compo 
+             <lb ed="#J" n="74"/>nitur enim musicus homo ex homine, 
+             <lb ed="#J" n="75"/>&amp; musico quodam modo. 
+             dissol<lb ed="#J" n="76" break="no"/>ues enim rationes in rationes eorum. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e2418"> <!-- l1-ni-66 -->
+             <lb ed="#J" n="51"/>Manifestum igitur est quod quae 
+             <lb ed="#J" n="52"/>fiunt, fient ex his. est autem 
+             subie<lb ed="#J" n="53" break="no"/>ctum numero quidem vnum, 
+             for<lb ed="#J" n="54" break="no"/>ma verom duo: homo enim &amp; aurum, 
+             <lb ed="#J" n="55"/>&amp; omnino materia 
+             numerabi<lb ed="#J" n="56" break="no"/>lis. nam hoc aliquid magis, &amp; quod 
+             <lb ed="#J" n="57"/>fit non secundum accidens ex ipso sit. 
+             <lb ed="#J" n="58"/>priuatio autem, &amp; contrarietas 
+             ac<lb ed="#J" n="59" break="no"/>cidens, vnum autem forma, vt 
+             <lb ed="#J" n="60"/>ordo, aut musica, aut aliorum 
+             <lb ed="#J" n="61"/>aliquid sic praedicantium. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e2452"> <!-- l1-ni-67 -->
+             <!--Averroes_Physica_JuntSecunda_04-0086.xml-->
+             <cb ed="#J" n="b"/>
+             <lb ed="#J" n="45"/>Quocirca est quidem vt duo 
+             <lb ed="#J" n="46"/>dicenda sint principia, est autem 
+             <lb ed="#J" n="47"/>vt tria, &amp; est quidem vt contra 
+             <lb ed="#J" n="48"/>ria, vt si aliquis dicat musscum 
+             <lb ed="#J" n="49"/>&amp; immusicum, aut calidum &amp; 
+             <lb ed="#J" n="50"/>frigidum, aut congruens &amp; in 
+             <lb ed="#J" n="51"/>congruens, est autem vt non. a 
+             sein<lb ed="#J" n="52" break="no"/>uicem enim contraria pati 
+             impos<lb ed="#J" n="53" break="no"/>sibile. Soluitur autem &amp; hoc, pro 
+             <lb ed="#J" n="54"/>pterea quod aliud est subiectum 
+             <lb ed="#J" n="55"/>hoc enim non est contrarium. Qua 
+             <lb ed="#J" n="56"/>re neque plura contrarijs 
+             princi<lb ed="#J" n="57" break="no"/>pia quodammodo, sed duo Gvt 
+             <lb ed="#J" n="58"/>sic dicam numero. neque iterum 
+             <lb ed="#J" n="59"/>penitus duo, propterea quod 
+             alte<lb ed="#J" n="60" break="no"/>rum est esse ipsis, sed tria: 
+             alte<lb ed="#J" n="61" break="no"/>rum enim est homini, et non mu 
+             <lb ed="#J" n="62"/>sico esse, &amp; infigurato, &amp; aeri¬ 
+           </p>
+           
+           
+           <p xml:id="aristdp-d1e48-d1e250P"> <!-- l1-ni-68 -->
+             <lb ed="#J" n="48"/>Quot igitur principia sint 
+             re<lb ed="#J" n="49" break="no"/>rum naturalium, quae circa 
+             gene<lb ed="#J" n="50" break="no"/>rationem, &amp; quomodo tot dictu est. 
+             <lb ed="#J" n="51"/>Et manifestum est quod oportet subil 
+             <lb ed="#J" n="52"/>ci aliquid contrarijs, &amp; contraria 
+             <lb ed="#J" n="53"/>duo esse, squodam autem modo alio 
+             <lb ed="#J" n="54"/>non necessarium est. sufficiens enim 
+             <lb ed="#J" n="55"/>erit alterum contrariorum absentia, 
+             <lb ed="#J" n="56"/>&amp; praesentia facere mutationem, 
+           </p>
+           
+           <p xml:id="aristdp-d1e48-d1e2500"> <!-- l1-ni-69 -->
+             <lb ed="#J" n="4"/>Subiecta autem natura scibilis 
+             <lb ed="#J" n="5"/>est secundum analogiam. vt enim ad 
+             sta<lb ed="#J" n="6" break="no"/>tuam aes, aut ad lectum lignum, aut 
+             <lb ed="#J" n="7"/>ad aliud aliquid habentium 
+             for<lb ed="#J" n="8" break="no"/>mam materia, &amp; informe se 
+             ha<lb ed="#J" n="9" break="no"/>bet, priusque accipiat formam, sic 
+             <lb ed="#J" n="10"/>haec ad substantiam, &amp; hoc aliquid, 
+             <lb ed="#J" n="11"/>&amp; quod est se habet. Vnum igitu 
+             <lb ed="#J" n="12"/>principium haec, non sic vnum 
+             exi<lb ed="#J" n="13" break="no"/>stens, neque sic ens, vt hoc aliquid: 
+             <lb ed="#J" n="14"/>vnum autem Ratio: amplius 
+             au<lb ed="#J" n="15" break="no"/>tem contrarium huic Priuatio. 
+           </p>
+           
+           <p xml:id="aristdp-d1e48-d1e2538"> <!-- l1-ni-70 -->
+             <!--Averroes_Physica_JuntSecunda_04-0089.xml-->
+             <pb ed="#J" n="41-r"/>
+             <cb ed="#J" n="a"/>
+             <lb ed="#J" n="1"/> Haec autem quomodo duo, &amp; quomodo 
+             <lb ed="#J" n="2"/>plura dictum est in praecedenti 
+             <lb ed="#J" n="3"/>bus. Primum igitur dictum est 
+             <lb ed="#J" n="4"/>quod contraria solum principia sunt 
+             <lb ed="#J" n="5"/>posterius autem quod necesse est et 
+             <lb ed="#J" n="6"/>aliud quippiam subilci, &amp; esse 
+             <lb ed="#J" n="7"/>tria. Ex ijs autem, quae nunc ma 
+             <lb ed="#J" n="8"/>nifestum est quae sit dicituria contra 
+             <lb ed="#J" n="9"/>riorum, &amp; quomodo se habunt principia 
+             <lb ed="#J" n="10"/>adinuicem, &amp; quid subiectum. 
+             <lb ed="#J" n="11"/>vtrum autem substantia forma, aut 
+             <lb ed="#J" n="12"/>subiectum sit, nondum 
+             manife<lb ed="#J" n="13" break="no"/>stum est: sed quod principia tria sint, 
+             <lb ed="#J" n="14"/>&amp; quomodo tria, &amp; quis modus eorum 
+             <lb ed="#J" n="15"/>manifestum est. 
+           </p>
+           
+           <!--<p>
+             <lb ed="#J" n="13"/>Antiquorum dubitationes soluuntur per  
+             <lb ed="#J" n="14"/>ea, quae de primae materiae essentia 
+             <lb ed="#J" n="15"/>probantur. Cap. &amp;. 
+           </p>-->
+           <p xml:id="aristdp-d1e48-d1e2576"> <!-- l1-ni-71 -->
+             <lb ed="#J" n="16"/>Vot igitur, &amp; quae sint 
+             <lb ed="#J" n="17"/>Iprincipia ex his consyde¬ 
+             <lb ed="#J" n="18"/>retr. Quod autem 
+             vni<lb ed="#J" n="19" break="no"/>co modo sic soluitur &amp; 
+             Antiquo<lb ed="#J" n="20" break="no"/>rum dubitatio, dicamus post haec. 
+             <lb ed="#J" n="21"/>quaerentes enim Philosophi primi 
+             <lb ed="#J" n="22"/>veritatem, &amp; naturam entium 
+             <lb ed="#J" n="23"/>conuersi sunt veluti in viam 
+             quan<lb ed="#J" n="24" break="no"/>dam aliam, depulsi ob 
+             iexperien<lb ed="#J" n="25" break="no"/>tiam. dicuntque neque fieri eorum, 
+             <lb ed="#J" n="26"/>quae sunt vllum, neque corrumpi. 
+             <lb ed="#J" n="27"/>propterea quod necessarium est fieri 
+             <lb ed="#J" n="28"/>quod fit, aut ex eo, quod est, aut 
+             <lb ed="#J" n="29"/>ex eo, quod non est: ex his autem 
+             <lb ed="#J" n="30"/>vtrisque impossibile esse. neque enim 
+             <lb ed="#J" n="31"/>quod est fieri, esse enim iam: &amp; 
+             ex<lb ed="#J" n="32" break="no"/>eo, quod non est, nihil vtique 
+             fie<lb ed="#J" n="33" break="no"/>ri, subilci enim quippiam oportet. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e2627"> <!-- l1-ni-72 -->
+             <lb ed="#J" n="35"/>Et sic itaque quod consequenter 
+             ac<lb ed="#J" n="36" break="no"/>cidit augentes, neque esse multa di 
+             <lb ed="#J" n="37"/>cunt, sed tandum ipsum quod est. Illi er 
+             <lb ed="#J" n="38"/>go talem acceperunt opinionem, 
+             <lb ed="#J" n="39"/>propter ea, quae dicta sunt. 
+           </p>
+           
+           <p xml:id="aristdp-d1e48-d1e2646"> <!-- l1-ni-73 -->
+             <lb ed="#J" n="58"/>Nos autem dicimus quod ex eo, quid 
+             <lb ed="#J" n="59"/>est, aut ex eo, quid non est, fieri, aut 
+             <lb ed="#J" n="60"/>quod non est, aut quid est, facere 
+             <lb ed="#J" n="61"/>aliquid, aut pati, aut quidcunque 
+             <lb ed="#J" n="62"/>hoc fieri, vno. quidem modo nihil 
+             <lb ed="#J" n="63"/>diciturt, autMedicum facere aliquid, aut 
+             <lb ed="#J" n="64"/>pati, aut ex medico esse, aut fieri.
+           </p>
+           
+           <p xml:id="aristdp-d1e48-d1e2676"> <!-- l1-ni-74 -->
+             <lb ed="#J" n="30"/>Quare, cum hoc dupliciter di 
+             <lb ed="#J" n="31"/>catur manifestum est quod ex eo, quid 
+             <lb ed="#J" n="32"/>est, &amp; id, quod est, aut facere 
+             ali<lb ed="#J" n="33" break="no"/>quid, aut pati. aedificat igitur 
+             Me<lb ed="#J" n="34" break="no"/>dicus, non secundum quod medicus, sed secundum 
+             <lb ed="#J" n="35"/>quod aedificator: &amp; albus sit, non  
+             <lb ed="#J" n="36"/>quatenus medicus, sed quatenus 
+             <lb ed="#J" n="37"/>niger: medicatur autem, &amp; non 
+             <lb ed="#J" n="38"/>medicus sit, quatenus est 
+             medi<lb ed="#J" n="39" break="no"/>cus, cum autem maximem, propriem dica, 
+             <lb ed="#J" n="40"/>mus medicum facere aliquid, aut pa 
+             <lb ed="#J" n="41"/>ti, aut fieri ex medico, si feius quod me 
+             <lb ed="#J" n="42"/>dicus haec patiatur, aut faciat, 
+             ma<lb ed="#J" n="43" break="no"/>nifestum quod ex non ente fieri, &amp;  
+             <!--Averroes_Physica_JuntSecunda_04-0092.xml-->
+             <cb ed="#J" n="b"/>
+             <lb ed="#J" n="44"/>hoc significat, quatenus non est. 
+             <lb ed="#J" n="45"/>quod illi quidem, non patientes,  
+             <lb ed="#J" n="46"/>aberrauerunt, &amp; propter hanc 
+             <lb ed="#J" n="47"/>ignorantiam tantu in super 
+             igno<lb ed="#J" n="48" break="no"/>rauerunt, quod nihil aliorum 
+             opi<lb ed="#J" n="49" break="no"/>nati sunt fieri, aut esse, sed 
+             aufere<lb ed="#J" n="50" break="no"/>bant omnem generationem. 
+           </p>
+           
+           <p xml:id="aristdp-d1e48-d1e2737"> <!-- l1-ni-75 -->
+             <lb ed="#J" n="61"/>Nos autem &amp; ipsi dicimus fie 
+             <lb ed="#J" n="62"/>ri quidem nihil simpliciter ex 
+             <lb ed="#J" n="63"/>eo, quod non est, sed tamen fieri 
+             <lb ed="#J" n="64"/>ex eo, quod non est, vt secundum 
+             <lb ed="#J" n="65"/>accidens. ex priuatione enim, eue 
+             <lb ed="#J" n="66"/>est per se non ens, non ex eo, quod 
+             <lb ed="#J" n="67"/>inest, fit. Mirabile autem est hoc, 
+             <lb ed="#J" n="68"/>&amp; impossibile sic videt fieri 
+             ali<lb ed="#J" n="69" break="no"/>quid ex eo, quod non est. 
+           </p>
+           
+           <p xml:id="aristdp-d1e48-d1e2762"> <!-- l1-ni-76 -->
+             <lb ed="#J" n="24"/>Similiter autem neque ex eo quod 
+             <lb ed="#J" n="25"/>est, neque id, quod est, fieri, nisi 
+             se<lb ed="#J" n="26" break="no"/>cundum accidens. sic autem &amp; hoc fic 
+             <lb ed="#J" n="27"/>ri eodem modo, vt si ex 
+             animali<lb ed="#J" n="28" break="no"/>animal vtique siat, &amp;, si ex quodam 
+             <lb ed="#J" n="29"/>animali quoddam animal, vt si 
+             <lb ed="#J" n="30"/>canis ex equo fiat. fiet enim non 
+             so<lb ed="#J" n="31" break="no"/>lum ex quodam animali canis, sed 
+             <lb ed="#J" n="32"/>etiam ex animali, at non quatenus 
+             <lb ed="#J" n="33"/>est animal, est enim iam hoc. si autem 
+             <lb ed="#J" n="34"/>aliquid debet fieri animal, non se 
+             <lb ed="#J" n="35"/>cundum accidens, non ex 
+             ani<lb ed="#J" n="36" break="no"/>mali erit. 
+           </p>
+           
+           <p xml:id="aristdp-d1e48-d1e2802"> <!-- l1-ni-77 -->
+             <lb ed="#J" n="8"/>Et si aliquid sit, non ex eo, quid 
+             <lb ed="#J" n="9"/>est. neque ex eo, quod non est. quod 
+             <lb ed="#J" n="10"/>enim ex eo, quod non est, dictum 
+             <lb ed="#J" n="11"/>est nobis quid significet, quod 
+             qua<lb ed="#J" n="12" break="no"/>tenus non est. Amplius autem &amp;  
+             <lb ed="#J" n="13"/>esse omne, aut non esse non 
+             re<lb ed="#J" n="14" break="no"/>mouemus. 
+           </p>
+           
+           <p xml:id="aristdp-d1e48-d1e2819"> <!-- l1-ni-78 -->
+             <!--Averroes_Physica_JuntSecunda_04-0095.xml-->
+             <cb ed="#J" n="b"/>
+             <lb ed="#J" n="42"/>Vnus igitur modus hic est 
+             <lb ed="#J" n="43"/>Alius autem quod contingit eadem dice 
+             <lb ed="#J" n="44"/>re secundum potentiam, et actum. hoc 
+             <lb ed="#J" n="45"/>autem in aliis determinatum est 
+             <lb ed="#J" n="46"/>cum diligentia magis. Quare, quid 
+             <lb ed="#J" n="47"/>quidem dicebamus, dubitationes 
+             <lb ed="#J" n="48"/>soluuntur, propter quas coacti 
+             <lb ed="#J" n="49"/>remouent dictorum quaedam. 
+             <lb ed="#J" n="50"/>propter hoc enim tantum auersi sunt 
+             <lb ed="#J" n="51"/>Priores a via in generationem, 
+             <lb ed="#J" n="52"/>&amp; corruptionem, &amp; omnino muta 
+             <lb ed="#J" n="53"/>tionem, haec enim visa natura 
+             <lb ed="#J" n="54"/>omnem soluit hanc ipsorum igno 
+             <lb ed="#J" n="55"/>rantiam. 
+           </p>
+           
+           <p xml:id="aristdp-d1e48-d1e285Y"> <!-- l1-ni-79 -->
+             <lb ed="#J" n="41"/>Tangentes igitur &amp; alii 
+             qui<lb ed="#J" n="42" break="no"/>dam fuerunt ipsam, sed non suffi 
+             <lb ed="#J" n="43"/>cienter. Primum enim confiten 
+             <!--Averroes_Physica_JuntSecunda_04-0096.xml-->
+             <cb ed="#J" n="b"/>
+             <lb ed="#J" n="44"/>tur simpliciter fieri aliquid ex I 
+             <lb ed="#J" n="45"/>eo, quod non est, quo 
+             Parmeni<lb ed="#J" n="46" break="no"/>dem rectem dicere. postea videtur 
+             ip<lb ed="#J" n="47" break="no"/>sis, si quidem est numero vna, &amp;  
+             <lb ed="#J" n="48"/>potentia tantdum esse: hoc autem differt 
+             <lb ed="#J" n="49"/>plurimum. Nos enim materiam, &amp;  
+             <lb ed="#J" n="50"/>priuationem alterum esse dicimus:  
+             <lb ed="#J" n="51"/>&amp; horum, materiam quidem non  
+             <lb ed="#J" n="52"/>ens esse secundum accidens, priuationem, 
+             <lb ed="#J" n="53"/>autem per se: &amp; materiam quidem pro 
+             <lb ed="#J" n="54"/>pe, &amp; quodammodo substantiam, 
+             <lb ed="#J" n="55"/>priuationem autem nequaquam¬ 
+           </p>
+           
+           <p xml:id="aristdp-d1e48-d1e2859"> <!-- l1-ni-80 -->
+             <lb ed="#J" n="54"/>Quidam autem quod non est magnum 
+             <lb ed="#J" n="55"/>&amp; paruum similter, aut simul 
+             vtrum<lb ed="#J" n="56" break="no"/>que, aut scorsum vtrumque, quare 
+             <lb ed="#J" n="57"/>penitus alter est modus hic trinit 
+             <lb ed="#J" n="58"/>tis, et ille. hucusque enim processerunt, 
+             <lb ed="#J" n="59"/>quod oportet quandam supponi 
+             natu<lb ed="#J" n="60" break="no"/>ram: hanc tamen vnam faciunt. etenim, 
+             <lb ed="#J" n="61"/>si aliquis dualitatem facit, dicens 
+             <lb ed="#J" n="62"/>magnum, &amp; paruum ipsam, non 
+             mi<lb ed="#J" n="63" break="no"/>nus idem facit. alteram enim despexit. 
+             <lb ed="#J" n="64"/>permanens enim cum forma causa est 
+             <lb ed="#J" n="65"/>eorum, quae fiunt, sicut mater: 
+             al<lb ed="#J" n="66" break="no"/>tera verom pars contrarietatis, 
+             se<lb ed="#J" n="67" break="no"/>pe per imaginationem videbitur 
+             <lb ed="#J" n="68"/>ad maleficium ipsius intendenti 
+             <lb ed="#J" n="69"/>intellectum, neque esse penitus. 
+           </p>
+           
+           <p xml:id="aristdp-d1e48-d1e2915"> <!-- l1-ni-81 -->
+             <lb ed="#J" n="77"/>Existente enim quodam diuino, 
+             <lb ed="#J" n="78"/>&amp; bono, &amp; appetibili, aliud qui 
+             <lb ed="#J" n="79"/>dem contrarium ipsi dicimus 
+             <lb ed="#J" n="80"/>esse, aliud autem, quod natura aptum 
+             <lb ed="#J" n="81"/>est appetere, &amp; desyderare ipm 
+             <lb ed="#J" n="82"/>secundum suam ipsius naturam. 
+             qbus<lb ed="#J" n="83" break="no"/>dam autem accidit contrarium appe 
+             <lb ed="#J" n="84"/>tere suam ipsius corruptionem. 
+             <lb ed="#J" n="85"/>attamen neque ipsum suam ipsius 
+             <!--Averroes_Physica_JuntSecunda_04-0099.xml-->
+             <pb ed="#J" n="46-r"/>
+             <cb ed="#J" n="a"/>
+             <lb ed="#J" n="1"/>possibile est appetere formam, 
+             <lb ed="#J" n="2"/>propterea quod non est indigens, neque 
+             <lb ed="#J" n="3"/>contrarium, corriiptiua enim sunt 
+             <lb ed="#J" n="4"/>suiinuicem contraria: sed hoc est 
+             <lb ed="#J" n="5"/>materia, sicut si foemina 
+             mascu<lb ed="#J" n="6" break="no"/>sum, &amp; turpe pulchrum: verum non  
+             <lb ed="#J" n="7"/>per se turpe, sed secundum accidens: neque 
+             <lb ed="#J" n="8"/>foemina, sed secundum accidens, 
+           </p>
+           
+           <!--<p>
+             <lb ed="#J" n="9"/>De incorruptibilitate materiae, &amp; quod  
+             <lb ed="#J" n="10"/>est ingenita. Cap. 3.
+           </p>-->
+           <p xml:id="aristdp-d1e48-d1e2954"> <!-- l1-ni-82 -->
+             <lb ed="#J" n="11"/>COrrumpitur autem, &amp; fit, est 
+             <lb ed="#J" n="12"/>quidem vt sic, est autem, vt 
+             <lb ed="#J" n="13"/>non quatenus enim est, id  
+             <lb ed="#J" n="14"/>in quo, secundum se corrumpitur, quod 
+             <lb ed="#J" n="15"/>enim corrumpitur in hoc est pri 
+             <lb ed="#J" n="16"/>uatio: quatenus autem secundum poten 
+             <lb ed="#J" n="17"/>tiam, non per se, sed 
+             incorrupti<lb ed="#J" n="18" break="no"/>bilem, &amp; ingenitam, necesse est ip 
+             <lb ed="#J" n="19"/>sam esse. si enim fiat, subfici 
+             ali<lb ed="#J" n="20" break="no"/>quid oportet primum, ex quo 
+             in<lb ed="#J" n="21" break="no"/>existente fiat: hoc autem est ipsius 
+             <lb ed="#J" n="22"/>natura: quare erit, antequam fiat. 
+             <lb ed="#J" n="23"/>lico enim Materiam, primum 
+             <lb ed="#J" n="24"/>subiectum vniuscuiusque, ex quo 
+             <lb ed="#J" n="25"/>fit aliquid, cum insit, non secundum 
+             acci<lb ed="#J" n="26" break="no"/>dens, &amp;, si corrumpitur aliquid, in 
+             <lb ed="#J" n="27"/>hoc abibit vltimum: quare 
+             corru<lb ed="#J" n="28" break="no"/>pta erit, anteque corrumpatur. 
+           </p>
+           <p xml:id="aristdp-d1e48-d1e2999"> <!-- l1-ni-83 -->
+             <lb ed="#J" n="40"/>De principio autem secundum 
+             for<lb ed="#J" n="41" break="no"/>mam, vtrum vnum, an plura, &amp;  
+             <lb ed="#J" n="42"/>quot, aut quae sunt cum diligentia 
+             <lb ed="#J" n="43"/>primae Philo sophiae opus est de 
+             <!--Averroes_Physica_JuntSecunda_04-0101.xml-->
+             <cb ed="#J" n="b"/>
+             <lb ed="#J" n="44"/>terminare. quapropter in illud 
+             <lb ed="#J" n="45"/>tempus reponatur. de Physicis 
+             au<lb ed="#J" n="46" break="no"/>tem, &amp; corruptibilibus formis 
+             <lb ed="#J" n="47"/>in posterius demonstrandis dice 
+             <lb ed="#J" n="48"/>mus. Quod igitur sint principia, 
+             <lb ed="#J" n="49"/>&amp; quae, &amp; quot numero 
+             determi<lb ed="#J" n="50" break="no"/>natum sic a nobis sit. Rursus autem, 
+             <lb ed="#J" n="51"/>aliud pricipium capientes, dicamus 
+           </p>
+         </div>
+      </body>
+   </text>
+</TEI>

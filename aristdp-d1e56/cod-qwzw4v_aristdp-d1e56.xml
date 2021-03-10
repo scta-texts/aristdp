@@ -25,7 +25,7 @@
          </publicationStmt>
          <sourceDesc>
             <listWit>
-               <witness xml:id="J" n="cod-qwzw4v">Juntina, Venice 1562</witness>
+               <witness xml:id="J" n="cod-qwzw4v">Juntina, Venice 1562</witness><!-- italic text -->
             </listWit>
          </sourceDesc>
       </fileDesc>
@@ -520,8 +520,7 @@
       <lb ed="#J" n="76"/>statua: sed non eodem modo sunt cau 
       <lb ed="#J" n="77"/>sae: sed hoc secundum materia, hoc 
       au<lb ed="#J" n="78" break="no"/>te secudum quod est pricipiu motus.
-    </p>
-            <p xml:id="aristdp-d1e56-d1e1105"><!-- l2-i-30 -->
+    
       <!--Averroes_Physica_JuntSecunda_04-0128.xml-->
                <pb ed="#J" n="60-v"/>
                <cb ed="#J" n="a"/>
@@ -736,22 +735,18 @@
       <lb ed="#J" n="63"/>alio modo. &amp; dicit in membris 
       ani<lb ed="#J" n="64" break="no"/>malium plura accidunt casu. 
       </p>
-            <p xml:id="aristdp-d1e56-d1e1563"><!-- l2-i-44 -->
-               <lb ed="#J" n="50"/>Vult destruere sermonem dicen 
-      <lb ed="#J" n="51"/>tium quod Casus est cam vltima omnium, &amp;  
-      <lb ed="#J" n="52"/>incoepit inducere inopinabile 
-      con<lb ed="#J" n="53" break="no"/>tingens istis, &amp; est hoc, quod ponunt cau 
-      <lb ed="#J" n="54"/>sas coeli, &amp; omnium entium casum, &amp; ex 
-      <lb ed="#J" n="55"/>se, &amp; dixit: Et quidam alii, &amp;c. D.
-      in<lb ed="#J" n="56" break="no"/>duxit illud, ex quo contingit hoc, &amp;  
-      <lb ed="#J" n="57"/>dixit: dicunt enim &amp;c. i. quoniam, cum posue 
-      <lb ed="#J" n="58"/>runt quod ex se, &amp; casu fuit reuolutio 
-      <lb ed="#J" n="59"/>corporis coelestis, &amp;motus, qui largi 
-      <lb ed="#J" n="60"/>tur aliis entibus ordinem contingit 
-      <lb ed="#J" n="61"/>eis, vt omnes causae inueniantur in eis ex 
-      <lb ed="#J" n="62"/>casu, quod enim inuenitur ex illo, quod 
-      iue<lb ed="#J" n="63" break="no"/>nitur ex casu, inuenitur ex casu 
-      </p>
+           <p xml:id="aristdp-d1e56-d1e1563"><!-- l2-i-44-->
+             <!--Averroes_Physica_JuntSecunda_04-0137.xml-->
+             <cb ed="#J" n="b"/>
+             <lb ed="#J" n="44"/>Et quidam alu posuerunt 
+             cau<lb ed="#J" n="45" break="no"/>sam istius coeli, &amp; omnium 
+             mun<lb ed="#J" n="46" break="no"/>danorum ex se. dixerunt. enim quod  
+             <lb ed="#J" n="47"/>ex se fuit ex circulo motus, qui 
+             di<lb ed="#J" n="48" break="no"/>stinxit, &amp; constit uit: totum secun 
+             <lb ed="#J" n="49"/>dum hunc ordinem. 
+           </p>
+           
+           
             <p xml:id="aristdp-d1e56-d1e1597"><!-- l2-i-45 -->
                <lb ed="#J" n="76"/>Et hoc ipsum est mirabile scilicet di 
       <lb ed="#J" n="77"/>cere in animalibus, &amp; vegetabili 
@@ -1100,6 +1095,18 @@
       <lb ed="#J" n="28"/>ctus, &amp; natura sint duae eamae prius 
       <lb ed="#J" n="29"/>coeli, &amp; aliarum rerum. 
       </p>
+           <p xml:id="aristdp-d1e56-d1e233Y"><!--  l2-i-68 -->
+             <lb ed="#J" n="47"/>Et manifestum est quod hae sut 
+             <lb ed="#J" n="48"/>causae existentes, &amp; quod sunt tot, 
+             <lb ed="#J" n="49"/>quot diximus, quod enim per quare 
+             con<lb ed="#J" n="50" break="no"/>tinet istum numerum. Quare enim 
+             <lb ed="#J" n="51"/>aut reducitur ad quid est res, &amp;  
+             <lb ed="#J" n="52"/>est vltimum eorum, adquie reducitur, 
+             <lb ed="#J" n="53"/>in rebus immobilibus. v. g. in 
+             Ma<lb ed="#J" n="54" break="no"/>thematicis. non enim reducuntur, nisi 
+             <lb ed="#J" n="55"/>ad definitionem recti, aut simetri, 
+             <lb ed="#J" n="56"/>aut ad aliud ab istis. 
+           </p>
             <p xml:id="aristdp-d1e56-d1e2338"><!-- l2-i-69 -->
                <lb ed="#J" n="17"/>Aut reducitur ad primum 
       mo<lb ed="#J" n="18" break="no"/>torem. v. g. quare pugnatus dicetur, 

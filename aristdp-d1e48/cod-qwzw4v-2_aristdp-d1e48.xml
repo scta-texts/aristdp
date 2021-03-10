@@ -63,7 +63,7 @@
            <p xml:id="aristdp-d1e48-d1e108"> <!-- l1-ni-1 --> <!-- ni=non-italic; possibly antiqua translation -->
              <lb ed="#J" n="2"/>Voniam 
              cogno<lb ed="#J" n="3" break="no"/>scere, ac scitur com 
-             <lb ed="#J" n="4"/>tigit circa omnes 
+             <lb ed="#J" n="4" break="no"/>tigit circa omnes 
              <lb ed="#J" n="5"/>methodos, quae 
              <lb ed="#J" n="6"/>rum sunt princi 
              <lb ed="#J" n="7"/>pia, aut causae, 

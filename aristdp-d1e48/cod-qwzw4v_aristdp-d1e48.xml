@@ -199,9 +199,43 @@
       se<lb ed="#J" n="49" break="no"/>cundum abscis sionem, Oeometer 
       <lb ed="#J" n="50"/>habet ei contradicere: quae autem 
       <lb ed="#J" n="51"/>fit secundum Antiphontem, non  
-      <lb ed="#J" n="52"/>habet Ceometer. 
+      <lb ed="#J" n="52"/>habet Geometer. 
       <!--Averroes_Physica_JuntSecunda_04-0029.xml-->
   </p>
+           <p xml:id="aristdp-d1e48-d1e420">
+             <!-- temporary home for this figure; not sure it should be here in Averroes text -->
+             <lb ed="#P" n="53" type="fixed=10-v"/>
+             <figure xml:id="aristdp-d1e48-Fd1e426">
+               <graphic url="https://loris2.scta.info/cod-qwzw4v/10v/545,3276,2605,1607/full/0/default.jpg"/>
+               <ab type="figure-details">
+                 <seg type="figure-text">Hippocratis Chii Tetragonis E C A D G D F</seg>
+                 <seg type="figure-ideas"/>
+                 <seg type="transkribus-id">570401-23567892-region_1652959180663_903</seg>
+               </ab>
+               <figDesc/>
+             </figure>
+             <lb ed="#P" n="23" type="fixed=11-r"/>
+             <figure xml:id="aristdp-d1e48-Fd1e446">
+               <graphic url="https://loris2.scta.info/cod-qwzw4v/11r/889,365,1729,1612/full/0/default.jpg"/>
+               <ab type="figure-details">
+                 <seg type="figure-text">Brissonis Tetragonismus</seg>
+                 <seg type="figure-ideas"/>
+                 <seg type="transkribus-id">570401-23567893-region_1652959825433_962</seg>
+               </ab>
+               <figDesc/>
+             </figure>
+             <lb ed="#P" n="24" type="fixed=11-r"/>
+             <figure xml:id="aristdp-d1e48-Fd1e467">
+               <graphic url="https://loris2.scta.info/cod-qwzw4v/11r/879,1984,1713,1559/full/0/default.jpg"/>
+               <ab type="figure-details">
+                 <seg type="figure-text">Tetragonismus Antiphontis</seg>
+                 <seg type="figure-ideas"/>
+                 <seg type="transkribus-id">570401-23567893-region_1652959831327_965</seg>
+               </ab>
+               <figDesc/>
+             </figure>
+           </p>
+           
             <p xml:id="aristdp-d1e48-d1e425"><!-- l1-i-12 -->
               <lb ed="#J" n="57" type="fixed=11-v"/>Sed quia accidit quod sermo eo 
       <lb ed="#J" n="58"/>rum est de natura, &amp; si dubitatio 
@@ -270,7 +304,7 @@
       vi<lb ed="#J" n="73" break="no"/>num. &amp; merum. 
       </p>
             <p xml:id="aristdp-d1e48-d1e608"><!-- l1-i-17 -->
-              <lb ed="#J" n="25"  type="fixed=13-v"/>Et si per continuum ens est vnu, 
+              <lb ed="#J" n="25" type="fixed=13-v"/>Et si per continuum ens est vnu, 
       <lb ed="#J" n="26"/>&amp; multum: continuum enim 
       diuidi<lb ed="#J" n="27" break="no"/>tur in infinitum. Sed est quaestio 
       <lb ed="#J" n="28"/>de parte, &amp; toto: &amp; si non 
@@ -285,7 +319,7 @@
       <lb ed="#J" n="37"/>cum quibusdam. 
       </p>
             <p xml:id="aristdp-d1e48-d1e640"><!-- l1-i-18 -->
-              <lb ed="#J" n="13"  type="fixed=14-r"/>Et, si totum fuerit vnum, ita quod  
+              <lb ed="#J" n="13" type="fixed=14-r"/>Et, si totum fuerit vnum, ita quod  
       <lb ed="#J" n="14"/>sit indiuisibile, tunc non erit quan 
       <lb ed="#J" n="15" break="no"/>tum, aut quale. Et et ens non erit 
       <lb ed="#J" n="16"/>infinitum, vt dicit Melissus, neque,  
@@ -293,7 +327,7 @@
       <lb ed="#J" n="18"/>sibile enim est finis, non finitum.
   </p>
             <p xml:id="aristdp-d1e48-d1e657"><!-- l1-i-19 -->
-              <lb ed="#J" n="56"  type="fixed=14-r"/>Et, si omnia entia fuerint vnum secu 
+              <lb ed="#J" n="56" type="fixed=14-r"/>Et, si omnia entia fuerint vnum secu 
       <lb ed="#J" n="57"/>dum ronem, vt vestis, &amp; tunica, 
       <lb ed="#J" n="58"/>continget eis dicere quod Heracli 
       <lb ed="#J" n="59"/>tus dicit. esse enim erit boni, &amp; 
@@ -308,7 +342,7 @@
       <lb ed="#J" n="68"/>surae, i. quantitatis eadem intentio. 
       </p>
             <p xml:id="aristdp-d1e48-d1e689"><!-- l1-i-20 -->
-              <lb ed="#J" n="47"  type="fixed=14-v"/>Et posteriores Antiquorum ti 
+              <lb ed="#J" n="47" type="fixed=14-v"/>Et posteriores Antiquorum ti 
       <lb ed="#J" n="48"/>muerunt ne contingeret eis idem 
       <lb ed="#J" n="49"/>esse vnum, &amp; plura insimul. Qua 
       <lb ed="#J" n="50"/>re quidam dimiserunt hoc nomen 
@@ -322,7 +356,7 @@
       <lb ed="#J" n="58"/>faciant de aliquo vno plura. 
       </p>
             <p xml:id="aristdp-d1e48-d1e719"><!-- l1-i-21 -->
-              <lb ed="#J" n="8"  type="fixed=15-r"/>Quasi hoc nomen vnum, et hoc 
+              <lb ed="#J" n="8" type="fixed=15-r"/>Quasi hoc nomen vnum, et hoc 
       <lb ed="#J" n="9"/>nomen ens diceretur singulariter. 
       <lb ed="#J" n="10"/>Sed entia sunt plura: aut 
       secun<lb ed="#J" n="11" break="no"/>dum rationem, quoniam esse albi 
@@ -337,7 +371,7 @@
       con<lb ed="#J" n="20" break="no"/>tradictioe. vnu enimet potentia, etactu. 
       </p>
             <p xml:id="aristdp-d1e48-d1e752"><!-- l1-i-22 -->
-              <lb ed="#J" n="69"  type="fixed=15-r"/>Cum igitur processerint per 
+              <lb ed="#J" n="69" type="fixed=15-r"/>Cum igitur processerint per 
       han<lb ed="#J" n="70" break="no"/>via, apparebit ipossibile eis 
       enti<lb ed="#J" n="71" break="no"/>esse vnu. Et no est et difficile contra. 
       <lb ed="#J" n="72"/>dicere eis ex illo, ex quo nitutur de 
@@ -351,7 +385,7 @@
       <lb ed="#J" n="80"/>monem. et in eo no est difficultas.
   </p>
             <p xml:id="aristdp-d1e48-d1e782"><!-- l1-i-23 -->
-              <lb ed="#J" n="46"  type="fixed=15-v"/>Quoniam aut Melissus peccat in  
+              <lb ed="#J" n="46" type="fixed=15-v"/>Quoniam aut Melissus peccat in  
       <lb ed="#J" n="47"/>sallogismo manifestum est. 
       existi<lb ed="#J" n="48" break="no"/>mat enim quod acceptu est quod, si oe, 
       <lb ed="#J" n="49"/>quod generatur, habet principiu, 
@@ -367,7 +401,7 @@
       <lb ed="#J" n="59"/>transmutatio non fieret subito. 
       </p>
             <p xml:id="aristdp-d1e48-d1e816"><!-- l1-i-24 -->
-              <lb ed="#J" n="63"  type="fixed=16-r"/>Deinde quare est necesse cum fue 
+              <lb ed="#J" n="63" type="fixed=16-r"/>Deinde quare est necesse cum fue 
       <lb ed="#J" n="64"/>rit vnum, vt sit immobiles &amp; quem 
       <lb ed="#J" n="65"/>admodum pars, v.g. istius aquae et 
       <lb ed="#J" n="66"/>pars vna mouetur in suo loco, 
@@ -506,7 +540,7 @@
       <lb ed="#J" n="29"/>uisibiles secundum diuisionem in  
       <lb ed="#J" n="30"/>duas medietates. 
       </p>
-     <p xml:id="aristdp-d1e48-d1e111X" ><!-- l1-i-31 -->
+     <p xml:id="aristdp-d1e48-d1e111X"><!-- l1-i-31 -->
        <lb ed="#J" n="14" type="fixed=20-v"/>Et manifestum est, quod 
        dice<lb ed="#J" n="15" break="no"/>re, quod ens significat vnum, &amp; 
        <lb ed="#J" n="16"/>quod contradictoria non possunt es 
@@ -576,7 +610,7 @@
       <lb ed="#J" n="11"/>tio, &amp; diftinctio. 
       </p>
             <p xml:id="aristdp-d1e48-d1e1223"><!-- l1-i-34 -->
-              <lb ed="#J" n="57"  type="fixed=22-r"/>Et etiam, si alterum contrariorum 
+              <lb ed="#J" n="57" type="fixed=22-r"/>Et etiam, si alterum contrariorum 
       <lb ed="#J" n="58"/>generatur ex reliquo. Quonia, quia 
       <lb ed="#J" n="59"/>se generatum necesse est vt genera 
       <lb ed="#J" n="60"/>tio eius sit ex rebus entibus, aut ex 
@@ -625,7 +659,7 @@
            </p>
            
             <p xml:id="aristdp-d1e48-d1e1288"><!-- l1-i-36 -->
-              <lb ed="#J" n="63"  type="fixed=23-v"/>Et etiam illud, cuius pars potest 
+              <lb ed="#J" n="63" type="fixed=23-v"/>Et etiam illud, cuius pars potest 
       <lb ed="#J" n="64"/>esse cuiuslibet mensurae posita in  
       <lb ed="#J" n="65"/>magnitudine, aut in paruitate, ne 
       <lb ed="#J" n="66"/>cesse est vt illud etiam possit hoc. 
@@ -647,7 +681,7 @@
       <lb ed="#J" n="82"/>magnitudine, aut in paruitate. 
   </p>
            <p xml:id="aristdp-d1e48-d1e133B"><!-- l1-i-37 -->
-             <lb ed="#J" n="14"  type="fixed=24-v"/>Et etiam, si omnia ista genera, 
+             <lb ed="#J" n="14" type="fixed=24-v"/>Et etiam, si omnia ista genera, 
              <lb ed="#J" n="15"/>et similia sunt omnia existentia, 
              <lb ed="#J" n="16"/>aut quaedam in quibusdam, et non 
              <lb ed="#J" n="17"/>generantur, sed dissoluuntur, &amp;  
@@ -680,7 +714,7 @@
            </p>
            
             <p xml:id="aristdp-d1e48-d1e1335"><!-- l1-i-38 -->
-              <lb ed="#J" n="59"  type="fixed=25-r"/>Et cum hoc, si esse corpus, quado 
+              <lb ed="#J" n="59" type="fixed=25-r"/>Et cum hoc, si esse corpus, quado 
       <lb ed="#J" n="60"/>ex eo diminuitur aliqua pars, 
       ne<lb ed="#J" n="61" break="no"/>cessario fit minus: &amp; quatitas car 
       <lb ed="#J" n="62"/>nis est terminata in magnitudine, 
@@ -697,7 +731,7 @@
       <lb ed="#J" n="73"/>extra rationem. 
       </p>
             <p xml:id="aristdp-d1e48-d1e1371"><!-- l1-i-39 -->
-              <lb ed="#J" n="52"  type="fixed=25-v"/>Hoc autem, quod dixit, quod 
+              <lb ed="#J" n="52" type="fixed=25-v"/>Hoc autem, quod dixit, quod 
       <lb ed="#J" n="53"/>res nunquam distinguentur, est ser 
       <lb ed="#J" n="54"/>mo sine discretione, sed est verus. 
       <lb ed="#J" n="55"/>passiones enim sunt 
@@ -718,7 +752,7 @@
       insepa<lb ed="#J" n="70" break="no"/>rabiles. 
       </p>
             <p xml:id="aristdp-d1e48-d1e1416"><!-- l1-i-40 -->
-              <lb ed="#J" n="74"  type="fixed=26-r"/>Neque, etiam recte dixit in hoc:, 
+              <lb ed="#J" n="74" type="fixed=26-r"/>Neque, etiam recte dixit in hoc:, 
       <lb ed="#J" n="75"/>quod attribuit generationem 
       conue<lb ed="#J" n="76" break="no"/>nientibus in forma. est enim generatio 
       <lb ed="#J" n="77"/>secundu modu, secundum quem vnum 
@@ -731,7 +765,7 @@
       vi<lb ed="#J" n="84" break="no"/>detur generari ex reliquo.
   </p>
            <p xml:id="aristdp-d1e48-d1e144Q"> <!-- l1-i-41 -->
-             <lb ed="#J" n="55"  type="fixed=26-v"/>Et melius est accipere principia, 
+             <lb ed="#J" n="55" type="fixed=26-v"/>Et melius est accipere principia, 
              <lb ed="#J" n="56"/>finita, sicut fecit Emped. Et oes po 
              <lb ed="#J" n="57"/>nunt principia cotraria, qui dicut, 
              <lb ed="#J" n="58"/>quod totum est vnu, &amp; 
@@ -755,7 +789,7 @@
            
            
             <p xml:id="aristdp-d1e48-d1e1443"><!-- l1-i-42 -->
-              <lb ed="#J" n="7"  type="fixed=27-v"/>Manifestum est igitur, quod  
+              <lb ed="#J" n="7" type="fixed=27-v"/>Manifestum est igitur, quod  
       <lb ed="#J" n="8"/>omnes ponunt principia contraria quo 
       <lb ed="#J" n="9"/>quomodo. Necesse est enim vt 
       princi<lb ed="#J" n="10" break="no"/>pia non generentur ex inuicem, ne 
@@ -1193,7 +1227,7 @@
       <lb ed="#J" n="22"/>aurum est subiectum. 
       </p>
             <p xml:id="aristdp-d1e48-d1e2378"><!-- l1-i-65 -->
-              <lb ed="#J" n="77"  type="fixed=38-v"/>Manifestum est igitur quod, si 
+              <lb ed="#J" n="77" type="fixed=38-v"/>Manifestum est igitur quod, si 
       <lb ed="#J" n="78"/>causae, et principia existentia 
       na<lb ed="#J" n="79" break="no"/>turaliter sunt illa, ex quibus 
       pri<lb ed="#J" n="80" break="no"/>mo sunt, aut generantur non 
@@ -1212,7 +1246,7 @@
       <lb ed="#J" n="8"/>definitiones.
   </p>
             <p xml:id="aristdp-d1e48-d1e2418"><!-- l1-i-66 -->
-              <lb ed="#J" n="62"  type="fixed=39-r"/>Declaratum est igitur quod ge 
+              <lb ed="#J" n="62" type="fixed=39-r"/>Declaratum est igitur quod ge 
       <lb ed="#J" n="63"/>neratio cuiuslibet, quod generatur 
       <lb ed="#J" n="64"/>est ex istis duobus. sed subiectum 
       <lb ed="#J" n="65"/>in numero vero est vnum, in 
@@ -1228,7 +1262,7 @@
       <lb ed="#J" n="75"/>quae praedicantur hoc modo.  
       </p>
             <p xml:id="aristdp-d1e48-d1e2452"><!-- l1-i-67 -->
-              <lb ed="#J" n="63"  type="fixed=39-v"/>Et ideo potest quis dicere 
+              <lb ed="#J" n="63" type="fixed=39-v"/>Et ideo potest quis dicere 
       princi<lb ed="#J" n="64" break="no"/>pia esse duo, et pot dicere esse tria, 
       <lb ed="#J" n="65"/>&amp; potest dicere ea esse contraria. 
       <lb ed="#J" n="66"/>N.g. musicum &amp; non musicum, 
@@ -1251,7 +1285,7 @@
   </p>
            
            <p xml:id="aristdp-d1e48-d1e250P"><!-- l1-i-68 -->
-             <lb ed="#J" n="57"  type="fixed=40-r"/>Iam igitur diximus quot sunt 
+             <lb ed="#J" n="57" type="fixed=40-r"/>Iam igitur diximus quot sunt 
              <lb ed="#J" n="58"/>principia rerum generabilium, &amp; vn 
              <lb ed="#J" n="59"/>de sunt tot. Et e declaratu quod 
              com<lb ed="#J" n="60" break="no"/>traria debent habere subiectu, &amp;  

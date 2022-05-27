@@ -206,7 +206,7 @@
              <!-- temporary home for this figure; not sure it should be here in Averroes text -->
              <lb ed="#P" n="53" type="fixed=10-v"/>
              <figure xml:id="aristdp-d1e48-Fd1e426">
-               <graphic url="https://loris2.scta.info/cod-qwzw4v/10v.jpg/545,3276,2605,1607/full/0/default.jpg"/>
+               <graphic url="https://loris2.scta.info/cod-qwzw4v/10v.jpg/215,1293,1028,634/full/0/default.jpg"/>
                <ab type="figure-details">
                  <seg type="figure-text">Hippocratis Chii Tetragonis E C A D G D F</seg>
                  <seg type="figure-ideas"/>
@@ -216,7 +216,7 @@
              </figure>
              <lb ed="#P" n="23" type="fixed=11-r"/>
              <figure xml:id="aristdp-d1e48-Fd1e446">
-               <graphic url="https://loris2.scta.info/cod-qwzw4v/11r.jpg/889,365,1729,1612/full/0/default.jpg"/>
+               <graphic url="https://loris2.scta.info/cod-qwzw4v/11r.jpg/351,144,682,636/full/0/default.jpg"/>
                <ab type="figure-details">
                  <seg type="figure-text">Brissonis Tetragonismus</seg>
                  <seg type="figure-ideas"/>
@@ -226,7 +226,7 @@
              </figure>
              <lb ed="#P" n="24" type="fixed=11-r"/>
              <figure xml:id="aristdp-d1e48-Fd1e467">
-               <graphic url="https://loris2.scta.info/cod-qwzw4v/11r.jpg/879,1984,1713,1559/full/0/default.jpg"/>
+               <graphic url="https://loris2.scta.info/cod-qwzw4v/11r.jpg/347,783,676,615/full/0/default.jpg"/>
                <ab type="figure-details">
                  <seg type="figure-text">Tetragonismus Antiphontis</seg>
                  <seg type="figure-ideas"/>
